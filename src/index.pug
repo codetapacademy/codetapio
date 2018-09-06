@@ -1,15 +1,18 @@
 doctype html
-html(lang=config.lang)
+- 
+  const { lang } = config;
+  const { website } = data.content;
+html(lang=lang)
   head
-    title Welcome to Pug Starter
-    meta(content="Simple pug (jade) starter aimed to quickly deliver HTML & CSS projects" name="description")
+    title= website.title[lang]
+    meta(content= website.description[lang] name="description")
     //- this checks to see the the "embed" property is set to "true"
     //- in the package.json file
     if config.entry.css.embed
       link(rel="stylesheet" href=`${embedPath}` inline)
   body
-    h1 Welcome to pug-starter! #{config.lang} :)
-    p This is a barebone setup.
+    h1= website.title[lang]
+    p= website.description[lang]
     p You are currently on master branch.
     p If you want to see a full example of what pug starter offers out of the box use:
     p 

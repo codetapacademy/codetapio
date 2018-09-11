@@ -11,7 +11,7 @@ html(lang=lang)
     if config.entry.css.embed
       link(rel="stylesheet" href=`${embedPath}` inline)
   body
-    h1= website.title[lang]
+    include _component/content/content
 
 if config.entry.css.external
   link(rel="stylesheet", href=`${baseUrl}/style.css`)

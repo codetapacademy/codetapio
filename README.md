@@ -10,3 +10,6 @@ The project will be built on top of **Pug Starter** which can be found at https:
 It's one of the easiest ways to bootstrap a web site and the end product will be very search engine friendly as well as extremely quick to load. I'm pretty sure visitors will be happy about it.
 
 The website content will receive rarely updates to most of its content and quite often updates to the questions section. All the content will be prerendered and ready to be server to the browser.
+
+## Requirement source files
+You can find the requirement source files at https://github.com/codetapio/codetapio-requirement

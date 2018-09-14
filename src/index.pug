@@ -6,6 +6,10 @@ html(lang=lang)
   head
     title= website.title[lang]
     meta(content= website.description[lang] name="description")
+    meta(
+      name="viewport" 
+      content="initial-scale=1.0, user-scalable=no"
+    )
     //- this checks to see the the "embed" property is set to "true"
     //- in the package.json file
     if config.entry.css.embed

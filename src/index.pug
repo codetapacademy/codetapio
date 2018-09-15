@@ -16,6 +16,7 @@ html(lang=lang)
       link(rel="stylesheet" href=`${embedPath}` inline)
   body
     include _component/content/content
+    include _component/menu/menu
 
 if config.entry.css.external
   link(rel="stylesheet", href=`${baseUrl}/style.css`)

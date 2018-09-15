@@ -2,22 +2,29 @@ $toggle-button-height: 36px
 $toggle-button-border-radius: 8px
 $toggle-button-wrapper-width: 200px
 
-.toggle-button__wrapper
+.toggle-button__wrapper,
+.toggle-button__background
+  position: relative
   width: $toggle-button-wrapper-width
   height: $toggle-button-height
-  position: relative
   margin: $toggle-button-height auto 0
-  background-image: linear-gradient($color-loblolly-light, $color-loblolly-normal)
-  border-radius: $toggle-button-border-radius
+
+.toggle-button__background
+
+  &:after,
   &:before
-    z-index: -1
-    border-radius: $toggle-button-border-radius
-    position: absolute
-    content: ''
-    top: -1px
-    left: 0
+    // shared style between after and before
     width: $toggle-button-wrapper-width
+    content: ''
     height: $toggle-button-height
+    position: absolute
+    border-radius: $toggle-button-border-radius
+
+  &:after
+    background-image: linear-gradient($color-loblolly-light, $color-loblolly-normal)
+
+  &:before
+    top: -1px
     background-color: $color-cape-cod
 
 .toggle-button__slider
@@ -47,6 +54,7 @@ $toggle-button-wrapper-width: 200px
     left: 0
   &:nth-of-type(2)
     right: 0
+
 .toggle-button__radio
   display: none
   &:checked:nth-of-type(1) ~ .toggle-button__slider

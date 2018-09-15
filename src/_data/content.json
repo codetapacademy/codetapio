@@ -8,5 +8,11 @@
             "en": "Start your Odyssey to a Junior Web Developer, shape the digital world and learn that code is the new currency",
             "ro": "Începe călătoria ta către Junior Web Developer, clădește lumea digitală și învață că programarea este noua monedă"
         }
+    },
+    "content": {
+        "menu": {
+            "en": "Menu",
+            "ro": "Meniu"
+        }
     }
 }

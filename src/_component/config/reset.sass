@@ -6,3 +6,11 @@
 html,
 body
   height: 100%
+
+html
+  font-size: 10px
+
+@media screen and (min-width: 320px)
+  html
+    font-size: calc(10px + 12 * ((100vw - 320px) / 768))
+  

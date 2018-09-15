@@ -4,7 +4,7 @@ doctype html
   const { website } = data.content;
 html(lang=lang)
   head
-    title= website.title[lang]
+    title= website.title[lang].replace('<br>', ' ')
     meta(content= website.description[lang] name="description")
     meta(
       name="viewport" 

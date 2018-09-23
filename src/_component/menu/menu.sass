@@ -26,10 +26,23 @@
 div[class^="codetap__icon"]
   color: $color-white
   display: inline-block
-  width: 3.2rem
-  height: 3.2rem
+  width: $square-button-height
+  height: $square-button-height
   display: flex
   font-size: 1.6rem
   justify-content: center
   align-items: center
+  position: relative
 
+  &:before
+    content: ''
+    position: absolute
+    top: 0
+    left: 0
+    right: 0
+    bottom: 0
+    background-color: $color-alizarin-crimson
+    border-radius: $square-button-border-radius
+
+  &:after
+    position: relative

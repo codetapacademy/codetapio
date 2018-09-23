@@ -13,6 +13,57 @@
         "menu": {
             "en": "Menu",
             "ro": "Meniu"
-        }
+        },
+        "menu-list": [
+            {
+                "label": {
+                    "en": "Frequently asked questions",
+                    "ro": "Întrebări frecvente"
+                },
+                "icon": "faq"
+            },
+            {
+                "label": {
+                    "en": "Let`s have a chat",
+                    "ro": "Hai la o mică bărfă"
+                },
+                "icon": "chat"
+            },
+            {
+                "label": {
+                    "en": "One to Hero Course",
+                    "ro": "De la Unu la Erou"
+                },
+                "icon": "one-to-hero"
+            },
+            {
+                "label": {
+                    "en": "Zero to One Course",
+                    "ro": "De la Zero la Unu"
+                },
+                "icon": "zero-to-one"
+            },
+            {
+                "label": {
+                    "en": "Opportunities explained",
+                    "ro": "Cum funcționează treaba"
+                },
+                "icon": "opportunities"
+            },
+            {
+                "label": {
+                    "en": "Who made it so far?",
+                    "ro": "Cine a reușit?"
+                },
+                "icon": "who-made-it"
+            },
+            {
+                "label": {
+                    "en": "From Zero to Hired",
+                    "ro": "De la Zero la Angajat"
+                },
+                "icon": "hired"
+            }
+        ]
     }
 }

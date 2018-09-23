@@ -3,7 +3,13 @@
   position: fixed
   bottom: 0
 
+.menu__list
+
 .menu__label
+  margin-bottom: 0.1rem
+
+.menu__label,
+.menu__label--toggle
   display: flex
   padding: 1.1rem
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1))
@@ -15,8 +21,9 @@
   flex-grow: 1
   color: $color-white
   padding-right: 1.1rem
+  font-family: 'Lato'
 
-.codetap__icon--menu
+div[class^="codetap__icon"]
   color: $color-white
   display: inline-block
   width: 3.2rem

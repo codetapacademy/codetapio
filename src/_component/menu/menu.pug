@@ -3,8 +3,10 @@
     //- pre=JSON.stringify(content['menu-list'], null, 2)
     each menuItem in content['menu-list']
       .menu__label
-        .menu__text= menuItem.label[lang]
-        div(class=`codetap__icon--${menuItem.icon}`)
+        .menu__item
+          .menu__text= menuItem.label[lang]
+          div(class=`codetap__icon--${menuItem.icon}`)
   .menu__label--toggle
-    .menu__text= content.menu[lang]
-    .codetap__icon--menu
+    .menu__item
+      .menu__text= content.menu[lang]
+      .codetap__icon--menu

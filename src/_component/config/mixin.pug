@@ -1,0 +1,9 @@
+mixin inputFrame(optionList)
+  -
+    const {checked = false, id = 0} = optionList || {}
+  input(
+    type="radio"
+    name="frame"
+    id=id
+    checked=checked
+  )

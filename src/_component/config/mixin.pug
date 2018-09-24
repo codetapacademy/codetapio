@@ -1,3 +1,12 @@
+mixin printContent(dataList)
+  //- pre=JSON.stringify(dataList)
+  each data in dataList
+    if data.type == 'h2'
+      h2=data.text[lang]
+    if data.type == 'p'
+      each p in data.text[lang]
+        p=p
+
 mixin inputFrame(optionList)
   -
     const {checked = false, id = 0} = optionList || {}

@@ -1,0 +1,22 @@
+[
+  {
+    "type": "h2",
+    "text": {
+      "en": "This is CodeTap",
+      "ro": "Acesta este CodeTap"
+    }
+  },
+  {
+    "type": "p",
+    "text": {
+      "en": [
+        "Welcome to CodeTap, the place where experts share their life stories so you can jumpstart your Web Developer career taking shortcuts to success.",
+        "Starters get to build websites from day one and learn how to on the job."
+      ],
+      "ro": [
+        "Bine ai venit la CodeTap, locul unde experții își împărtășesc experiența ca tu să-ți poți lansa cariera de Dezvoltator Web folosind scurtături.",
+        "Începătorii vor construi website-uri din prima zi învățând cum din mers."
+      ]
+    }
+  }
+]

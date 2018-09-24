@@ -3,6 +3,7 @@
   .hired
     include ../toggle-button/toggle-button
     h1!= website.title[lang]
+    +printContent(data.hired)
   +inputFrame({id: 'who-made-it'})
   .who-made-it
     h1 who-made-it

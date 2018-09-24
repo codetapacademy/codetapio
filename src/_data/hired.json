@@ -18,5 +18,42 @@
         "Începătorii vor construi website-uri din prima zi învățând cum din mers."
       ]
     }
+  },
+  {
+    "type": "h2",
+    "text": {
+      "en": "Requirements",
+      "ro": "Cerinte"
+    }
+  },
+  {
+    "type": "p",
+    "text": {
+      "en": [
+        "CodeTap offers courses for FREE on YouTube. All you need is a connection to the internet, access to a computer or latop and basic English so you can communicate with others.",
+        "A strong will and determination will be your best friend along the way. If a pain brought you here, like: you're sick of a boring job, you get paid not enough or you don't see a brighter future for you or your loved ones, use this to fuel your oddysey to a Web Developer."
+      ],
+      "ro": [
+        "Text in Romana"
+      ]
+    }
+  },
+  {
+    "type": "h2",
+    "text": {
+      "en": "Great! What's next?",
+      "ro": "Bine! Ce urmează"
+    }
+  },
+  {
+    "type": "p",
+    "text": {
+      "en": [
+        "CodeTap made it easy for you. All you have to do is pay a visit to our CodeTap channel on YouTube by visiting <a href='http://codetap.io/youtube'>CodeTap YouTube Channel</a>"
+      ],
+      "ro": [
+        "Text in Romana"
+      ]
+    }
   }
 ]

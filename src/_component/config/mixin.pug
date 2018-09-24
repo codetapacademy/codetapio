@@ -5,7 +5,7 @@ mixin printContent(dataList)
       h2=data.text[lang]
     if data.type == 'p'
       each p in data.text[lang]
-        p=p
+        p!=p
 
 mixin inputFrame(optionList)
   -

@@ -42,7 +42,7 @@
       "cssExternal": "style**.{scss,sass}",
       "cssEmbed": "embed**.{scss,sass}",
       "css": {
-        "embed": true,
+        "embed": false,
         "external": true
       }
     }

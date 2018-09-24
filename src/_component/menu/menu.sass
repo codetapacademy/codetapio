@@ -5,6 +5,14 @@
 
 .menu__label
   margin-bottom: 0.1rem
+  right: -100%;
+  transition: 0.2s
+
+// add an incremental delay to each of the menu items 
+// to create a nice animation effect
+@for $i from 1 through 8
+  .menu__label:nth-child(#{$i})
+    transition-delay: 0.1 + 0.05s * $i
 
 .menu__label,
 .menu__label--toggle
@@ -77,7 +85,7 @@ div[class^="codetap__icon"]
 .menu__list
   position: relative
   right: -100%
-  transition: 0.2s
+  transition: 0.05s
 
 #menu__toggle
   display: none
@@ -85,3 +93,6 @@ div[class^="codetap__icon"]
 #menu__toggle:checked + .menu__list
   // change a property
   right: 0
+
+  & .menu__label
+    right: 0

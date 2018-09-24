@@ -1,23 +1,23 @@
 .content
-  +inputFrame({checked: true})
+  +inputFrame({checked: true, id: 'hired'})
   .hired
     include ../toggle-button/toggle-button
     h1!= website.title[lang]
-  +inputFrame()
+  +inputFrame({id: 'who-made-it'})
   .who-made-it
     h1 who-made-it
-  +inputFrame()
+  +inputFrame({id: 'opportunities'})
   .opportunities
     h1 opportunities
-  +inputFrame()
+  +inputFrame({id: 'zero-to-one'})
   .zero-to-one
     h1 zero-to-one
-  +inputFrame()
+  +inputFrame({id: 'one-to-hero'})
   .one-to-hero
     h1 one-to-hero
-  +inputFrame()
+  +inputFrame({id: 'chat'})
   .chat
     h1 chat
-  +inputFrame()
+  +inputFrame({id: 'faq'})
   .faq
     h1 faq

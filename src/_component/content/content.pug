@@ -1,3 +1,23 @@
 .content
-  include ../toggle-button/toggle-button
-  h1!= website.title[lang]
+  +inputFrame({checked: true})
+  .hired
+    include ../toggle-button/toggle-button
+    h1!= website.title[lang]
+  +inputFrame()
+  .who-made-it
+    h1 who-made-it
+  +inputFrame()
+  .opportunities
+    h1 opportunities
+  +inputFrame()
+  .zero-to-one
+    h1 zero-to-one
+  +inputFrame()
+  .one-to-hero
+    h1 one-to-hero
+  +inputFrame()
+  .chat
+    h1 chat
+  +inputFrame()
+  .faq
+    h1 faq

@@ -15,6 +15,7 @@ html(lang=lang)
     if config.entry.css.embed
       link(rel="stylesheet" href=`${embedPath}` inline)
   body
+    include _component/config/mixin
     include _component/content/content
     include _component/menu/menu
 

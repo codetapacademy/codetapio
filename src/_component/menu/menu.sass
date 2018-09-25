@@ -87,16 +87,21 @@ div[class^="codetap__icon"]
   &:after
     position: relative
 
+.menu__label--toggle,
+.menu__list
+  transition: 0.2s
+
 .menu__list
   right: -100%
-  transition: 0.2s
-  bottom: 5.4rem
+  bottom: 0
 
   #menu__toggle
 
 #menu__toggle
   display: none
-#menu__toggle:checked + .menu__list
+
+#menu__toggle:checked ~ .menu__label--toggle
+  bottom: -100%;
 
 #menu__toggle:checked + .menu__list
   // change a property

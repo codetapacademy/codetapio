@@ -3,9 +3,17 @@ mixin printContent(dataList)
   each data in dataList
     if data.type == 'h2'
       h2=data.text[lang]
-    if data.type == 'p'
+    else if data.type == 'p'
       each p in data.text[lang]
         p!=p
+    else if data.type == 'ol'
+      ol
+        each li in data.text[lang]
+          li!=li
+    else if data.type == 'ul'
+      ul
+        each li in data.text[lang]
+          li!=li
 
 mixin inputFrame(optionList)
   -

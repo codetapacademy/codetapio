@@ -10,8 +10,8 @@
     "type": "p",
     "text": {
       "en": [
-        "Welcome to CodeTap, the place where experts share their life stories so you can jumpstart your Web Developer career taking shortcuts to success.",
-        "Starters get to build websites from day one and learn how to on the job."
+        "Welcome to CodeTap! Here you master how to build websites and get paid well with or without any knowledge of coding.",
+        "As a starter you get to build websites from day one and learn how to on the while doing it."
       ],
       "ro": [
         "Bine ai venit la CodeTap, locul unde experții își împărtășesc experiența ca tu să-ți poți lansa cariera de Dezvoltator Web folosind scurtături.",
@@ -30,8 +30,9 @@
     "type": "p",
     "text": {
       "en": [
-        "CodeTap offers courses for FREE on YouTube. All you need is a connection to the internet, access to a computer or latop and basic English so you can communicate with others.",
-        "A strong will and determination will be your best friend along the way. If a pain brought you here, like: you're sick of a boring job, you get paid not enough or you don't see a brighter future for you or your loved ones, use this to fuel your oddysey to a Web Developer."
+        "CodeTap offers courses for FREE on YouTube. All you need is a connection to the internet, access to a computer or latop and basic conversational English.",
+        "I guess you have all that as you're reading this.",
+        "A strong will and determination will be your best friend along the way. If a pain brought you here, like: you're sick of a boring job, you get paid not enough or you don't see a brighter future for you or your loved ones, use this to fuel your <em>\"Oddysey to a Web Developer.\"</em>"
       ],
       "ro": [
         "Text in Romana"
@@ -49,7 +50,46 @@
     "type": "p",
     "text": {
       "en": [
-        "CodeTap made it easy for you. All you have to do is pay a visit to our CodeTap channel on YouTube by visiting <a href='http://codetap.io/youtube'>CodeTap YouTube Channel</a>"
+        "CodeTap made it easy for you. All you have to do is pay a visit to our CodeTap channel on YouTube by visiting <a href='http://codetap.io/youtube'>CodeTap YouTube Channel</a>.",
+        "Make sure to hit the <b>Subscribe</b> button to stay up to date with all the FREE lessons and click the bell button too to be notified as soon as we release a new video.",
+        "We are one step into the future as most lessons come in Ultra High Definition 4K and High Frame Rate 60fps to give you the best experience possible.",
+        "Click the PLAYLISTS button and start watching the playlists from older to newer. Follow every move the instructor does and in case you get stuck, use the comments section bellow and harness the power of CodeTap community. Here are the initial recommanded playlists order:"
+      ],
+      "ro": [
+        "Text in Romana"
+      ]
+    }
+  },
+  {
+    "type": "ol",
+    "text": {
+      "en": [
+        "Before we start coding",
+        "everyone can code",
+        "Learn to code like a PRO for beginners",
+        "Your resume online for FREE with HTML5 and CSS3",
+        "Quick Blog",
+        "Boost my website"
+      ],
+      "ro": [
+        "Text in Romana"
+      ]
+    }
+  },
+  {
+    "type": "h2",
+    "text": {
+      "en": "What do I get out of it?",
+      "ro": "Bine! Ce urmează"
+    }
+  },
+  {
+    "type": "p",
+    "text": {
+      "en": [
+        "CodeTap crammed 21 years of web development experience into step by step courses for beginners, building real world projects from scratch.",
+        "You start building websites from day one and you learn while you do it.",
+        "Once you hit the third playlist \"Learn to code like a PRO for beginners\" you'll also have your very first website online that you can share with your friends, family, recruiters or clients."
       ],
       "ro": [
         "Text in Romana"

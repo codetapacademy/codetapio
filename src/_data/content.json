@@ -31,6 +31,13 @@
             },
             {
                 "label": {
+                    "en": "Courses on YouTube",
+                    "ro": "Cursuri pe YouTube"
+                },
+                "icon": "youtube"
+            },
+            {
+                "label": {
                     "en": "One to Hero Course",
                     "ro": "De la Unu la Erou"
                 },
@@ -49,6 +56,13 @@
                     "ro": "Cum funcționează treaba"
                 },
                 "icon": "opportunities"
+            },
+            {
+                "label": {
+                    "en": "Reviews",
+                    "ro": "Referințe"
+                },
+                "icon": "reviews"
             },
             {
                 "label": {

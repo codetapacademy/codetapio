@@ -1,24 +1,37 @@
 .content
+
   +inputFrame({checked: true, id: 'hired'})
   .hired
     include ../toggle-button/toggle-button
     h1!= website.title[lang]
     +printContent(data.hired)
+
+  +inputFrame({id: 'reviews'})
+  .reviews
+    h1 reviews!!!
+    //- include the   review.pug file
+    include ../review/review
+
   +inputFrame({id: 'who-made-it'})
   .who-made-it
     h1 who-made-it
+
   +inputFrame({id: 'opportunities'})
   .opportunities
     h1 opportunities
+
   +inputFrame({id: 'zero-to-one'})
   .zero-to-one
     h1 zero-to-one
+
   +inputFrame({id: 'one-to-hero'})
   .one-to-hero
     h1 one-to-hero
+
   +inputFrame({id: 'chat'})
   .chat
     h1 chat
+
   +inputFrame({id: 'faq'})
   .faq
     h1 faq

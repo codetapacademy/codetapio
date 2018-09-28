@@ -21,6 +21,9 @@
 .hired
   @extend %frame
 
+.reviews
+  @extend %frame
+
 .who-made-it
   @extend %frame
 
@@ -42,12 +45,6 @@
 .content-toggle
   display: none
 
-.content-toggle:checked + .hired,
-.content-toggle:checked + .who-made-it,
-.content-toggle:checked + .opportunities,
-.content-toggle:checked + .zero-to-one,
-.content-toggle:checked + .one-to-hero,
-.content-toggle:checked + .chat,
-.content-toggle:checked + .faq
+.content-toggle:checked + div
   right: 0
 

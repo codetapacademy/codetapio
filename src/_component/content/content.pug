@@ -1,3 +1,19 @@
+-
+  //- on the menu list collection of objects like the next one
+  //- {
+  //- "label": {
+  //-     "en": "Reviews",
+  //-     "ro": "Referințe"
+  //- },
+  //- "icon": "reviews"
+  //- },
+  const getSectionTitle = iconToFind => content['menu-list']
+    //- only keep the item that has the icon property value same as iconToFind
+    .filter(menuItem => menuItem.icon === iconToFind)
+    //- grab the first element of the filtered array, should be only one anyway
+    //- and return the lang evaluated property of the label of that item
+    .reduce(item => item).label[lang]
+
 .content
 
   +inputFrame({checked: true, id: 'hired'})
@@ -8,30 +24,29 @@
 
   +inputFrame({id: 'reviews'})
   .reviews
-    h1 reviews!!!
+    h1= getSectionTitle('reviews')
     //- include the   review.pug file
     include ../review/review
 
   +inputFrame({id: 'who-made-it'})
-  .who-made-it
-    h1 who-made-it
+    h1= getSectionTitle('who-made-it')
 
   +inputFrame({id: 'opportunities'})
   .opportunities
-    h1 opportunities
+    h1= getSectionTitle('opportunities')
 
   +inputFrame({id: 'zero-to-one'})
   .zero-to-one
-    h1 zero-to-one
+    h1= getSectionTitle('zero-to-one')
 
   +inputFrame({id: 'one-to-hero'})
   .one-to-hero
-    h1 one-to-hero
+    h1= getSectionTitle('one-to-hero')
 
   +inputFrame({id: 'chat'})
   .chat
-    h1 chat
+    h1= getSectionTitle('chat')
 
   +inputFrame({id: 'faq'})
   .faq
-    h1 faq
+    h1= getSectionTitle('faq')

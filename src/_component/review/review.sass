@@ -9,9 +9,16 @@
 .review__avatar
   grid-column: 1/2
   grid-row: 1/3
-  background: #c00
+  background-image: url(/asset/image/avatar-sprite.jpg)
+  background-size: 64rem
   border-radius: 50%
   height: 6.4rem
+
+@for $x from 1 through 10
+  @for $y from 0 through 5
+    .review:nth-child(#{$x + $y * 10}) .review__avatar
+      background-position-x: -1 * ($x - 1) * 6.4rem
+      background-position-y: -1 * $y * 6.4rem
 
 .review__name
   grid-column: 2/3

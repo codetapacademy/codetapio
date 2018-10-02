@@ -14,8 +14,8 @@
   border-radius: 50%
   height: 6.4rem
 
-@for $x from 1 through 10
-  @for $y from 0 through 5
+@for $y from 0 through 5
+  @for $x from 1 through 10
     .review:nth-child(#{$x + $y * 10}) .review__avatar
       background-position-x: -1 * ($x - 1) * 6.4rem
       background-position-y: -1 * $y * 6.4rem

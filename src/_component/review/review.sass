@@ -1,15 +1,17 @@
 .review
   display: grid
-  grid-template-columns: 64px 1fr 50px
+  grid-template-columns: 6.4rem 1fr 6.4rem
 
   width: 100%
-  margin-bottom: 2rem
-  background-color: rgba($color-white, 0.8)
-  border-radius: $square-button-border-radius
+  margin-bottom: 3.2rem
+  grid-gap: 0.6rem
 
 .review__avatar
   grid-column: 1/2
   grid-row: 1/3
+  background: #c00
+  border-radius: 50%
+  height: 6.4rem
 
 .review__name
   grid-column: 2/3
@@ -17,7 +19,7 @@
 
 .review__rating
   grid-column: 3/4
-  grid-row: 1/2
+  grid-row: 1/3
 
 .review__time
   grid-column: 2/3
@@ -29,9 +31,12 @@
 
 .review__name,
 .review__time,
+.review__text,
 .review__rating
   padding: 0.5rem 1rem
   font-size: 1.4rem
+  background-color: rgba($color-white, 1)
+  border-radius: $square-button-border-radius
 
 .review__text
   padding: 1rem

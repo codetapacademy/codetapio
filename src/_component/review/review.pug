@@ -2,6 +2,11 @@
   each review in data.reviews
     .review
       .review__avatar
+        img(
+          src=review.imagePath
+          width="64"
+          height="64"
+        )
       .review__name=review.name
       .review__rating=review.rating
       .review__text=review.text

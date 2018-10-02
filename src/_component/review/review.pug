@@ -9,5 +9,6 @@
         )
       .review__name=review.name
       .review__rating=review.rating
-      .review__text=review.text
+      if review.text
+        .review__text=review.text
       .review__time=review.time

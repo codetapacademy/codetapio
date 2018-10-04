@@ -135,5 +135,134 @@
       ],
       "ro": "Bine! Ce urmează"
     }
+  },
+  {
+    "type": "h2",
+    "text": {
+      "en": "Contractor",
+      "ro": "Contractor"
+    }
+  },
+  {
+    "type": "p",
+    "text": {
+      "en": [
+        "This is one for the bold and the PRO"
+      ],
+      "ro": [
+        "Text in Romana"
+      ]
+    }
+  },
+  {
+    "type": "h3",
+    "text": {
+      "en": [
+        "PROs:"
+      ],
+      "ro": [
+        "Text in Romana"
+      ]
+    }
+  },
+  {
+    "type": "ul",
+    "text": {
+      "en": [
+        "It allows you to gain lots of experience",
+        "You can live the life of a little star",
+        "You can sustain your own ideas and start-up your own business"
+      ],
+      "ro": "Bine! Ce urmează"
+    }
+  },
+  {
+    "type": "h3",
+    "text": {
+      "en": [
+        "CONs:"
+      ],
+      "ro": [
+        "Text in Romana"
+      ]
+    }
+  },
+  {
+    "type": "ul",
+    "text": {
+      "en": [
+        "It's only for the bold ones that aren't afraid to do calculated risks",
+        "You might get called in a meeting only to let you know that in 1 or 2 weeks the deal is off, usually when projects get restructured. Contractors go first before employees",
+        "Usually it's aimed for professionals or seniors, but this is not a rule as there is room for exceptions",
+        "Usually you get called to fix problems in a timely matter and ocasionally employees might not be as friendly as expected, so a bit of stress or more might be part of the job"
+      ],
+      "ro": "Bine! Ce urmează"
+    }
+  },
+  {
+    "type": "h2",
+    "text": {
+      "en": "Own a business or become an influencer",
+      "ro": "Afacerea ta"
+    }
+  },
+  {
+    "type": "p",
+    "text": {
+      "en": [
+        "The next level up from Contractor"
+      ],
+      "ro": [
+        "Text in Romana"
+      ]
+    }
+  },
+  {
+    "type": "h3",
+    "text": {
+      "en": [
+        "PROs:"
+      ],
+      "ro": [
+        "PROs"
+      ]
+    }
+  },
+  {
+    "type": "ul",
+    "text": {
+      "en": [
+        "You can achieve a lot in a short time",
+        "You can create movements, be part of great things and why not, write history",
+        "It's going to be exciting and amazing for a long time",
+        "You can live the life of a super star",
+        "You can sustain your own ideas and start-up more of your own business"
+      ],
+      "ro": "Bine! Ce urmează"
+    }
+  },
+  {
+    "type": "h3",
+    "text": {
+      "en": [
+        "CONs:"
+      ],
+      "ro": [
+        "CONs"
+      ]
+    }
+  },
+  {
+    "type": "ul",
+    "text": {
+      "en": [
+        "It's only for the bold ones that aren't afraid to do calculated risks",
+        "You might fail big time",
+        "You might fail multiple times until you get it right",
+        "The learning curve is quite high",
+        "Stress will be your friend and your enemy at the same time"
+      ],
+      "ro": "Bine! Ce urmează"
+    }
   }
 ]

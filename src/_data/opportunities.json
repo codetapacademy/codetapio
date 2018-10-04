@@ -1,12 +1,5 @@
 [
   {
-    "type": "h2",
-    "text": {
-      "en": "Good vibe",
-      "ro": "Acesta este CodeTap"
-    }
-  },
-  {
     "type": "p",
     "text": {
       "en": [
@@ -53,19 +46,17 @@
         "it's easy to understand and relate to as most people do it",
         "it's accessible as it's the most offered on the market by numbers",
         "it's one of the most well paid job you can have",
-        "having a degree is optional - most employers don't ask for one as they look for people that can do or are able to figure things our more than people that look good on paper"
+        "having a degree is optional - most employers don't ask for one as they look for people that can do or are able to figure things our more than people that look good on paper",
+        "it is one of the quickest to start bring revenue in the short term and most of the time is quite steady"
       ],
       "ro": "Bine! Ce urmează"
     }
   },
   {
-    "type": "p",
+    "type": "h3",
     "text": {
       "en": [
-        "CodeTap made it easy for you. All you have to do is pay a visit to our CodeTap channel on YouTube by visiting <a href='http://codetap.io/youtube'>CodeTap YouTube Channel</a>.",
-        "Make sure to hit the <b>Subscribe</b> button to stay up to date with all the FREE lessons and click the bell button too to be notified as soon as we release a new video.",
-        "We are one step into the future as most lessons come in Ultra High Definition 4K and High Frame Rate 60fps to give you the best experience possible.",
-        "Click the PLAYLISTS button and start watching the playlists from older to newer. Follow every move the instructor does and in case you get stuck, use the comments section bellow and harness the power of CodeTap community. Here are the initial recommanded playlists order:"
+        "CONs:"
       ],
       "ro": [
         "Text in Romana"
@@ -73,42 +64,76 @@
     }
   },
   {
-    "type": "ol",
+    "type": "ul",
     "text": {
       "en": [
-        "Before we start coding",
-        "everyone can code",
-        "Learn to code like a PRO for beginners",
-        "Your resume online for FREE with HTML5 and CSS3",
-        "Quick Blog",
-        "Boost my website"
+        "Although it starts bringing money in quickly and is a top paid job that will bring a smile on your face it also has the lowest potential. ",
+        "All the other opportunities need to be persued for the long run and usually bring in unexpected and unbelievable results.",
+        "The safe way would be to get employed in a job while investing time in one of the other opportunities"
       ],
-      "ro": [
-        "Text in Romana"
-      ]
+      "ro": "Bine! Ce urmează"
     }
   },
   {
     "type": "h2",
     "text": {
-      "en": "What do I get out of it?",
-      "ro": "Bine! Ce urmează"
+      "en": "Freelance",
+      "ro": "Angajat"
     }
   },
   {
     "type": "p",
     "text": {
       "en": [
-        "CodeTap crammed 21 years of web development experience into step by step courses for beginners, building real world projects from scratch.",
-        "You start building websites from day one and you learn while you do it.",
-        "Once you hit the third playlist \"Learn to code like a PRO for beginners\" you'll also have your very first website online that you can share with your friends, family, recruiters or clients.",
-        "After that more amazing projects will fill your heart and give you a big boost in confidence. You'll have an online cv, an online blog and experience how to rebuild a website for a client.",
-        "All those ones will be able to achieve a PERFECT Google Page Speed score, 100/100. Keep this in mind as it'll be one of your best selling points you can mention and talk about in an interview or client presentation.",
-        "Hired or not, at this point you'll be able to build website after website, for free as a passion or paid as a freelancer."
+        "From what I know this is the second most common opportunity."
       ],
       "ro": [
         "Text in Romana"
       ]
+    }
+  },
+  {
+    "type": "h3",
+    "text": {
+      "en": [
+        "PROs:"
+      ],
+      "ro": [
+        "Text in Romana"
+      ]
+    }
+  },
+  {
+    "type": "ul",
+    "text": {
+      "en": [
+        "It's very similar to being an employee in what you do with the exception that you are your own boss.",
+        "Most of the time you take small to medium projects and aim to deliver them to the agreed deadline.",
+        "I would say most freelancers enjoy the freedom of having their own schedule"
+      ],
+      "ro": "Bine! Ce urmează"
+    }
+  },
+  {
+    "type": "h3",
+    "text": {
+      "en": [
+        "CONs:"
+      ],
+      "ro": [
+        "Text in Romana"
+      ]
+    }
+  },
+  {
+    "type": "ul",
+    "text": {
+      "en": [
+        "You will be earning a bit less than as an employee",
+        "There is additional stress to always be hunting for clients",
+        "There is some paperwork to be done here and there"
+      ],
+      "ro": "Bine! Ce urmează"
     }
   }
 ]

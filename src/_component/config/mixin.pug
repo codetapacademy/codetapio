@@ -16,6 +16,11 @@ mixin printContent(dataList)
       ul
         each li in data.text[lang]
           li!=li
+    else if data.type == 'img'
+      img(
+        src=`/asset/image/${data.path}`
+        alt=data.alt[lang]
+      )
 
 mixin inputFrame(optionList)
   -

@@ -4,7 +4,7 @@
     "path": "who-made-it-daniel.jpg",
     "alt": {
       "en": "Daniel became a Web Developer",
-      "ro": "Daniela devenit Dezvoltator Web"
+      "ro": "Daniel a devenit Dezvoltator Web"
     },
     "text": {
       "en": [
@@ -14,6 +14,20 @@
         "So, yeah. If you code, you better CodeTap!"
       ],
       "ro": "Daniel a devenit Dezvoltator Web"
+    }
+  },
+  {
+    "type": "portrait-image",
+    "path": "who-made-it-carol.jpg",
+    "alt": {
+      "en": "Carol became a Web Developer",
+      "ro": "Carol a devenit Dezvoltator Web"
+    },
+    "text": {
+      "en": [
+        "Still in draft"
+      ],
+      "ro": "Carol a devenit Dezvoltator Web"
     }
   }
 ]

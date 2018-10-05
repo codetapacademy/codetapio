@@ -1,14 +1,11 @@
 [
   {
-    "type": "img",
+    "type": "portrait-image",
     "path": "who-made-it-daniel.jpg",
     "alt": {
       "en": "Daniel became a Web Developer",
       "ro": "Daniela devenit Dezvoltator Web"
-    }
-  },
-  {
-    "type": "p",
+    },
     "text": {
       "en": [
         "I didn't even know what a website was outside the browser and I start building my first website on day ONE. Marian has been a great teacher and kept in focus always the most important lessons to build a robust knowledge tree in a fast and efficient way. You will find him picking you up from the corn fields as soon as you drift away from what's important. Another very important aspect is that coding with CodeTap has equipped me with tricks only acquired trough over 20 years of hard work and best practice coding (you'll soon know what 'best practice' means) and experience that Marian has managed to compress into proper and easily digestible gems. This has launched me far ahead of my competition. Once my resume website was finished, Marian narrowed down the essentials of how to deal with an interview and build confidence by preparing ahead. Also making sure I was visible to employers on all major job platforms. Once launched on the job market my phone didn't stop ringing. Even today I'm still being called at least 5 times a day and all my job platforms accounts are shut.",

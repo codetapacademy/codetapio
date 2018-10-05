@@ -2,7 +2,11 @@
   each review in data.reviews
     .review
       .review__avatar
-      .review__name=review.name
+      a.review__name(
+        href=`http://facebook.com/${review.userId}/posts/${review.postId}`
+        target="_blank"
+        title=`Read the original review of ${review.name}`
+      )=review.name
       .review__rating=review.rating
         | &#9733;
       if review.text

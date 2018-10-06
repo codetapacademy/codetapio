@@ -16,6 +16,14 @@ mixin printContent(dataList)
       ul
         each li in data.text[lang]
           li!=li
+    else if data.type == 'portrait-image'
+      .portrait-image(
+        style=`background-image: url(/asset/image/${data.path})`
+      )
+      h3=data.alt[lang]
+      .portrait-info
+        each p in data.text[lang]
+          p!=p
 
 mixin inputFrame(optionList)
   -

@@ -29,7 +29,9 @@
     include ../review/review
 
   +inputFrame({id: 'who-made-it'})
+  .who-made-it
     h1= getSectionTitle('who-made-it')
+    +printContent(data.who)
 
   +inputFrame({id: 'opportunities'})
   .opportunities
@@ -47,6 +49,7 @@
   +inputFrame({id: 'chat'})
   .chat
     h1= getSectionTitle('chat')
+    +printContent(data.chat)
 
   +inputFrame({id: 'faq'})
   .faq

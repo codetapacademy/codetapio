@@ -32,6 +32,20 @@
   },
   {
     "type": "portrait-image",
+    "path": "who-made-it-istvan.jpg",
+    "alt": {
+      "en": "Istvan became a Junior Web Developer",
+      "ro": "Istvan a devenit Dezvoltator Web Junior"
+    },
+    "text": {
+      "en": [
+        "Still in draft"
+      ],
+      "ro": "Istvan a devenit Dezvoltator Web"
+    }
+  },
+  {
+    "type": "portrait-image",
     "path": "who-made-it-valentina.jpg",
     "alt": {
       "en": "Valentina became a Web Developer - Freelancer",

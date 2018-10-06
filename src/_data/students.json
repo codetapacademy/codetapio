@@ -1,6 +1,22 @@
 [
   {
     "type": "student-picture",
+    "path": "student-picture-dorin.jpg",
+    "alt": {
+      "en": "Dorin Dumitrascuta will became Junior Web Developer",
+      "ro": "Dorin Dumitrascuta va deveni Dezvoltator Web Junior"
+    },
+    "text": {
+      "en": [
+        "After a first touch with the gaming industry, getting a taste for game development, user experience and design, I got attracted more and more by front-end development.",
+        "Having firm grasp of Digital Marketing under my belt, I wanted to take my skills to the next level and also be able to code on my own, share ideas with others and overall, be a better asset in multi-disciplinary teams.",
+        "With a life ahead of constant learning, I as a student realize now that the shortcut is hard work."
+      ],
+      "ro": "Daniel Varvara a devenit Dezvoltator Web"
+    }
+  },
+  {
+    "type": "student-picture",
     "path": "student-picture-catalin-sandru.jpg",
     "alt": {
       "en": "Catalin Sandru will became Junior Web Developer",

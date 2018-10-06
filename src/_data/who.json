@@ -18,6 +18,20 @@
   },
   {
     "type": "portrait-image",
+    "path": "who-made-it-valentina.jpg",
+    "alt": {
+      "en": "Valentina Vanu became a Web Developer - Freelancer",
+      "ro": "Valentina Vanu a devenit Dezvoltator Web"
+    },
+    "text": {
+      "en": [
+        "I started with zero knowledge and I had no idea what building a website implies until I met codetap. Marian helped me understand the process, thought me about each and every programming language or programs are needed in order to build a website. The most important thing I learned was the mind set while learning and working at the same time, as I had to find a logic behind the code. Any goal can be accomplished if you put enough effort into it!"
+      ],
+      "ro": "Valentina Vanu a devenit Dezvoltator Web"
+    }
+  },
+  {
+    "type": "portrait-image",
     "path": "who-made-it-carol.jpg",
     "alt": {
       "en": "Carol Enache became a Web Developer",
@@ -100,20 +114,6 @@
         "If you want to be a great web developer, codetap is the answer! Thank you Marian!"
       ],
       "ro": "Marco Pietro Caramaschi a devenit Dezvoltator Web"
-    }
-  },
-  {
-    "type": "portrait-image",
-    "path": "who-made-it-valentina.jpg",
-    "alt": {
-      "en": "Valentina Vanu became a Web Developer - Freelancer",
-      "ro": "Valentina Vanu a devenit Dezvoltator Web"
-    },
-    "text": {
-      "en": [
-        "Still in draft"
-      ],
-      "ro": "Valentina Vanu a devenit Dezvoltator Web"
     }
   }
 ]

@@ -29,5 +29,19 @@
       ],
       "ro": "Carol a devenit Dezvoltator Web"
     }
+  },
+  {
+    "type": "portrait-image",
+    "path": "who-made-it-valentina.jpg",
+    "alt": {
+      "en": "Valentina became a Web Developer - Freelancer",
+      "ro": "Valentina a devenit Dezvoltator Web"
+    },
+    "text": {
+      "en": [
+        "Still in draft"
+      ],
+      "ro": "Valentina a devenit Dezvoltator Web"
+    }
   }
 ]

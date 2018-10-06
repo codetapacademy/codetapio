@@ -32,10 +32,24 @@
   },
   {
     "type": "portrait-image",
+    "path": "who-made-it-razvan.jpg",
+    "alt": {
+      "en": "Razvan Puscasu became a Junior Web Developer",
+      "ro": "Razvan Puscasu a devenit Dezvoltator Web Junior"
+    },
+    "text": {
+      "en": [
+        "Still in draft"
+      ],
+      "ro": "Razvan Puscasu a devenit Dezvoltator Web"
+    }
+  },
+  {
+    "type": "portrait-image",
     "path": "who-made-it-flavius.jpg",
     "alt": {
-      "en": "Flavius Bohaciuc became a Junior Web Developer",
-      "ro": "Flavius Bohaciuc a devenit Dezvoltator Web Junior"
+      "en": "Flavius Bohaciuc became a Web Developer",
+      "ro": "Flavius Bohaciuc a devenit Dezvoltator Web"
     },
     "text": {
       "en": [

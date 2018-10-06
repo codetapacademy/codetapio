@@ -16,8 +16,9 @@ mixin printContent(dataList)
       ul
         each li in data.text[lang]
           li!=li
-    else if data.type == 'portrait-image'
-      .portrait-image(
+    else if data.type == 'portrait-image' || data.type == 'student-picture'
+      div(
+        class=data.type
         style=`background-image: url(/asset/image/${data.path})`
       )
       h3=data.alt[lang]

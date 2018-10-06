@@ -3,8 +3,8 @@
     "type": "portrait-image",
     "path": "who-made-it-daniel.jpg",
     "alt": {
-      "en": "Daniel became a Web Developer",
-      "ro": "Daniel a devenit Dezvoltator Web"
+      "en": "Daniel Varvara became a Web Developer",
+      "ro": "Daniel Varvara a devenit Dezvoltator Web"
     },
     "text": {
       "en": [
@@ -13,49 +13,63 @@
         "I now work at Bookatable and also made partner in a Tech Startup that will revolutionize the world.",
         "So, yeah. If you code, you better CodeTap!"
       ],
-      "ro": "Daniel a devenit Dezvoltator Web"
+      "ro": "Daniel Varvara a devenit Dezvoltator Web"
     }
   },
   {
     "type": "portrait-image",
     "path": "who-made-it-carol.jpg",
     "alt": {
-      "en": "Carol became a Web Developer",
-      "ro": "Carol a devenit Dezvoltator Web"
+      "en": "Carol Enache became a Web Developer",
+      "ro": "Carol Enache a devenit Dezvoltator Web"
     },
     "text": {
       "en": [
         "Still in draft"
       ],
-      "ro": "Carol a devenit Dezvoltator Web"
+      "ro": "Carol Enache a devenit Dezvoltator Web"
     }
   },
   {
     "type": "portrait-image",
     "path": "who-made-it-istvan.jpg",
     "alt": {
-      "en": "Istvan became a Junior Web Developer",
-      "ro": "Istvan a devenit Dezvoltator Web Junior"
+      "en": "Istvan Acs became a Junior Web Developer",
+      "ro": "Istvan Acs a devenit Dezvoltator Web Junior"
     },
     "text": {
       "en": [
         "Still in draft"
       ],
-      "ro": "Istvan a devenit Dezvoltator Web"
+      "ro": "Istvan Acs a devenit Dezvoltator Web"
+    }
+  },
+  {
+    "type": "portrait-image",
+    "path": "who-made-it-vlasie.jpg",
+    "alt": {
+      "en": "Vlasie Dragos became a Junior Web Developer",
+      "ro": "Vlasie Dragos a devenit Dezvoltator Web Junior"
+    },
+    "text": {
+      "en": [
+        "Still in draft"
+      ],
+      "ro": "Vlasie Dragos a devenit Dezvoltator Web"
     }
   },
   {
     "type": "portrait-image",
     "path": "who-made-it-valentina.jpg",
     "alt": {
-      "en": "Valentina became a Web Developer - Freelancer",
-      "ro": "Valentina a devenit Dezvoltator Web"
+      "en": "Valentina Vanu became a Web Developer - Freelancer",
+      "ro": "Valentina Vanu a devenit Dezvoltator Web"
     },
     "text": {
       "en": [
         "Still in draft"
       ],
-      "ro": "Valentina a devenit Dezvoltator Web"
+      "ro": "Valentina Vanu a devenit Dezvoltator Web"
     }
   }
 ]

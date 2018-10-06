@@ -60,6 +60,20 @@
   },
   {
     "type": "portrait-image",
+    "path": "who-made-it-marco.jpg",
+    "alt": {
+      "en": "Marco Pietro Caramaschi became a Junior Web Developer",
+      "ro": "Marco Pietro Caramaschi a devenit Dezvoltator Web Junior"
+    },
+    "text": {
+      "en": [
+        "Still in draft"
+      ],
+      "ro": "Marco Pietro Caramaschi a devenit Dezvoltator Web"
+    }
+  },
+  {
+    "type": "portrait-image",
     "path": "who-made-it-valentina.jpg",
     "alt": {
       "en": "Valentina Vanu became a Web Developer - Freelancer",

@@ -1,0 +1,35 @@
+[
+  {
+    "type": "h2",
+    "text": {
+      "en": "CodeTap Stats",
+      "ro": "Statistici CodeTap"
+    }
+  },
+  {
+    "type": "ul",
+    "text": {
+      "en": [
+        "5 of 5 stars",
+        "Over 5 million views",
+        "Over 70 000 subscribers acroll FaceBook, YouTube, Twitter and Instagram",
+        "Stackoverflow - top 6%"
+      ],
+      "ro": [
+        "Text in Romana"
+      ]
+    }
+  },
+  {
+    "type": "portrait-image",
+    "path": "contact.jpg",
+    "alt": {
+      "en": "Contact Codetap or Marian Zburlea, the founder",
+      "ro": "Daniel Varvara a devenit Dezvoltator Web"
+    },
+    "text": {
+      "en": [],
+      "ro": []
+    }
+  }
+]

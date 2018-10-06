@@ -32,6 +32,20 @@
   },
   {
     "type": "portrait-image",
+    "path": "who-made-it-flavius.jpg",
+    "alt": {
+      "en": "Flavius Bohaciuc became a Junior Web Developer",
+      "ro": "Flavius Bohaciuc a devenit Dezvoltator Web Junior"
+    },
+    "text": {
+      "en": [
+        "Still in draft"
+      ],
+      "ro": "Flavius Bohaciuc a devenit Dezvoltator Web"
+    }
+  },
+  {
+    "type": "portrait-image",
     "path": "who-made-it-istvan.jpg",
     "alt": {
       "en": "Istvan Acs became a Junior Web Developer",

@@ -1,0 +1,34 @@
+[
+  {
+    "type": "student-picture",
+    "path": "student-picture-dorin.jpg",
+    "alt": {
+      "en": "Dorin Dumitrascuta will became Junior Web Developer",
+      "ro": "Dorin Dumitrascuta va deveni Dezvoltator Web Junior"
+    },
+    "text": {
+      "en": [
+        "After a first touch with the gaming industry, getting a taste for game development, user experience and design, I got attracted more and more by front-end development.",
+        "Having firm grasp of Digital Marketing under my belt, I wanted to take my skills to the next level and also be able to code on my own, share ideas with others and overall, be a better asset in multi-disciplinary teams.",
+        "With a life ahead of constant learning, I as a student realize now that the shortcut is hard work."
+      ],
+      "ro": "Daniel Varvara a devenit Dezvoltator Web"
+    }
+  },
+  {
+    "type": "student-picture",
+    "path": "student-picture-catalin-sandru.jpg",
+    "alt": {
+      "en": "Catalin Sandru will became Junior Web Developer",
+      "ro": "Catalin Sandru va deveni Dezvoltator Web Junior"
+    },
+    "text": {
+      "en": [
+        "It started about one year ago. I was trying to improve myself to get out of the jobs that where not improving me. I started to do some tutorials on codecademy, but it was not that serious. Then I saw a live coding show of CodeTap on Facebook that got my attention. I have hesitated a looooong time to contact Marian (I am a bit shy), but after that I took coding in a more serious manner.",
+        "I have created small simple webpages, learned and still learning how PUG Starter works; how to deal with errors etc. I've also learned some coding sintax, that is very important in web build; to refractor the code so I will not repeat myself... and many other things still to come to my knowledge.",
+        "In the last few years I have realised that coding is the \"new\" thing. The reason I have started coding  is that I want to have some income, not a high one. I also want to have the independence to work form any part of the world and not form a 9  to 5 in an office."
+      ],
+      "ro": "Daniel Varvara a devenit Dezvoltator Web"
+    }
+  }
+]

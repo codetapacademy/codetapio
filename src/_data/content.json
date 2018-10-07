@@ -66,6 +66,13 @@
             },
             {
                 "label": {
+                    "en": "Students",
+                    "ro": "Studenți"
+                },
+                "icon": "students"
+            },
+            {
+                "label": {
                     "en": "Who made it so far?",
                     "ro": "Cine a reușit?"
                 },

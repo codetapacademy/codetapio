@@ -1,6 +1,34 @@
 [
   {
     "type": "portrait-image",
+    "path": "who-made-it-razvan.jpg",
+    "alt": {
+      "en": "Razvan Puscasu became a Junior Web Developer",
+      "ro": "Razvan Puscasu a devenit Dezvoltator Web Junior"
+    },
+    "text": {
+      "en": [
+        "After 2 years of maritime navigation around Europe, one day, I've decided I need a career change. That's when CodeTap showed up on my Facebook page. Ever since day 0, I was able to build and to understand how websites work, even though I had no knowledge before I started. Managed to get my first job on the first interview I had, after only 1 month and 17 days of hardcore coding for a minimum of 6 hours per day. So, I'm challenging you to break my record ! 😀"
+      ],
+      "ro": "Razvan Puscasu a devenit Dezvoltator Web"
+    }
+  },
+  {
+    "type": "portrait-image",
+    "path": "who-made-it-valentina.jpg",
+    "alt": {
+      "en": "Valentina Vanu became a Web Developer - Freelancer",
+      "ro": "Valentina Vanu a devenit Dezvoltator Web"
+    },
+    "text": {
+      "en": [
+        "I started with zero knowledge and I had no idea what building a website implies until I met codetap. Marian helped me understand the process, thought me about each and every programming language or programs are needed in order to build a website. The most important thing I learned was the mind set while learning and working at the same time, as I had to find a logic behind the code. Any goal can be accomplished if you put enough effort into it!"
+      ],
+      "ro": "Valentina Vanu a devenit Dezvoltator Web"
+    }
+  },
+  {
+    "type": "portrait-image",
     "path": "who-made-it-daniel.jpg",
     "alt": {
       "en": "Daniel Varvara became a Web Developer",
@@ -28,20 +56,6 @@
         "Still in draft"
       ],
       "ro": "Carol Enache a devenit Dezvoltator Web"
-    }
-  },
-  {
-    "type": "portrait-image",
-    "path": "who-made-it-razvan.jpg",
-    "alt": {
-      "en": "Razvan Puscasu became a Junior Web Developer",
-      "ro": "Razvan Puscasu a devenit Dezvoltator Web Junior"
-    },
-    "text": {
-      "en": [
-        "Still in draft"
-      ],
-      "ro": "Razvan Puscasu a devenit Dezvoltator Web"
     }
   },
   {
@@ -100,20 +114,6 @@
         "If you want to be a great web developer, codetap is the answer! Thank you Marian!"
       ],
       "ro": "Marco Pietro Caramaschi a devenit Dezvoltator Web"
-    }
-  },
-  {
-    "type": "portrait-image",
-    "path": "who-made-it-valentina.jpg",
-    "alt": {
-      "en": "Valentina Vanu became a Web Developer - Freelancer",
-      "ro": "Valentina Vanu a devenit Dezvoltator Web"
-    },
-    "text": {
-      "en": [
-        "Still in draft"
-      ],
-      "ro": "Valentina Vanu a devenit Dezvoltator Web"
     }
   }
 ]

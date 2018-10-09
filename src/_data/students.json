@@ -1,6 +1,25 @@
 [
   {
     "type": "student-picture",
+    "path": "student-picture-robert-alexandru.jpg",
+    "alt": {
+      "en": "Robert Alexandru will became Junior Web Developer",
+      "ro": "Robert Alexandru va deveni Dezvoltator Web Junior"
+    },
+    "text": {
+      "en": [
+        "I came to London 3+ years ago and my first job was as a bike driver at Domino’s Pizza. After the first year I’ve been selected the best driver of the year and I was earning more money than an Area Manager, so after the second year I got bored because I couldn’t upgrade myself more in that company, so I left the job for Deliveroo.",
+        "I was working with my friend Gabriel and he found Marian on Facebook. I was so excited when I saw the videos with him and with the students who got the job.",
+        "So I said to give it a try. I’m not losing nothing. In my free time I was coding and I loved it so much. ",
+        "Since day 1 I started to build my own website. I watched almost all the videos of CodeTap on YouTube. I got a strong understanding with HTML5 and CSS3 and now I started to apply for jobs, I’ve already had 2 interviews and I can say that it's an awesome feeling and I get more confident day by day.",
+        "The future is bright, I’m eager to learn and to go deeper with JavaScript and libraries like React, Angular and Redux. Doing this I will never get bored because I can learn amazing stuff every day.",
+        "I trully love Coding!"
+      ],
+      "ro": "Daniel Varvara a devenit Dezvoltator Web"
+    }
+  },
+  {
+    "type": "student-picture",
     "path": "student-picture-dorin.jpg",
     "alt": {
       "en": "Dorin Dumitrascuta will became Junior Web Developer",

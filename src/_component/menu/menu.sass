@@ -8,6 +8,10 @@
   display: block
   position: relative
 
+.menu__label,
+.menu__item
+  text-decoration: none
+
 // add an incremental delay to each of the menu items 
 // to create a nice animation effect
 @for $i from 1 through 8
@@ -106,6 +110,13 @@ div[class^="codetap__icon"]
 #menu__toggle:checked + .menu__list
   // change a property
   right: 0
+
+  & .menu__label
+    right: 0
+
+#menu:target
+  & + .menu__label--toggle
+    bottom: -100%
 
   & .menu__label
     right: 0

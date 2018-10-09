@@ -1,12 +1,14 @@
 +inputFrame({id: 'menu__toggle'})
-.menu__list
+.menu__list#menu
   //- pre=JSON.stringify(content['menu-list'], null, 2)
   each menuItem in content['menu-list']
-    label.menu__label(for=menuItem.icon)
+    //- label.menu__label(for=menuItem.icon)
+    a.menu__label(href=`#${menuItem.icon}`)
       .menu__item
         .menu__text= menuItem.label[lang]
         div(class=`codetap__icon--${menuItem.icon}`)
 .menu__label--toggle
-  label.menu__item(for="menu__toggle")
+  //- label.menu__item(for="menu__toggle")
+  a.menu__item(href="#menu")
     .menu__text= content.menu[lang]
     .codetap__icon--menu

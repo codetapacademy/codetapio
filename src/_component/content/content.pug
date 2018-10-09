@@ -16,46 +16,37 @@
 
 .content
 
-  +inputFrame({checked: true, id: 'hired'})
-  .hired
+  #hired.hired
     include ../toggle-button/toggle-button
     h1!= website.title[lang]
     +printContent(data.hired)
 
-  +inputFrame({id: 'reviews'})
-  .reviews
+  #reviews.reviews
     h1= getSectionTitle('reviews')
     //- include the   review.pug file
     include ../review/review
 
-  +inputFrame({id: 'who-made-it'})
-  .who-made-it
+  #who-made-it.who-made-it
     h1= getSectionTitle('who-made-it')
     +printContent(data.who)
 
-  +inputFrame({id: 'students'})
-  .students
+  #students.students
     h1= getSectionTitle('students')
     +printContent(data.students)
 
-  +inputFrame({id: 'opportunities'})
-  .opportunities
+  #opportunities.opportunities
     h1= getSectionTitle('opportunities')
     +printContent(data.opportunities)
 
-  +inputFrame({id: 'zero-to-one'})
-  .zero-to-one
+  #zero-to-one.zero-to-one
     h1= getSectionTitle('zero-to-one')
 
-  +inputFrame({id: 'one-to-hero'})
-  .one-to-hero
+  #one-to-hero.one-to-hero
     h1= getSectionTitle('one-to-hero')
 
-  +inputFrame({id: 'chat'})
-  .chat
+  #chat.chat
     h1= getSectionTitle('chat')
     +printContent(data.chat)
 
-  +inputFrame({id: 'faq'})
-  .faq
+  #faq.faq
     h1= getSectionTitle('faq')

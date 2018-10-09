@@ -17,6 +17,37 @@
   },
   {
     "type": "student-picture",
+    "path": "student-picture-laurentiu.jpg",
+    "alt": {
+      "en": "Laurentiu Tanase is an amzing Expert Web Developer",
+      "ro": "Laurentiu Tanase este un nemaipomenit Dezvoltator Web Expert"
+    },
+    "text": {
+      "en": [
+        "CodeTap is awesome! It tought me how to contribute to a project as team member and how to be a better programmer."
+      ],
+      "ro": "Daniel Varvara a devenit Dezvoltator Web"
+    }
+  },
+  {
+    "type": "student-picture",
+    "path": "student-picture-iulian-schifirnet.jpg",
+    "alt": {
+      "en": "Iulian Schifirnet will became Junior Web Developer",
+      "ro": "Iulian Schifirnet va deveni Dezvoltator Web Junior"
+    },
+    "text": {
+      "en": [
+        "My name is Julian and I'm 15 years old. I'm passionate about programming especially about the web.",
+        "It was a boring day and I was losing time doing something for myself or my future. Until ... I found a video of Marian about how a student of his has hired himself in 3 months as a web developer.The video lightened my mind and opened the way to a future where I wanted to be!",
+        "I started to work hard every day (even now) for 5 hours a day and I managed to master 14 technologies I never knew about. Marian and his community were like an angel, and every time I knew something it's wrong I was asking, and these benevolent people always answered me!",
+        "The principle that I guess is like that \"Targets to the moon. Even if you do not, at least you will be among the stars.\""
+      ],
+      "ro": "Daniel Varvara a devenit Dezvoltator Web"
+    }
+  },
+  {
+    "type": "student-picture",
     "path": "student-picture-catalin-sandru.jpg",
     "alt": {
       "en": "Catalin Sandru will became Junior Web Developer",

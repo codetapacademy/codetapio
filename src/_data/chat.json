@@ -21,6 +21,17 @@
     }
   },
   {
+    "type": "p",
+    "text": {
+      "en": [
+        "Find a way to say: Hi! You're only one decision away from an amazing journey that'll last the rest of your life. The journey to live better."
+      ],
+      "ro": [
+        "Text in Romana"
+      ]
+    }
+  },
+  {
     "type": "portrait-image",
     "path": "contact.jpg",
     "alt": {

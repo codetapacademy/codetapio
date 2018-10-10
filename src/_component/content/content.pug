@@ -16,10 +16,7 @@
 
 .content
 
-  #hired.hired
-    include ../toggle-button/toggle-button
-    h1!= website.title[lang]
-    +printContent(data.hired)
+  include ../menu/menu
 
   #reviews.reviews
     h1= getSectionTitle('reviews')
@@ -50,3 +47,8 @@
 
   #faq.faq
     h1= getSectionTitle('faq')
+
+  #hired.hired
+    include ../toggle-button/toggle-button
+    h1!= website.title[lang]
+    +printContent(data.hired)

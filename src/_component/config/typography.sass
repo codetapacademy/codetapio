@@ -24,17 +24,47 @@ h3
 
   @extend %header-main
 
+h4
+  font-family: 'Lato'
+  font-size: 2.4rem
+  text-align: left
+  font-style: italic
+
+  @extend %header-main
+
 p, 
-ol,
-ul
+li
   font-family: 'Lato'
   font-size: 1.5rem
   padding: 1rem 1.5rem
   background-color: rgba($color-white, 1)
+  line-height: 1.4
+
+p
   border-radius: $square-button-border-radius
   margin: 1rem 0
-  line-height: 1.4
+
+li
+  &:nth-child(even)
+    background: $color-loblolly-light
+
+  &:first-child
+    border-top-left-radius: $square-button-border-radius
+    border-top-right-radius: $square-button-border-radius
+
+  &:last-child
+    border-bottom-left-radius: $square-button-border-radius
+    border-bottom-right-radius: $square-button-border-radius
+
+ol li
+  counter-increment: li
+
+  &:before
+    content: counter(li) ": "
 
 ol,
 ul
-  padding-left: 3rem
+  padding-top: 1rem
+  list-style-type: none
+  counter-reset: li
+  // padding-left: 3rem

@@ -46,10 +46,14 @@
     h1= getSectionTitle('chat')
     +printContent(data.chat)
 
+  #youtube.youtube
+    h1= getSectionTitle('youtube')
+    +printContent(data.chat)
+
   #faq.faq
     h1= getSectionTitle('faq')
 
   #hired.hired
-    include ../toggle-button/toggle-button
+    //- include ../toggle-button/toggle-button
     h1!= website.title[lang]
     +printContent(data.hired)

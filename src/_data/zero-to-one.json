@@ -1,0 +1,85 @@
+[
+  {
+    "type": "h2",
+    "text": {
+      "en": "start earning between £20,000 and £50,000 per year",
+      "ro": "start earning between £20,000 and £50,000 per year"
+    }
+  },
+  {
+    "type": "h3",
+    "text": {
+      "en": "What do you get?",
+      "ro": "abc"
+    }
+  },
+  {
+    "type": "h4",
+    "text": {
+      "en": "Enhance your mindset",
+      "ro": "abc"
+    }
+  },
+  {
+    "type": "ul",
+    "text": {
+      "en": [
+        "motivation - show how to think positive, convert excuses into obstacles and overcome them",
+        "advice - show you the many mistakes I've made and how to avoid them",
+        "goal - help you define and set targets so you can continuously evolve",
+        "support - be \"next\" to you every step from coding challenges to interview questions and getting hired",
+        "coaching - enhance your skills with minimum required and the best of the best techniques and technologies",
+        "direction - guide you on the right path when you wonder off your path",
+        "Job Hunting - lots of tips & tricks to prepare ahead of the interview as well as how to dominate an interview and succeed even in a failure",
+        "success - this is where we party to celebrate a BIG success for you another one for CodeTap"
+              ],
+      "ro": ["abc"]
+    }
+  },
+  {
+    "type": "h3",
+    "text": {
+      "en": "Knowledge and Experience",
+      "ro": "abc"
+    }
+  },
+  {
+    "type": "ul",
+    "text": {
+      "en": [
+        "work in an real world environment replica, using software, technologies, techniques and methodologies that other companies use",
+        "work on your own projects, which will create your portfolio and strengthen your identity",
+        "build your killer CV - this is one of the big BONUSes, as often students get as much as 10 to 30 calls a day the record being 265 calls in a week",
+        "enhance your online presence through account on GitHub, StackOverflow, LinkedIn, Twitter, Instagram, Facebook etc",
+        "work in a team and master collaboration skills, one of the heavy weight abilities one must have in an interview",
+        "at the end it'll be like switching to a new job, not getting your first"
+      ],
+      "ro": ["abc"]
+    }
+  },
+  {
+    "type": "h3",
+    "text": {
+      "en": "Real world projects",
+      "ro": "abc"
+    }
+  },
+  {
+    "type": "ul",
+    "text": {
+      "en": [
+        "Setup tools to speed up development",
+        "VS Code editor - NodeJS & Gulp - Git and GitHub",
+        "Day1: Build your first webpage and have your website online without having any knowledge about domain name server, hosting, file management or having to buy a domain name",
+        "Build 'my portfolio'",
+        "Build 'my resume'",
+        "Understand pagespeed and SEO",
+        "Achive perfect Google pagespeed score ",
+        "Intro to JavaScript and React",
+        "build offline resume",
+        "register on job portals"
+      ],
+      "ro": ["abc"]
+    }
+  }
+]

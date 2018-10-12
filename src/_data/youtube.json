@@ -252,5 +252,32 @@
       "en": "Watch on YouTube",
       "ro": "Vizioneaza pe YouTube"
     }
+  },
+  {
+    "type": "h3",
+    "text": {
+      "en": "Job Test challenges and solutions",
+      "ro": "Job Test challenges and solutions"
+    }
+  },
+  {
+    "type": "p",
+    "text": {
+      "en": [
+        "From Junior to Senior real world job tests me or my students have been given the opportunity to have fun at it. Come on with me on a journey you might encounter quite soon, the technical part where you want to convince the other party that they want you!"
+      ],
+      "ro": [
+        "From Junior to Senior real world job tests me or my students have been given the opportunity to have fun at it. Come on with me on a journey you might encounter quite soon, the technical part where you want to convince the other party that they want you!"
+      ]
+    }
+  },
+  {
+    "type": "a",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=Lc2c5u5YGbc&list=PLlgRhtOkjmmAG-aO-5y126W12hU74BIsh",
+    "text": {
+      "en": "Watch on YouTube",
+      "ro": "Vizioneaza pe YouTube"
+    }
   }
 ]

@@ -2,6 +2,13 @@
   {
     "type": "h2",
     "text": {
+      "en": "Forever FREE on YouTube",
+      "ro": "Forever FREE on YouTube"
+    }
+  },
+  {
+    "type": "h3",
+    "text": {
       "en": "Before we start coding",
       "ro": "Before we start coding"
     }
@@ -27,7 +34,7 @@
     }
   },
   {
-    "type": "h2",
+    "type": "h3",
     "text": {
       "en": "Everyone can code - the beginning",
       "ro": "Everyone can code - the beginning"

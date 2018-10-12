@@ -167,5 +167,32 @@
       "en": "Watch on YouTube",
       "ro": "Vizioneaza pe YouTube"
     }
+  },
+  {
+    "type": "h3",
+    "text": {
+      "en": "How to make money as a web developer",
+      "ro": "How to make money as a web developer"
+    }
+  },
+  {
+    "type": "p",
+    "text": {
+      "en": [
+        "TIPS on how to start earning $20,000 to $30,000 as a Junior web developer and reach $200,000 as a Senior web developer per year. This may vary based on your location."
+      ],
+      "ro": [
+        "TIPS on how to start earning $20,000 to $30,000 as a Junior web developer and reach $200,000 as a Senior web developer per year. This may vary based on your location."
+      ]
+    }
+  },
+  {
+    "type": "a",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=PAqgJgt0T88&list=PLlgRhtOkjmmAblUGWNrMuYuz_sMlYANZ6",
+    "text": {
+      "en": "Watch on YouTube",
+      "ro": "Vizioneaza pe YouTube"
+    }
   }
 ]

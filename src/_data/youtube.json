@@ -279,5 +279,32 @@
       "en": "Watch on YouTube",
       "ro": "Vizioneaza pe YouTube"
     }
+  },
+  {
+    "type": "h3",
+    "text": {
+      "en": "ReactJS for beginners",
+      "ro": "ReactJS for beginners"
+    }
+  },
+  {
+    "type": "p",
+    "text": {
+      "en": [
+        "Marian, founder of CodeTap and Carol Enache, currently top successful student are having good times and bad times while dealing with React to solve a cocktail recipe problem."
+      ],
+      "ro": [
+        "Marian, founder of CodeTap and Carol Enache, currently top successful student are having good times and bad times while dealing with React to solve a cocktail recipe problem."
+      ]
+    }
+  },
+  {
+    "type": "a",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=qnVBxlw0_I4&list=PLlgRhtOkjmmDfWxoyABmuzZx6vKvh56Xu",
+    "text": {
+      "en": "Watch on YouTube",
+      "ro": "Vizioneaza pe YouTube"
+    }
   }
 ]

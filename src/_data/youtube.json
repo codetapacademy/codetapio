@@ -86,5 +86,32 @@
       "en": "Watch on YouTube",
       "ro": "Vizioneaza pe YouTube"
     }
+  },
+  {
+    "type": "h3",
+    "text": {
+      "en": "Your resume online for free using HTML5 and CSS3",
+      "ro": "Your resume online for free using HTML5 and CSS3"
+    }
+  },
+  {
+    "type": "p",
+    "text": {
+      "en": [
+        "Your online presence, your CV using pure CSS3 and HTML5 techniques. Discover how to achieve perfect Google Page Speed score while you're building your first cool project to share with friends and family, impress recruiters and have a strong selling point towards employers or clients."
+      ],
+      "ro": [
+        "Your online presence, your CV using pure CSS3 and HTML5 techniques. Discover how to achieve perfect Google Page Speed score while you're building your first cool project to share with friends and family, impress recruiters and have a strong selling point towards employers or clients."
+      ]
+    }
+  },
+  {
+    "type": "a",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=hFMxS9hoswM&list=PLlgRhtOkjmmDYRVs9jFwV4nkbCx8Q5wiP",
+    "text": {
+      "en": "Watch on YouTube",
+      "ro": "Vizioneaza pe YouTube"
+    }
   }
 ]

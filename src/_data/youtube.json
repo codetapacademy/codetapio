@@ -1,0 +1,21 @@
+[
+  {
+    "type": "h2",
+    "text": {
+      "en": "Before we start coding",
+      "ro": "Before we start coding"
+    }
+  },
+  {
+    "type": "p",
+    "link": "https://www.youtube.com/watch?v=sSGj6vslmvA&list=PLlgRhtOkjmmAnC-KqyZ72etjPD33pPw_9",
+    "text": {
+      "en": [
+        "No clue about coding or web development? This is where you'll find out how a web page works, what technologies bring it alive in front of your eyes."
+      ],
+      "ro": [
+        "No clue about coding or web development? This is where you'll find out how a web page works, what technologies bring it alive in front of your eyes."
+      ]
+    }
+  }
+]

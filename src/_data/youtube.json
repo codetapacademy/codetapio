@@ -25,5 +25,32 @@
       "en": "Watch on YouTube",
       "ro": "Vizioneaza pe YouTube"
     }
+  },
+  {
+    "type": "h2",
+    "text": {
+      "en": "Everyone can code - the beginning",
+      "ro": "Everyone can code - the beginning"
+    }
+  },
+  {
+    "type": "p",
+    "text": {
+      "en": [
+        "Start building your first website and HTML skills and discover various text editors to help you write better code faster."
+      ],
+      "ro": [
+        "Start building your first website and HTML skills and discover various text editors to help you write better code faster."
+      ]
+    }
+  },
+  {
+    "type": "a",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=Cd-l-i0zyAc&list=PLlgRhtOkjmmChKPBLToLu-scD1GIvzwQJ",
+    "text": {
+      "en": "Watch on YouTube",
+      "ro": "Vizioneaza pe YouTube"
+    }
   }
 ]

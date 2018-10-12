@@ -223,5 +223,34 @@
       "en": "Watch on YouTube",
       "ro": "Vizioneaza pe YouTube"
     }
+  },
+  {
+    "type": "h3",
+    "text": {
+      "en": "Junior Web Developer Test - we make websites",
+      "ro": "Junior Web Developer Test - we make websites"
+    }
+  },
+  {
+    "type": "p",
+    "text": {
+      "en": [
+        "István Ács and Marian will attempt to solve a coding test challenge for a real job! Can you do it?",
+        "Coding is fun! Ultra mega coding"
+      ],
+      "ro": [
+        "István Ács and Marian will attempt to solve a coding test challenge for a real job! Can you do it?",
+        "Coding is fun! Ultra mega coding"
+      ]
+    }
+  },
+  {
+    "type": "a",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=X-e45lyKp-8&list=PLlgRhtOkjmmD6y_h7VMQd55EQW83WYpHw",
+    "text": {
+      "en": "Watch on YouTube",
+      "ro": "Vizioneaza pe YouTube"
+    }
   }
 ]

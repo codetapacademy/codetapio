@@ -140,5 +140,32 @@
       "en": "Watch on YouTube",
       "ro": "Vizioneaza pe YouTube"
     }
+  },
+  {
+    "type": "h3",
+    "text": {
+      "en": "Boost my website",
+      "ro": "Boost my website"
+    }
+  },
+  {
+    "type": "p",
+    "text": {
+      "en": [
+        "In this series of boost my website we take Roberto Blake's website and rebuild it from scratch achieving 100/100 perfect Google PageSpeed score. The value of this work is about $3000, which means, mastering it would bring you valuable opportunities."
+      ],
+      "ro": [
+        "In this series of boost my website we take Roberto Blake's website and rebuild it from scratch achieving 100/100 perfect Google PageSpeed score. The value of this work is about $3000, which means, mastering it would bring you valuable opportunities."
+      ]
+    }
+  },
+  {
+    "type": "a",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=-5CNFpqR_Ug&list=PLlgRhtOkjmmDAMGG16mHdTm9DxTFS700C",
+    "text": {
+      "en": "Watch on YouTube",
+      "ro": "Vizioneaza pe YouTube"
+    }
   }
 ]

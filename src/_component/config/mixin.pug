@@ -7,6 +7,12 @@ mixin printContent(dataList)
       h3=data.text[lang]
     if data.type == 'h4'
       h4=data.text[lang]
+    if data.type == 'a'
+      a.button__watch(
+        href=data.link
+        title=data.text[lang]
+        target="_blank"
+      )=data.text[lang]
     else if data.type == 'p'
       each p in data.text[lang]
         p!=p

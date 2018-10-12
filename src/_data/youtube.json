@@ -113,5 +113,32 @@
       "en": "Watch on YouTube",
       "ro": "Vizioneaza pe YouTube"
     }
+  },
+  {
+    "type": "h3",
+    "text": {
+      "en": "Quick Blog",
+      "ro": "Quick Blog"
+    }
+  },
+  {
+    "type": "p",
+    "text": {
+      "en": [
+        "Build your first online awesome Blog using pure CSS3 and HTML5 techniques. You'll master how to use responsive web design to build multiple pages, mobile first approach, eliminate block rendering content and many more. Of course you'll also find out how to achieve perfect Google Page Speed score while you're building your first cool project to share with friends and family, impress recruiters and have a strong selling point towards employers or clients."
+      ],
+      "ro": [
+        "Build your first online awesome Blog using pure CSS3 and HTML5 techniques. You'll master how to use responsive web design to build multiple pages, mobile first approach, eliminate block rendering content and many more. Of course you'll also find out how to achieve perfect Google Page Speed score while you're building your first cool project to share with friends and family, impress recruiters and have a strong selling point towards employers or clients."
+      ]
+    }
+  },
+  {
+    "type": "a",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=a8I8Cb55_0c&list=PLlgRhtOkjmmDYg4FGJOQx3XirKAjQYnb4",
+    "text": {
+      "en": "Watch on YouTube",
+      "ro": "Vizioneaza pe YouTube"
+    }
   }
 ]

@@ -19,6 +19,7 @@
   },
   {
     "type": "a",
+    "button": "watch",
     "link": "https://www.youtube.com/watch?v=sSGj6vslmvA&list=PLlgRhtOkjmmAnC-KqyZ72etjPD33pPw_9",
     "text": {
       "en": "Watch on YouTube",

@@ -7,6 +7,15 @@
     }
   },
   {
+    "type": "a",
+    "link": "https://courses.codetap.io/p/zero-to-one",
+    "button": "course",
+    "text": {
+      "en": "Start Course",
+      "ro": "Incepe cursul"
+    }
+  },
+  {
     "type": "h3",
     "text": {
       "en": "What do you get?",

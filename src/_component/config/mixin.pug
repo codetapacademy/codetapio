@@ -8,7 +8,8 @@ mixin printContent(dataList)
     if data.type == 'h4'
       h4=data.text[lang]
     if data.type == 'a'
-      a.button__watch(
+      a(
+        class=`button__${data.button}`
         href=data.link
         title=data.text[lang]
         target="_blank"

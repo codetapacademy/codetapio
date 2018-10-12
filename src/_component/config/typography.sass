@@ -34,7 +34,8 @@ h4
 
 p, 
 li,
-.button__watch
+.button__watch,
+.button__course
   font-family: 'Lato'
   font-size: 1.5rem
   padding: 1rem 1.5rem
@@ -42,26 +43,35 @@ li,
   line-height: 1.4
 
 p,
-.button__watch
+.button__watch,
+.button__course
   border-radius: $square-button-border-radius
   margin: 1rem 0
 
-.button__watch
+.button__watch,
+.button__course
   text-align: center
   margin: 1rem auto
   display: inline-block
-  background-color: $color-alizarin-crimson
-  color: $color-white
   text-decoration: none
   display: inline-flex
   align-items: center
+  background-color: $color-alizarin-crimson
+  color: $color-white
 
   &:before
     font-family: 'codetap'
     font-size: 2rem
-    padding: 0.5rem
+    // padding: 0.5rem
     padding-right: 1rem
+
+.button__watch
+  &:before
     @extend .codetap__icon--youtube:after
+
+.button__course
+  &:before
+    @extend .codetap__icon--zero-to-one:after
 
 li
   &:nth-child(even)

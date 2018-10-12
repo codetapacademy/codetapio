@@ -11,7 +11,7 @@
     "link": "https://courses.codetap.io/p/zero-to-one",
     "button": "course",
     "text": {
-      "en": "Start Course",
+      "en": "Start Course Now",
       "ro": "Incepe cursul"
     }
   },
@@ -46,6 +46,15 @@
     }
   },
   {
+    "type": "a",
+    "link": "https://courses.codetap.io/p/zero-to-one",
+    "button": "course",
+    "text": {
+      "en": "Motivated Enough? Let's Start",
+      "ro": "Incepe cursul"
+    }
+  },
+  {
     "type": "h3",
     "text": {
       "en": "Knowledge and Experience",
@@ -64,6 +73,15 @@
         "at the end it'll be like switching to a new job, not getting your first"
       ],
       "ro": ["abc"]
+    }
+  },
+  {
+    "type": "a",
+    "link": "https://courses.codetap.io/p/zero-to-one",
+    "button": "course",
+    "text": {
+      "en": "I want that knowledge!",
+      "ro": "Incepe cursul"
     }
   },
   {
@@ -89,6 +107,15 @@
         "register on job portals"
       ],
       "ro": ["abc"]
+    }
+  },
+  {
+    "type": "a",
+    "link": "https://courses.codetap.io/p/zero-to-one",
+    "button": "course",
+    "text": {
+      "en": "My precious websites! Give 'em all",
+      "ro": "Incepe cursul"
     }
   }
 ]

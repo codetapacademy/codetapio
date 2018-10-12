@@ -194,5 +194,34 @@
       "en": "Watch on YouTube",
       "ro": "Vizioneaza pe YouTube"
     }
+  },
+  {
+    "type": "h3",
+    "text": {
+      "en": "Meet Pug (former Jade) template language",
+      "ro": "Meet Pug (former Jade) template language"
+    }
+  },
+  {
+    "type": "p",
+    "text": {
+      "en": [
+        "Pug is the most popular and one of the best template engines for HTML.",
+        "Its features are used by all levels of coders however it's a blessing for beginners as it improves understanding and speeds up the learning process."
+      ],
+      "ro": [
+        "Pug is the most popular and one of the best template engines for HTML.",
+        "Its features are used by all levels of coders however it's a blessing for beginners as it improves understanding and speeds up the learning process."
+      ]
+    }
+  },
+  {
+    "type": "a",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=2dCDu_8EVFA&list=PLlgRhtOkjmmAvyOIKHWfU-DVrLqRePWa1",
+    "text": {
+      "en": "Watch on YouTube",
+      "ro": "Vizioneaza pe YouTube"
+    }
   }
 ]

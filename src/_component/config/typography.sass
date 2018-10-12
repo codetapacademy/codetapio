@@ -33,16 +33,35 @@ h4
   @extend %header-main
 
 p, 
-li
+li,
+.button__watch
   font-family: 'Lato'
   font-size: 1.5rem
   padding: 1rem 1.5rem
   background-color: rgba($color-white, 1)
   line-height: 1.4
 
-p
+p,
+.button__watch
   border-radius: $square-button-border-radius
   margin: 1rem 0
+
+.button__watch
+  text-align: center
+  margin: 1rem auto
+  display: inline-block
+  background-color: $color-alizarin-crimson
+  color: $color-white
+  text-decoration: none
+  display: inline-flex
+  align-items: center
+
+  &:before
+    font-family: 'codetap'
+    font-size: 2rem
+    padding: 0.5rem
+    padding-right: 1rem
+    @extend .codetap__icon--youtube:after
 
 li
   &:nth-child(even)

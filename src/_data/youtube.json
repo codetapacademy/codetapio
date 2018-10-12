@@ -59,5 +59,32 @@
       "en": "Watch on YouTube",
       "ro": "Vizioneaza pe YouTube"
     }
+  },
+  {
+    "type": "h3",
+    "text": {
+      "en": "Learn to Code like a PRO for beginners",
+      "ro": "Learn to Code like a PRO for beginners"
+    }
+  },
+  {
+    "type": "p",
+    "text": {
+      "en": [
+        "This is the way all my successful students have taken to get familiar with HTML5 and CSS3 without knowing anything about coding before."
+      ],
+      "ro": [
+        "This is the way all my successful students have taken to get familiar with HTML5 and CSS3 without knowing anything about coding before."
+      ]
+    }
+  },
+  {
+    "type": "a",
+    "button": "watch",
+    "link": "https://www.youtube.com/watch?v=Y6Gz1ceMDNE&list=PLlgRhtOkjmmBo5GJsUvclXs5mPIIsBczX",
+    "text": {
+      "en": "Watch on YouTube",
+      "ro": "Vizioneaza pe YouTube"
+    }
   }
 ]

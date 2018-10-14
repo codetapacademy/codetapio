@@ -1,0 +1,24 @@
+@media (min-width: 1280px)
+  .menu__list
+    width: 30vw
+
+  .menu__text
+    font-size: 1.3rem
+    line-height: 1.5
+
+  .hired,
+  .reviews,
+  .who-made-it,
+  .students,
+  .opportunities,
+  .zero-to-one,
+  .one-to-hero,
+  .chat,
+  .youtube,
+  .faq
+    width: 70vw
+  div:target
+    right: 30vw
+
+  #menu:not(:target) ~ #reviews:not(:target) + #who-made-it:not(:target)+ #students:not(:target) + #opportunities:not(:target) + #zero-to-one:not(:target) + #one-to-hero:not(:target) + #chat:not(:target) + #youtube:not(:target) + #faq:not(:target) ~ #hired
+    right: 30vw

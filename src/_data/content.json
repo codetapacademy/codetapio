@@ -17,7 +17,7 @@
         "menu-list": [
             {
                 "label": {
-                    "en": "Frequently asked questions",
+                    "en": "Questions",
                     "ro": "Întrebări frecvente"
                 },
                 "icon": "faq"
@@ -52,8 +52,8 @@
             },
             {
                 "label": {
-                    "en": "Opportunities explained",
-                    "ro": "Cum funcționează treaba"
+                    "en": "Opportunities",
+                    "ro": "Cum funcționează"
                 },
                 "icon": "opportunities"
             },

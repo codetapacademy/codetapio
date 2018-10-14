@@ -1,0 +1,17 @@
+.qustion__list
+  each item, anAwesomeKey in data.question
+    label(
+      for=`my-awesome-id-${anAwesomeKey}`
+    ).question__item= item.question
+
+.answer__list
+  each item, key in data.question
+    input(
+      type="radio"
+      name="tra-la-la"
+      id=`my-awesome-id-${key}`
+    )
+    .answer__title-wrapper
+      .question__item= item.question
+      .asnwer__close &times;
+    .answer__item= item.answer

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+html(lang="en")
+  head
+    meta(charset="UTF-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    meta(http-equiv="X-UA-Compatible", content="ie=edge")
+    title Document
+  body
+    div#counter hello from counter
+  script.
+    const counter = document.getElementById('counter');
+    let timer = 100;
+    const decreaseTime = () => {
+      if(timer === 0){
+        clearInterval(interval)
+        return 
+      }
+      timer--
+      counter.textContent = formatTimer(timer)
+    }
+    const interval =  setInterval(decreaseTime, 1000)
+
+    const  formatTimer = time => {
+      const minute = Math.floor(time / 60);
+      const second = time % 60;
+      return minute + ' : ' + second
+    }

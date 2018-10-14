@@ -1,0 +1,46 @@
+.answer__list
+  margin-top: 2rem
+
+.answer__item,
+.answer__title-wrapper,
+.question__item
+  background-color: rgba($color-white, 1)
+  font-family: 'Lato'
+  font-size: 1.5rem
+  padding: 1rem 1.5rem
+  line-height: 1.4
+  cursor: pointer
+  display: block
+
+.answer__item,
+.answer__title-wrapper
+  margin-bottom: 1rem
+  display: none
+
+.answer__title-wrapper
+  // width: 100%
+  justify-content: space-between
+  align-items: center
+
+input[name="tra-la-la"]
+  display: none
+
+  &:checked + .answer__title-wrapper + .answer__item
+    display: block
+
+  &:checked + .answer__title-wrapper
+    display: flex
+
+
+.question__item
+  &:nth-child(even)
+    background: $color-loblolly-light
+
+  &:first-child
+    border-top-left-radius: $square-button-border-radius
+    border-top-right-radius: $square-button-border-radius
+
+  &:last-child
+    border-bottom-left-radius: $square-button-border-radius
+    border-bottom-right-radius: $square-button-border-radius
+

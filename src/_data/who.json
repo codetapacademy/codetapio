@@ -15,10 +15,28 @@
   },
   {
     "type": "portrait-image",
+    "path": "who-made-it-cate.jpg",
+    "alt": {
+      "en": "Cate Zee became a Web Developer - Freelancer",
+      "ro": "Cate Zee a devenit Dezvoltator Web - Freelancer"
+    },
+    "text": {
+      "en": [
+        "I wanted to learn about coding and web development because I was interested in developing skills in technology for my future. Looking for a simple coding course, I came across CodeTap and Marian and afterwards I started on the first playlist when I was eleven years old.",
+        "Since I joined CodeTap, I've learned how to build websites and gain an understanding of different coding languages.",
+        "Whenever I had a problem or a question, I asked Marian and the CodeTap group and they were ready to help me.",
+        "I'm really keen to master more programming languages with Marian and the group. They're really understanding and knowledgeable.",
+        "CodeTap is amazing!"
+      ],
+      "ro": "Cate Zee a devenit Dezvoltator Web - Freelancer"
+    }
+  },
+  {
+    "type": "portrait-image",
     "path": "who-made-it-valentina.jpg",
     "alt": {
       "en": "Valentina Vanu became a Web Developer - Freelancer",
-      "ro": "Valentina Vanu a devenit Dezvoltator Web"
+      "ro": "Valentina Vanu a devenit Dezvoltator Web - Freelancer"
     },
     "text": {
       "en": [

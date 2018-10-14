@@ -19,42 +19,52 @@
   include ../menu/menu
 
   #reviews.reviews
-    h1= getSectionTitle('reviews')
-    //- include the   review.pug file
-    include ../review/review
+    .info
+      h1= getSectionTitle('reviews')
+      //- include the   review.pug file
+      include ../review/review
 
   #who-made-it.who-made-it
-    h1= getSectionTitle('who-made-it')
-    +printContent(data.who)
+    .info
+      h1= getSectionTitle('who-made-it')
+      +printContent(data.who)
 
   #students.students
-    h1= getSectionTitle('students')
-    +printContent(data.students)
+    .info
+      h1= getSectionTitle('students')
+      +printContent(data.students)
 
   #opportunities.opportunities
-    h1= getSectionTitle('opportunities')
-    +printContent(data.opportunities)
+    .info
+      h1= getSectionTitle('opportunities')
+      +printContent(data.opportunities)
 
   #zero-to-one.zero-to-one
-    h1= getSectionTitle('zero-to-one')
-    +printContent(data['zero-to-one'])
+    .info
+      h1= getSectionTitle('zero-to-one')
+      +printContent(data['zero-to-one'])
 
   #one-to-hero.one-to-hero
-    h1= getSectionTitle('one-to-hero')
-    +printContent(data['one-to-hero'])
+    .info
+      h1= getSectionTitle('one-to-hero')
+      +printContent(data['one-to-hero'])
 
   #chat.chat
-    h1= getSectionTitle('chat')
-    +printContent(data.chat)
+    .info
+      h1= getSectionTitle('chat')
+      +printContent(data.chat)
 
   #youtube.youtube
-    h1= getSectionTitle('youtube')
-    +printContent(data.youtube)
+    .info
+      h1= getSectionTitle('youtube')
+      +printContent(data.youtube)
 
   #faq.faq
-    h1= getSectionTitle('faq')
+    .info
+      h1= getSectionTitle('faq')
 
   #hired.hired
-    //- include ../toggle-button/toggle-button
-    h1!= website.title[lang]
-    +printContent(data.hired)
+    .info
+      //- include ../toggle-button/toggle-button
+      h1!= website.title[lang]
+      +printContent(data.hired)

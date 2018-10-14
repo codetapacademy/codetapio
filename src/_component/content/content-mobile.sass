@@ -1,0 +1,45 @@
+.content
+  position: fixed
+  top: 0
+  left: 0
+  right: 0
+  bottom: 0
+  background-image: linear-gradient( 45deg, $color-pickled-bluewood, $color-wedgewood 50%, $color-blue-bayoux )
+
+%frame
+  padding: 3rem
+  transition: 0.2s
+  transition-delay: 0.2s
+  position: fixed
+  width: 100%
+  height: 100%
+  overflow-y: auto
+  top: 0
+  bottom: 0
+  padding-bottom: 7rem
+  right: -100%
+
+.hired,
+.reviews,
+.who-made-it,
+.students,
+.opportunities,
+.zero-to-one,
+.one-to-hero,
+.chat,
+.youtube,
+.faq
+  @extend %frame
+
+div:target
+  right: 0
+
+.content-toggle
+  display: none
+
+// .content-toggle:checked + div
+//   right: 0
+
+// #menu:not(:target) ~ #reviews:not(:target) + #who-made-it:not(:target) + #students:not(:target) + #opportunities:not(:target) + #zero-to-one:not(:target) + #one-to-hero:not(:target) + #reviews:not(:target) + #chat:not(:target) + #faq:not(:target) + #hired
+#menu:not(:target) ~ #reviews:not(:target) + #who-made-it:not(:target)+ #students:not(:target) + #opportunities:not(:target) + #zero-to-one:not(:target) + #one-to-hero:not(:target) + #chat:not(:target) + #youtube:not(:target) + #faq:not(:target) ~ #hired
+  right: 0

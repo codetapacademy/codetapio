@@ -1,12 +1,38 @@
+.answer__close
+  font-size: 3rem
+  flex-basis: 2rem;
+
 .answer__list
-  margin-top: 2rem
+  display: flex
+  flex-direction: column
+  justify-content: center
+  padding: 2rem
+  background-color: rgba(0, 0, 0, 0.8)
+  position: fixed
+  top: 0
+  left: 0
+  right: 0
+  bottom: 0
+
+.answer__close
+  cursor: pointer
+
+#answer__list-toggle:checked + .answer__list
+  display: none
+
+.question__item
+  flex-grow: 1
+  font-size: 2rem
+
+.answer__item
+  font-size: 1.5rem
 
 .answer__item,
 .answer__title-wrapper,
 .question__item
   background-color: rgba($color-white, 1)
   font-family: 'Lato'
-  font-size: 1.5rem
+  // font-size: 1.5rem
   padding: 1rem 1.5rem
   line-height: 1.4
   cursor: pointer
@@ -22,7 +48,8 @@
   justify-content: space-between
   align-items: center
 
-input[name="tra-la-la"]
+input[name="tra-la-la"],
+#answer__list-toggle
   display: none
 
   &:checked + .answer__title-wrapper + .answer__item

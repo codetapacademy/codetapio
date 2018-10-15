@@ -4,6 +4,12 @@
       for=`my-awesome-id-${anAwesomeKey}`
     ).question__item= item.question
 
+input(
+  type="radio"
+  name="tra-la-la"
+  id="answer__list-toggle"
+  checked
+)
 .answer__list
   each item, key in data.question
     input(
@@ -13,5 +19,7 @@
     )
     .answer__title-wrapper
       .question__item= item.question
-      .asnwer__close &times;
+      label(
+        for="answer__list-toggle"
+      ).answer__close &times;
     .answer__item= item.answer

@@ -1,20 +1,8 @@
 .toggle-button__wrapper
   .toggle-button__background
-  input.toggle-button__radio(
-    type="radio"
-    id="language-selector-1"
-    name="language-selector"
-    checked
-  )
-  input.toggle-button__radio(
-    type="radio"
-    id="language-selector-2"
-    name="language-selector"
-  )
-  .toggle-button__slider
-  label(
-    for="language-selector-1"
-  ).toggle-button__label English
-  label(
-    for="language-selector-2"
-  ).toggle-button__label Română
+  //- .toggle-button__slider
+  each button in data.content.language
+    a(
+      href=button.url
+      class=`toggle-button__label${button.value === lang ? '--active' : ''}`
+    )= button.label

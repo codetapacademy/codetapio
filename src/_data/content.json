@@ -9,6 +9,18 @@
             "ro": "Începe călătoria ta către Junior Web Developer, clădește lumea digitală și învață că programarea este noua monedă"
         }
     },
+    "language": [
+        {
+            "value": "en",
+            "label": "English",
+            "url": "http://info.codetap.io"
+        },
+        {
+            "value": "ro",
+            "label": "Română",
+            "url": "http://ro.info.codetap.io"
+        }
+    ],
     "content": {
         "menu": {
             "en": "Menu",

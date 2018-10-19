@@ -5,58 +5,30 @@
   height: $toggle-button-height
   margin: 0 auto
   display: flex
+  box-shadow: 1px -1px 0px $color-black
+  border-radius: $toggle-button-border-radius
+  background-image: linear-gradient($color-loblolly-light, $color-loblolly-normal)
 
-.toggle-button__background
-
-  &:after,
-  &:before
-    // shared style between after and before
-    width: $toggle-button-wrapper-width
-    content: ''
-    height: $toggle-button-height
-    position: absolute
-    border-radius: $toggle-button-border-radius
-
-  &:after
-    background-image: linear-gradient($color-loblolly-light, $color-loblolly-normal)
-
-  &:before
-    top: -0.1rem
-    background-color: $color-cape-cod
-
-.toggle-button__label
+.toggle-button__label,
+.toggle-button__label--active
   font-size: 1.6rem
   cursor: pointer
-  top: 0
-  position: absolute
   flex-grow: 1
-  height: 100%
   display: flex
   justify-content: center
   align-items: center
+  text-decoration: none
 
-  &:nth-of-type(1)
-    left: 0
-  &:nth-of-type(2)
-    right: 0
+.toggle-button__label--active
+  display: flex
+  justify-content: center
+  align-items: center
+  font-size: 1.6rem
+  border-radius: $toggle-button-border-radius
+  width: 10rem
+  height: $toggle-button-height
+  border: 0
+  color: $color-white
 
-  &--active
-    position: absolute
-    display: flex
-    justify-content: center
-    align-items: center
-    font-size: 1.6rem
-    border-radius: $toggle-button-border-radius
-    width: 10rem
-    height: $toggle-button-height
-    border: 0
-    color: $color-white
-    background-image: linear-gradient($color-apple, $color-salem)
-
-.toggle-button__radio
-  display: none
-  &:checked:nth-of-type(1) ~ .toggle-button__slider
-    left: 0
-  &:checked:nth-of-type(2) ~ .toggle-button__slider
-    left: 50%
-
+.toggle-button__label--active
+  background-image: linear-gradient($color-apple, $color-salem)

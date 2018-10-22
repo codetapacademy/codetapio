@@ -36,7 +36,8 @@
       ],
       "ro": [
         "CodeTap oferă și va oferi cursuri GRATUIT pe platforma YouTube. Tot ce trebuie să ai este o conexiune la internet, acces la un calculator sau laptop și limba engleză la nivel de bază.",
-        "Presupun că ai toate acestea din moment ce citești această informație."
+        "Presupun că ai toate acestea din moment ce citești această informație.",
+        "O voință puternică și determinare vor fi prietenii tăi cei mai buni pe acest parcurs. Dacă o durere, o nemulțumire, te-a adus aici, precum: ești sătul de o slujbă plictisitoare, nu ești plătit cât vrei sau nu vezi o lumină la capătul tunelului, folosește asta să te motiveze în <em>\"Călătoria ta spre Web Developer.\"</em>"
       ]
     }
   },
@@ -51,13 +52,16 @@
     "type": "p",
     "text": {
       "en": [
-        "CodeTap made it easy for you. All you have to do is pay a visit to our CodeTap channel on YouTube by visiting <a href='http://codetap.io/youtube'>CodeTap YouTube Channel</a>.",
+        "CodeTap made it easy for you. All you want to do is pay a visit to our CodeTap channel on YouTube by visiting <a href='http://codetap.io/youtube'>CodeTap YouTube Channel</a>.",
         "Make sure to hit the <b>Subscribe</b> button to stay up to date with all the FREE lessons and click the bell button too to be notified as soon as we release a new video.",
         "We are one step into the future as most lessons come in Ultra High Definition 4K and High Frame Rate 60fps to give you the best experience possible.",
         "Click the PLAYLISTS button and start watching the playlists from older to newer. Follow every move the instructor does and in case you get stuck, use the comments section bellow and harness the power of CodeTap community. Here are the initial recommanded playlists order:"
       ],
       "ro": [
-        "Text in Romana"
+        "CodeTap a făcut toate acestea ușor de trecut prin ele pentru tine. Tot ce vrei să faci este sa vizitezi CodeTap pe platforma YouTube urmărind legătura <a href='http://codetap.io/youtube'>CodeTap YouTube Channel</a>.",
+        "Asigură-te că ai apăsat pe butonul de <b>Subscribe</b> sau <b>Abonează-te</b> ca să stai la curent cu toate lecțiile GRATUITE și apasă și butonul Clopoțel ca să fii anunțat imediat ce apare conținut nou.",
+        "Suntem cu un pas înainte deoarece majoritatea lecțiilor sunt în format UHD Ultra High Definition 4K și High Frame Rate 60fps ca să-ți oferim cea mai bună experiență posibilă, în funcție de situație.",
+        "Apasă pe tab-ul PLAYLIST-uri și începe vizionarea proiectelor de la cele mai vechi la cele mai noi. Urmărește orice mișcare făcută de profesor iar dacă te blochezi, folosește secțiunea de comentarii și nutrește puterea comunitășii CodeTap. Uite o listă recomandată cu ce proiecte să începi:"
       ]
     }
   },
@@ -73,7 +77,12 @@
         "Boost my website"
       ],
       "ro": [
-        "Text in Romana"
+        "Before we start coding",
+        "everyone can code",
+        "Learn to code like a PRO for beginners",
+        "Your resume online for FREE with HTML5 and CSS3",
+        "Quick Blog",
+        "Boost my website"
       ]
     }
   },
@@ -81,7 +90,7 @@
     "type": "h2",
     "text": {
       "en": "What do I get out of it?",
-      "ro": "Bine! Ce urmează"
+      "ro": "Cu ce mă ajută toate astea?"
     }
   },
   {

@@ -42,8 +42,8 @@
       "cssExternal": "style**.{scss,sass}",
       "cssEmbed": "embed**.{scss,sass}",
       "css": {
-        "embed": false,
-        "external": true
+        "embed": true,
+        "external": false
       }
     }
   },

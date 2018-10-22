@@ -16,7 +16,10 @@
         "Stackoverflow - top 6%"
       ],
       "ro": [
-        "Text in Romana"
+        "5 din 5 stele",
+        "Peste 5 milioane vizualizări",
+        "Peste 70 000 abonați pe FaceBook, YouTube, Twitter și Instagram",
+        "Stackoverflow - top 6%"
       ]
     }
   },
@@ -27,7 +30,7 @@
         "Find a way to say: Hi! You're only one decision away from an amazing journey that'll last the rest of your life. The journey to live better."
       ],
       "ro": [
-        "Text in Romana"
+        "Găsiți o modalitate de a spune: Bună! Sunteți doar o decizie departe de o călătorie uimitoare care va dura restul vieții voastre. Călătoria pentru a trăi mai bine."
       ]
     }
   },
@@ -36,7 +39,7 @@
     "path": "contact.svg",
     "alt": {
       "en": "Contact Codetap or Marian Zburlea, the founder",
-      "ro": "Daniel Varvara a devenit Dezvoltator Web"
+      "ro": "Contactați Codetap sau pe Marian Zburlea, fondatorul"
     },
     "text": {
       "en": [],

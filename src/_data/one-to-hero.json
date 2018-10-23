@@ -3,14 +3,14 @@
     "type": "h2",
     "text": {
       "en": "start earning between £50,000 and £200,000 per year",
-      "ro": "start earning between £50,000 and £200,000 per year"
+      "ro": "Începe să câștigi între £50.000 și £200.000 anual"
     }
   },
   {
     "type": "h3",
     "text": {
       "en": "What do you get?",
-      "ro": "abc"
+      "ro": "Ce primești?"
     }
   },
   {
@@ -20,9 +20,14 @@
         "You get to be a freakin' legend and live like in the movies",
         "I made my dream come true. I drive a Tesla and experience 0 to 60 mph in 2.5 seconds every red light I stop at as first and it's safe to do it. It's bananas!",
         "This course is only available to students that have finished the first course, Zero to One",
-        "You can still contact me as I am flexible for people that really want my help to do great things in shorter time."
+        "You can still contact CodeTap for a quick chat if you want a boost in your career."
       ],
-      "ro": ["abc"]
+      "ro": [
+        "Devii legendar și-ți trăiești viața ca în filme.",
+        "Eu mi-am făcut visul realitate. Conduc o Tesla și simt 0 la 100 în 2.5 secunde la fiecare roșu ce opresc și e în siguranță să accelerez rapid. E nebunie curată!",
+        "Acest curs este valabil doar studenților ce au terminat primul curs.",
+        "Poți să contactezi CodeTap pentru un chat scurt dacă vrei să avansezi mai repede în carieră."
+      ]
     }
   }
 ]

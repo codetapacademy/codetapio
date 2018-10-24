@@ -50,7 +50,7 @@
         "it is one of the quickest to start bring revenue in the short term and most of the time is quite steady"
       ],
       "ro": [
-        "este usor de înțeles și de a te conecta deoarece majoritatea o fac",
+        "este ușor de înțeles și de a te conecta deoarece majoritatea o fac",
         "este accesibilă și cea mai des întâlnită pe piață ca număr de oferte",
         "este una din cele mai bine plătite slujbe ce poți avea",
         "să ai diplomă este opțional - majoritatea angajatorilor nu solicită una deoarece caută oameni care pot face sau sunt capabili să descopere rezolvările mai mult decât oamenii care arată bine pe hârtie",
@@ -150,7 +150,7 @@
       "ro": [
         "Ai putea să câștigi mai puțin decât un angajat, de obicei datorită lipsei de aptitudini în dezvoltarea afacerii și vânzări.",
         "O picătură aici sau o ploaie acolo de stres în a găsi clienți.",
-        "O să vrei să îți pierzi timpul cu hârțogăraie."
+        "O să vrei să îți pierzi timpul cu hârțogărie."
       ]
     }
   },
@@ -194,7 +194,7 @@
       "ro": [
         "Vei putea căpăta experiență foarte multă într-un timp scurt",
         "Îți poți trăi viața ca în filme",
-        "Poți să îți susții ideile proprii fie afaceri sau pro-bono"
+        "Poți să îți susții ideile proprii fie afaceri sau pro bono"
       ]
     }
   },
@@ -295,7 +295,13 @@
         "The learning curve is quite high",
         "Stress will be your friend and your enemy at the same time"
       ],
-      "ro": "Bine! Ce urmează"
+      "ro": [
+        "Numai pentru cei îndrăzneți care nu se tem să facă riscuri calculate",
+        "S-ar putea să nu reușiți și să dați greș destul de bine",
+        "S-ar putea să eșuezi de mai multe ori până când veți găsi ceva ce merge",
+        "Timpul stăpânirii acestei arte este destul de mare",
+        "Stresul va fi prietenul tău și inamicul tău în același timp"
+      ]
     }
   }
 ]

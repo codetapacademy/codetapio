@@ -15,7 +15,14 @@
         "The future is bright, I’m eager to learn and to go deeper with JavaScript and libraries like React, Angular and Redux. Doing this I will never get bored because I can learn amazing stuff every day.",
         "I trully love Coding!"
       ],
-      "ro": "Daniel Varvara a devenit Dezvoltator Web"
+      "ro": [
+        "Am venit la Londra acum 3 ani și prima mea slujbă a fost ca șofer de bicicletă la Domino's Pizza. După primul an am fost selectat cel mai bun șofer al anului și câștigam mai mulți bani decât un Area Manager, așa că după cel de-al doilea an m-am plictisit pentru că nu mai era loc de a avansa mai mult în această companie, așa că am părăsit locul de muncă pentru Deliveroo.",
+        "Am lucrat cu prietenul meu Gabriel și l-am găsit pe Marian pe Facebook. Eram atât de entuziasmat când am văzut videoclipurile cu el și cu studenții care au primit slujba.",
+        "Așa că am spus să încerc, nu pierd nimic, în timpul liber am codat și mi-a plăcut atât de mult!",
+        "Din prima zi am început să-mi construiesc propriul website și am urmărit aproape toate videoclipurile de la CodeTap pe YouTube. Am înțeles foarte bine HTML5 și CSS3 și acum am început să aplic pentru locuri de muncă. Am avut deja 2 interviuri și eu pot spune că este un sentiment minunat și îmi cresc încrederea în fiecare zi.",
+        "Viitorul este strălucitor, sunt dornic să învăț și să merg mai adânc cu JavaScript și cu librăriile precum React, Angular și Redux. Făcând asta, nu mă voi plictisi niciodată pentru că pot învăța lucruri uimitoare în fiecare zi.",
+        "Îmi place foarte mult să scriu coduri, să fiu programator!"
+      ]
     }
   },
   {
@@ -31,7 +38,11 @@
         "Having firm grasp of Digital Marketing under my belt, I wanted to take my skills to the next level and also be able to code on my own, share ideas with others and overall, be a better asset in multi-disciplinary teams.",
         "With a life ahead of constant learning, I as a student realize now that the shortcut is hard work."
       ],
-      "ro": "Daniel Varvara a devenit Dezvoltator Web"
+      "ro": [
+        "După o primă întâlnire cu industria jocurilor, am căpătat un gust pentru dezvoltarea jocurilor, experiența utilizatorului și designul, am fost atras mai mult și mai mult de dezvoltarea front-end",
+        "Având o înțelegere fermă a marketingului digital sub centura mea, am vrut să-mi duc abilitățile la nivelul următor și să pot scrie coduri pe cont propriu, să împărtășesc idei cu alții și, în ansamblu, să fie un avantaj mai bun în echipele multidisciplinare",
+        "Cu o viață înainte de învățarea constantă, eu ca student înțeleg acum că scurtătura este o muncă grea"
+      ]
     }
   },
   {
@@ -45,7 +56,9 @@
       "en": [
         "CodeTap is awesome! It tought me how to contribute to a project as team member and how to be a better programmer."
       ],
-      "ro": "Daniel Varvara a devenit Dezvoltator Web"
+      "ro": [
+        "CodeTap este minunat! M-am învățat cum să contribui la un proiect ca membru al echipei și cum să fiu un programator mai bun."
+      ]
     }
   },
   {
@@ -58,19 +71,24 @@
     "text": {
       "en": [
         "My name is Julian and I'm 15 years old. I'm passionate about programming especially about the web.",
-        "It was a boring day and I was losing time doing something for myself or my future. Until ... I found a video of Marian about how a student of his has hired himself in 3 months as a web developer.The video lightened my mind and opened the way to a future where I wanted to be!",
+        "It was a boring day and I was losing time doing something for myself or my future. Until ... I found a video of Marian about how a student of his has hired himself in 3 months as a web developer. The video lightened my mind and opened the way to a future where I wanted to be!",
         "I started to work hard every day (even now) for 5 hours a day and I managed to master 14 technologies I never knew about. Marian and his community were like an angel, and every time I knew something it's wrong I was asking, and these benevolent people always answered me!",
         "The principle that I guess is like that \"Targets to the moon. Even if you do not, at least you will be among the stars.\""
       ],
-      "ro": "Daniel Varvara a devenit Dezvoltator Web"
+      "ro": [
+        "Numele meu este Julian și am 15 ani. Sunt pasionat de programare în special despre dezvoltarea web.",
+        "Era o zi plictisitoare și pierdeam timpul pentru a face ceva pentru mine sau pentru viitorul meu. Pana când ... Am găsit un film cu Marian despre cum un student al lui s-a angajat în 3 luni ca dezvoltator web. Filmul mi-a deschis mintea și mi-a arătat calea către un viitor în care vreau să fiu! ",
+        "Am început să muncesc din greu în fiecare zi (chiar și acum) timp de 5 ore pe zi și am reușit să stăpânesc 14 tehnologii despre care nu știam nimic până atunci. Marian și comunitatea lui CodeTap erau ca un înger și de fiecare dată când făceam ceva greșit, acești oameni erau binevoitori și mi-au răspuns întotdeauna! ",
+        "Principiul este așa \"Țintesc către lună. Chiar dacă nu reușesc, cel puțin voi fi printre stele.\""
+      ]
     }
   },
   {
     "type": "student-picture",
     "path": "student-picture-catalin-sandru.jpg",
     "alt": {
-      "en": "Catalin Sandru will become Junior Web Developer",
-      "ro": "Catalin Sandru va deveni Dezvoltator Web Junior"
+      "en": "Cătălin Sandru will become Junior Web Developer",
+      "ro": "Cătălin Sandru va deveni Dezvoltator Web Junior"
     },
     "text": {
       "en": [
@@ -78,7 +96,11 @@
         "I have created small simple webpages, learned and still learning how PUG Starter works; how to deal with errors etc. I've also learned some coding sintax, that is very important in web build; to refractor the code so I will not repeat myself... and many other things still to come to my knowledge.",
         "In the last few years I have realised that coding is the \"new\" thing. The reason I have started coding  is that I want to have some income, not a high one. I also want to have the independence to work form any part of the world and not form a 9  to 5 in an office."
       ],
-      "ro": "Daniel Varvara a devenit Dezvoltator Web"
+      "ro": [
+        "Am început să fac ceva tutoriale pe codecademy, dar nu a fost așa de serios. Apoi am văzut un emisiune în direct despre programare, CodeTap pe Facebook, care mi-a atras atenția. Am ezitat un timp scurt să-l contactez pe Marian (sunt cam timid), dar după aceea am luat programarea într-o manieră mai serioasă.",
+        "Am creat mici pagini web simple, am învățat și învăț încă cum funcționează PUG Starter, cum să rezolv erorile etc. Am învățat, de asemenea, sintaxa de programare, care este foarte importantă în crearea web-ului, cum să refac codul astfel încât să nu mă repet ... și multe alte lucruri care încă le am de învățat",
+        "În ultimii ani, mi-am dat seama că programarea este \"noua\" meserie la modă. Motivul pentru care am început să fiu programator este că vreau să obțin niște venituri bune, nu însă unele foarte înalte. Să pot lucra din orice parte a lumii și să nu mă conformez cu un serviciu de la 9 la 5 într-un birou. "
+      ]
     }
   }
 ]

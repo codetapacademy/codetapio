@@ -135,7 +135,7 @@
         "CONs:"
       ],
       "ro": [
-        "Text in Romana"
+        "CON"
       ]
     }
   },
@@ -143,11 +143,15 @@
     "type": "ul",
     "text": {
       "en": [
-        "You will be earning a bit less than as an employee",
+        "You will be earning a bit less than as an employee, usually because you lack skills in business development and marketing",
         "There is additional stress to always be hunting for clients",
         "There is some paperwork to be done here and there"
       ],
-      "ro": "Bine! Ce urmează"
+      "ro": [
+        "Ai putea să câștigi mai puțin decât un angajat, de obicei datorită lipsei de aptitudini în dezvoltarea afacerii și vânzări.",
+        "O picătură aici sau o ploaie acolo de stres în a găsi clienți.",
+        "O să vrei să îți pierzi timpul cu hârțogăraie."
+      ]
     }
   },
   {
@@ -164,7 +168,7 @@
         "This is one for the bold and the PRO"
       ],
       "ro": [
-        "Text in Romana"
+        "Asta e una pentru curajoși și profesioniști"
       ]
     }
   },
@@ -175,7 +179,7 @@
         "PROs:"
       ],
       "ro": [
-        "Text in Romana"
+        "PRO"
       ]
     }
   },
@@ -187,7 +191,11 @@
         "You can live the life of a little star",
         "You can sustain your own ideas and start-up your own business"
       ],
-      "ro": "Bine! Ce urmează"
+      "ro": [
+        "Vei putea căpăta experiență foarte multă într-un timp scurt",
+        "Îți poți trăi viața ca în filme",
+        "Poți să îți susții ideile proprii fie afaceri sau pro-bono"
+      ]
     }
   },
   {
@@ -197,7 +205,7 @@
         "CONs:"
       ],
       "ro": [
-        "Text in Romana"
+        "CON"
       ]
     }
   },
@@ -210,14 +218,19 @@
         "Usually it's aimed for professionals or seniors, but this is not a rule as there is room for exceptions",
         "Usually you get called to fix problems in a timely matter and ocasionally employees might not be as friendly as expected, so a bit of stress or more might be part of the job"
       ],
-      "ro": "Bine! Ce urmează"
+      "ro": [
+        "Este doar pentru cei ce nu au frică de a face riscuri calculate",
+        "Ai putea fi chemat într-o întâlnire pentru a îți fi comunicat că în una sau două săptămâni s-a terminat colaborarea. Când proiectele mari se restructurează și bugetul e redus, contractorii pleacă primii înaintea angajaților",
+        "De obicei e pentru seniori sau profesioniști deși e loc și pentru excepții, atât timp cât vrei să fii o excepție.",
+        "De obicei ești chemat să rezolvi ceva în timp scurt și sub presiune iar unii angajați ar putea fi nu foarte prietenoși, din invidie, așa că un pic de stres va fi la pachet."
+      ]
     }
   },
   {
     "type": "h2",
     "text": {
       "en": "Own a business or become an influencer",
-      "ro": "Afacerea ta"
+      "ro": "Afacerea ta sau influențator"
     }
   },
   {
@@ -227,7 +240,7 @@
         "The next level up from Contractor"
       ],
       "ro": [
-        "Text in Romana"
+        "Următorul nivel de la contractor"
       ]
     }
   },
@@ -252,7 +265,13 @@
         "You can live the life of a super star",
         "You can sustain your own ideas and start-up more of your own business"
       ],
-      "ro": "Bine! Ce urmează"
+      "ro": [
+        "Poți face cât alții într-o viață în scurt timp.",
+        "Poți crea mișcări, să faci parte din ceva măreț și de ce nu, să scrii istorie",
+        "Va fi plin de peripeții și energie pentru mult timp",
+        "Poți trăi viața unui super star",
+        "Îți poți susține ideile proprii si porni afaceri la nivel înalt"
+      ]
     }
   },
   {

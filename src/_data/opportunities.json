@@ -53,8 +53,8 @@
         "este usor de înțeles și de a te conecta deoarece majoritatea o fac",
         "este accesibilă și cea mai des întâlnită pe piață ca număr de oferte",
         "este una din cele mai bine plătite slujbe ce poți avea",
-        "having a degree is optional - most employers don't ask for one as they look for people that can do or are able to figure things our more than people that look good on paper",
-        "it is one of the quickest to start bring revenue in the short term and most of the time is quite steady"
+        "să ai diplomă este opțional - majoritatea angajatorilor nu solicită una deoarece caută oameni care pot face sau sunt capabili să descopere rezolvările mai mult decât oamenii care arată bine pe hârtie",
+        "este una dintre cele mai rapide în a începe să aducă venituri pe termen scurt și de cele mai multe ori este destul de constantă, oferă siguranță ridicată"
       ]
     }
   },
@@ -65,7 +65,7 @@
         "CONs:"
       ],
       "ro": [
-        "Text in Romana"
+        "CON"
       ]
     }
   },
@@ -77,14 +77,18 @@
         "All the other opportunities need to be persued for the long run and usually bring in unexpected and unbelievable results.",
         "The safe way would be to get employed in a job while investing time in one of the other opportunities"
       ],
-      "ro": "Bine! Ce urmează"
+      "ro": [
+        "Deși începe să aducă bani rapid și este o slujbă de vârf plătită care va aduce un zâmbet pe fața ta, are și cel mai mic potențial dintre toate opțiunile ce CodeTap vă deschide ușa.",
+        "Toate celelalte oportunități au nevoie să investești timp pe o lungă durată și aduc de obicei rezultate ce te lasă cu gura cască.",
+        "O cale mai sigură ar fi să te angajezi în timp ce investești timp in celelalte oportunități."
+      ]
     }
   },
   {
     "type": "h2",
     "text": {
       "en": "Freelance",
-      "ro": "Angajat"
+      "ro": "Liber profesionist"
     }
   },
   {
@@ -94,7 +98,7 @@
         "From what I know this is the second most common opportunity."
       ],
       "ro": [
-        "Text in Romana"
+        "Din câte știu este pe locul doi dintre cele mai abordate oportunități"
       ]
     }
   },
@@ -105,7 +109,7 @@
         "PROs:"
       ],
       "ro": [
-        "Text in Romana"
+        "PRO"
       ]
     }
   },
@@ -117,7 +121,11 @@
         "Most of the time you take small to medium projects and aim to deliver them to the agreed deadline.",
         "I would say most freelancers enjoy the freedom of having their own schedule"
       ],
-      "ro": "Bine! Ce urmează"
+      "ro": [
+        "Este foarte similar cu a fi angajat în ceea ce faci cu excepția că tu ești șeful tău.",
+        "Majoritatea timpului iei proiecte mici și mijlocii și țintești să le dai gata în termenul stabilit",
+        "Aș putea spune că majoritatea liberilor profesioniști se bucură de a își face singuri programul de lucru."
+      ]
     }
   },
   {

@@ -3,14 +3,16 @@
     "type": "portrait-image",
     "path": "who-made-it-razvan.jpg",
     "alt": {
-      "en": "Razvan Puscasu became a Junior Web Developer",
-      "ro": "Razvan Puscasu a devenit Dezvoltator Web Junior"
+      "en": "Răzvan Pușcașu became a Junior Web Developer",
+      "ro": "Răzvan Pușcașu a devenit Dezvoltator Web Junior"
     },
     "text": {
       "en": [
         "After 2 years of maritime navigation around Europe, one day, I've decided I need a career change. That's when CodeTap showed up on my Facebook page. Ever since day 0, I was able to build and to understand how websites work, even though I had no knowledge before I started. Managed to get my first job on the first interview I had, after only 1 month and 17 days of hardcore coding for a minimum of 6 hours per day. So, I'm challenging you to break my record ! 😀"
       ],
-      "ro": "Razvan Puscasu a devenit Dezvoltator Web"
+      "ro": [
+        "După 2 ani de navigație maritimă în Europa, într-o zi, am decis că am nevoie de o schimbare de carieră. Atunci a apărut CodeTap pe pagina Facebook. Începând cu ziua 0, am reușit să construiesc și să înțeleg cum funcționează site-urile web, chiar dacă nu am avut nici o cunoștință înainte de a începe. A reușit să obțin primul job la primul interviu pe care l-am avut, după numai 1 lună și 17 zile de codare hardcore pentru cel puțin 6 ore pe zi. Deci, vă provoc să-mi doborăți recordul! 😀"
+      ]
     }
   },
   {
@@ -28,7 +30,13 @@
         "I'm really keen to master more programming languages with Marian and the group. They're really understanding and knowledgeable.",
         "CodeTap is amazing!"
       ],
-      "ro": "Cate Zee a devenit Dezvoltator Web - Freelancer"
+      "ro": [
+        "Am vrut să învăt despre programare și dezvoltare web pentru că am fost interesată de dezvoltarea abilităților în tehnologie pentru viitorul meu. Căutam un simplu curs de programare și am dat peste CodeTap si Marian. După aceea am început cu prima listă de filme când aveam 11 ani.",
+        "De când m-am alăturat CodeTap, am învățat cum să construiesc site-uri și să înțeleg diferite limbi de programare",
+        "Ori de câte ori am avut o problemă sau o întrebare, l-am întrebat pe Marian și pe grupul CodeTap și au fost gata să mă ajute",
+        "Sunt foarte dornică să stăpânesc mai multe limbi de programare împreună cu Marian și cu grupul CodeTap. Sunt într-adevăr înțelepți și pricepuți",
+        "CodeTap este uimitor!"
+      ]
     }
   },
   {
@@ -42,7 +50,9 @@
       "en": [
         "I started with zero knowledge and I had no idea what building a website implies until I met codetap. Marian helped me understand the process, thought me about each and every programming language or programs are needed in order to build a website. The most important thing I learned was the mind set while learning and working at the same time, as I had to find a logic behind the code. Any goal can be accomplished if you put enough effort into it!"
       ],
-      "ro": "Valentina Vanu a devenit Dezvoltator Web"
+      "ro": [
+        "Am început cu zero cunoștinte și nu aveam nici o idee ce implică construirea unui site până cand am întalnit CodeTap. Marian m-a ajutat să înțeleg procesul, m-a învățat despre fiecare limbă de programare sau programe necesare pentru a construi un site web. Cel mai important lucru pe care l-am învățat a fost abordarea și atitudinea în timp ce înveți și lucrezi în același timp, deoarece trebuia să găsesc o logică în spatele programării. Orice obiectiv poate fi realizat dacă depuneți suficient efort!"
+      ]
     }
   },
   {
@@ -59,7 +69,12 @@
         "I now work at Bookatable and also made partner in a Tech Startup that will revolutionize the world.",
         "So, yeah. If you code, you better CodeTap!"
       ],
-      "ro": "Daniel Varvara a devenit Dezvoltator Web"
+      "ro": [
+        "Nici măcar nu știam ce site web era în afara browserului și am început să-mi construiesc prima pagină în ziua întâi. Marian a fost un profesor excelent și a ținut mereu în centrul atenției cele mai importante lecții pentru a construi un arbore robust de cunoștințe. Îl veți găsi că vă readuce de pe câmpie de îndată ce vă îndepărtați de ceea ce este important. Un alt aspect foarte important este faptul că programarea cu CodeTap m-a echipat cu trucuri doar dobândite prin peste 20 de ani de muncă grea și cele mai bune practici de programator (veți afla în curând ceea ce înseamnă \"cea mai bună practică\") și experiența pe care Marian a reușit să o comprime în povești și proiecte ușor de digerat, ceea ce mi-a lansat cu mult înainte de competiția mea. Esențial, la CodeTap am aflat cum să mă comport într-un interviu și să îmi capăt încrederea, pregătindu-mă pentru viitor, asigurându-mă că sunt vizibil pentru angajatori pe toate platformele majore de locuri de muncă. Încă sunt sunat de cel puțin 5 ori pe zi și toate conturile pe platformele de locuri de muncă sunt închise.",
+        "Mi-au fost oferite primele 2 interviuri fața în față în primele 3 săptămâni de la lansare. Nu am reușit primul, dar mi-am primit prima ofertă de muncă în cel de-al doilea interviu.",
+        "Acum lucrez la Bookatable și, de asemenea, am făcut un partener într-un Startup Tech care va revoluționa lumea.",
+        "Deci, da, dacă vă apucați de coduri, mai bine apucă-te cu CodeTap!"
+      ]
     }
   },
   {
@@ -73,7 +88,9 @@
       "en": [
         "Still in draft"
       ],
-      "ro": "Carol Enache a devenit Dezvoltator Web"
+      "ro": [
+        "E mare leneș Carol, altfel era un text frumos aici!"
+      ]
     }
   },
   {
@@ -87,7 +104,9 @@
       "en": [
         "Still in draft"
       ],
-      "ro": "Flavius Bohaciuc a devenit Dezvoltator Web"
+      "ro": [
+        "E mare leneș Flavius, altfel era un text frumos aici!"
+      ]
     }
   },
   {
@@ -101,7 +120,9 @@
       "en": [
         "After 4 years of doing jobs what I didn't like and felt my work worth nothing, after some research I found CodeTap. I started building websites from day one and I was able to understand how websites work without any knowledge before. I really enjoyed learning HTML, CSS, JavaScript and a lots of cool stuff from Marian. He motivated me every day to not giving up and I managed to get my first job after a couple of interviews. Now I am working as a junior web-developer at a cool company and now I feel my work is worth something and that's what you guys can get when joining to the CodeTap family!"
       ],
-      "ro": "Istvan Acs a devenit Dezvoltator Web"
+      "ro": [
+        "După 4 ani de a face slujbe ce nu mi-a plăcut și am simțit că munca mea era în zadar, după unele cercetări am găsit CodeTap. Am început să construiesc site-uri web din prima zi și am reușit să înțeleg cum funcționează site-urile Web fără să am cunoștințe anterioare. Mi-a plăcut cu adevărat să învăț HTML, CSS, JavaScript și multe lucruri interesante de la Marian. M-a motivat în fiecare zi să nu renunț și am reușit să obțin primul meu loc de muncă după câteva interviuri. Acum lucrez ca un dezvoltator web de junior în cadrul unei companii interesante și acum simt că munca mea înseamnă ceva și asta este ceea ce puteți obține când vă alăturați familiei CodeTap!"
+      ]
     }
   },
   {
@@ -121,7 +142,15 @@
         "After 2 months I started applying for jobs. I was surprised that I got so many phone calls from recruiters then I got to go to a few interviews and then, finaly got a job. ",
         "I definetly owe a lot to Marian and after all this I think my only regret is, that I dint asked for help sooner."
       ],
-      "ro": "Vlasie Dragos a devenit Dezvoltator Web"
+      "ro": [
+        "Bună, numele meu este Dragos Vlasie, sunt un dezvoltator de web junior și lucrez în prezent la Londra",
+        "Am decis să urmăresc această pasiune acum un an. Am reușit să înveț elementele de bază pe cont propriu și aș putea să fac un site web. Am înțeles un pic de JavaScript, dar nu am reușit să ajung la următorul pas.",
+        "Am încercat și am eșuat de multe ori și m-am gândit să renunț la acest vis, dar apoi am văzut câteva posturi de la Marian pe freecodecamp, m-am gândit că era prea optimist la început și nu credeam că ar putea fi la fel de simplu așa cum spune el, dar odată cu trecerea timpului, am avut curajul să-i trimit un mesaj și să-i cer ajutor.",
+        "După aceea, Marian a fost incredibil de util și foarte frumos că m-a ajutat foarte mult. El este un mare mentor care m-a învățat atât de mult și mi-a arătat că nu ar trebui să mă tem să visez mare.",
+        "Sub îndrumarea lui, am reușit să învăț despre node, pug și cel mai important cum ar trebui să gândească un dezvoltator și ce ar trebui pregătit în special pentru piața muncii",
+        "După 2 luni am început să candidez pentru slujbe. Am fost surprins de faptul că am primit atât de multe apeluri telefonice de la recrutori, apoi am ajuns la câteva interviuri și apoi am obținut un loc de muncă",
+        "Îi datorez foarte mult lui Marian și, după toate astea, cred că singurul meu regret este că eu dint a cerut ajutor mai devreme"
+      ]
     }
   },
   {
@@ -137,7 +166,11 @@
         "I couldn't be more grateful to have find this page and have met him in person.",
         "If you want to be a great web developer, codetap is the answer! Thank you Marian!"
       ],
-      "ro": "Marco Pietro Caramaschi a devenit Dezvoltator Web"
+      "ro": [
+        "Feriți-vă: tot ce puteți găsi aici este o adevărată minunătie! Acest tip este uimitor, a condus cu o adevărată pasiune pentru ceea ce face și, cel mai important, este întotdeauna gata să vă ajute și să vă ofere sugestii bune, sfaturi și lecții",
+        "Nu puteam fi mai recunoscător pentru că am găsit această pagină și l-am întâlnit personal.",
+        "Dacă vrei să fii un mare dezvoltator de web, CodeTap este răspunsul! Mulțumesc Marian!"
+      ]
     }
   }
 ]

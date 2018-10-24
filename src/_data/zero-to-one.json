@@ -3,7 +3,7 @@
     "type": "h2",
     "text": {
       "en": "start earning between £20,000 and £50,000 per year",
-      "ro": "start earning between £20,000 and £50,000 per year"
+      "ro": "începe să câștigi între 20.000 și 50.000 de lire sterline pe an"
     }
   },
   {
@@ -12,21 +12,21 @@
     "button": "course",
     "text": {
       "en": "Start Course Now",
-      "ro": "Incepe cursul"
+      "ro": "Începe cursul acum"
     }
   },
   {
     "type": "h3",
     "text": {
       "en": "What do you get?",
-      "ro": "abc"
+      "ro": "Ce primești?"
     }
   },
   {
     "type": "h4",
     "text": {
       "en": "Enhance your mindset",
-      "ro": "abc"
+      "ro": "Îmbunătățești mentalitatea"
     }
   },
   {
@@ -41,8 +41,17 @@
         "direction - guide you on the right path when you wonder off your path",
         "Job Hunting - lots of tips & tricks to prepare ahead of the interview as well as how to dominate an interview and succeed even in a failure",
         "success - this is where we party to celebrate a BIG success for you another one for CodeTap"
-              ],
-      "ro": ["abc"]
+      ],
+      "ro": [
+        "motivație - află cum să gândești pozitiv, să transformi scuzele în obstacole și să le depășești",
+        "sfaturi - să-ți arătăm multe greșeli pe care le-am făcut și cum să le eviți",
+        "obiectiv - vă ajută să definiți și să stabiliți obiective astfel încât să puteți evolua în mod continuu",
+        "susținere - suntem \"alături\" pentru a vă oferi la fiecare pas de la provocările de programator, la stăpânirea interviului și întrebări și  până la a obține angajarea",
+        "Coaching - îți îmbunătățești abilitățile cu minimul necesar și cele mai bune dintre cele mai bune tehnici și tehnologii",
+        "direcție - vă ghidează pe calea cea dreaptă când te îndepărtezi de pe calea cea bună",
+        "Vânătoarea de locuri de muncă - o mulțime de sfaturi și trucuri pentru a te pregăti înainte de interviu, precum și cum să domini un interviu și de a reuși chiar și într-un eșec",
+        "succes - aici sărbătorim un mare succes pentru dvs. un altul pentru CodeTap"
+      ]
     }
   },
   {
@@ -51,14 +60,14 @@
     "button": "course",
     "text": {
       "en": "Motivated Enough? Let's Start",
-      "ro": "Incepe cursul"
+      "ro": "Motivat suficient? Să începem"
     }
   },
   {
     "type": "h3",
     "text": {
       "en": "Knowledge and Experience",
-      "ro": "abc"
+      "ro": "Cunoștințe și experiență"
     }
   },
   {
@@ -72,7 +81,14 @@
         "work in a team and master collaboration skills, one of the heavy weight abilities one must have in an interview",
         "at the end it'll be like switching to a new job, not getting your first"
       ],
-      "ro": ["abc"]
+      "ro": [
+        "lucrezi într-o replică a mediului real, folosind software, tehnologii, tehnici și metodologii pe care alte companii le folosesc",
+        "lucrezi la proiectele proprii, care îți vor crea portofoliul și îți va întări identitatea",
+        "construiți CV-ul beton (armat chiar) - acesta este unul dintre marile BONUS-uri, deseori studenții primesc de la 10 până la 30 de apeluri pe zi, recordul fiind de 265 de apeluri telefonice într-o săptămână",
+        "îmbunătățiți prezența online prin contul GitHub, StackOverflow, LinkedIn, Twitter, Instagram, Facebook etc.",
+        "lucrezi într-o echipă și stăpânești abilități de colaborare, una dintre abilitățile ce contează foarte mult într-un interviu",
+        "la final va fi ca trecerea la un loc de muncă nou, nu primesc primul dvs."
+      ]
     }
   },
   {
@@ -81,14 +97,14 @@
     "button": "course",
     "text": {
       "en": "I want that knowledge!",
-      "ro": "Incepe cursul"
+      "ro": "Vreau acum!"
     }
   },
   {
     "type": "h3",
     "text": {
       "en": "Real world projects",
-      "ro": "abc"
+      "ro": "Proiecte în lumea reală"
     }
   },
   {
@@ -106,7 +122,18 @@
         "build offline resume",
         "register on job portals"
       ],
-      "ro": ["abc"]
+      "ro": [
+        "Instrumente de instalare pentru accelerarea dezvoltării",
+        "Editor VS Code - NodeJS & Gulp - Git și GitHub",
+        "Ziua 1: construiți prima pagină web și aveți site-ul dvs. online fără a avea cunostințe despre ce este un server, de nume de domeniu, hosting, gestionarea fișierelor sau cumpărarea unui nume de domeniu",
+        "Construiți \"portofoliul meu\"",
+        "Construieste \"CV-ul meu\"",
+        "Înțelegi cum funcționează paginile web și SEO",
+        "Obțineți un scor perfect pe Google Page Speed Score",
+        "Introducere în JavaScript și în React",
+        "scrie un CV offline",
+        "înregistrare pe portaluri de locuri de muncă"
+      ]
     }
   },
   {
@@ -115,7 +142,7 @@
     "button": "course",
     "text": {
       "en": "My precious websites! Give 'em all",
-      "ro": "Incepe cursul"
+      "ro": "Micul meu website! Dă-mi-l!"
     }
   }
 ]

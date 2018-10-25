@@ -23,47 +23,6 @@
     }
   },
   {
-    "type": "h4",
-    "text": {
-      "en": "Enhance your mindset",
-      "ro": "Îmbunătățești mentalitatea"
-    }
-  },
-  {
-    "type": "ul",
-    "text": {
-      "en": [
-        "motivation - show how to think positive, convert excuses into obstacles and overcome them",
-        "advice - show you the many mistakes I've made and how to avoid them",
-        "goal - help you define and set targets so you can continuously evolve",
-        "support - be \"next\" to you every step from coding challenges to interview questions and getting hired",
-        "coaching - enhance your skills with minimum required and the best of the best techniques and technologies",
-        "direction - guide you on the right path when you wonder off your path",
-        "Job Hunting - lots of tips & tricks to prepare ahead of the interview as well as how to dominate an interview and succeed even in a failure",
-        "success - this is where we party to celebrate a BIG success for you another one for CodeTap"
-      ],
-      "ro": [
-        "motivație - află cum să gândești pozitiv, să transformi scuzele în obstacole și să le depășești",
-        "sfaturi - să-ți arătăm multe greșeli pe care le-am făcut și cum să le eviți",
-        "obiectiv - vă ajută să definiți și să stabiliți obiective astfel încât să puteți evolua în mod continuu",
-        "susținere - suntem \"alături\" pentru a vă oferi la fiecare pas de la provocările de programator, la stăpânirea interviului și întrebări și  până la a obține angajarea",
-        "Coaching - îți îmbunătățești abilitățile cu minimul necesar și cele mai bune dintre cele mai bune tehnici și tehnologii",
-        "direcție - vă ghidează pe calea cea dreaptă când te îndepărtezi de pe calea cea bună",
-        "Vânătoarea de locuri de muncă - o mulțime de sfaturi și trucuri pentru a te pregăti înainte de interviu, precum și cum să domini un interviu și de a reuși chiar și într-un eșec",
-        "succes - aici sărbătorim un mare succes pentru dvs. un altul pentru CodeTap"
-      ]
-    }
-  },
-  {
-    "type": "a",
-    "link": "https://courses.codetap.io/p/zero-to-one",
-    "button": "course",
-    "text": {
-      "en": "Motivated Enough? Let's Start",
-      "ro": "Motivat suficient? Să începem"
-    }
-  },
-  {
     "type": "h3",
     "text": {
       "en": "Knowledge and Experience",
@@ -143,6 +102,47 @@
     "text": {
       "en": "My precious websites! Give 'em all",
       "ro": "Micul meu website! Dă-mi-l!"
+    }
+  },
+  {
+    "type": "h4",
+    "text": {
+      "en": "Enhance your mindset",
+      "ro": "Îmbunătățești mentalitatea"
+    }
+  },
+  {
+    "type": "ul",
+    "text": {
+      "en": [
+        "motivation - show how to think positive, convert excuses into obstacles and overcome them",
+        "advice - show you the many mistakes I've made and how to avoid them",
+        "goal - help you define and set targets so you can continuously evolve",
+        "support - be \"next\" to you every step from coding challenges to interview questions and getting hired",
+        "coaching - enhance your skills with minimum required and the best of the best techniques and technologies",
+        "direction - guide you on the right path when you wonder off your path",
+        "Job Hunting - lots of tips & tricks to prepare ahead of the interview as well as how to dominate an interview and succeed even in a failure",
+        "success - this is where we party to celebrate a BIG success for you another one for CodeTap"
+      ],
+      "ro": [
+        "motivație - află cum să gândești pozitiv, să transformi scuzele în obstacole și să le depășești",
+        "sfaturi - să-ți arătăm multe greșeli pe care le-am făcut și cum să le eviți",
+        "obiectiv - vă ajută să definiți și să stabiliți obiective astfel încât să puteți evolua în mod continuu",
+        "susținere - suntem \"alături\" pentru a vă oferi la fiecare pas de la provocările de programator, la stăpânirea interviului și întrebări și  până la a obține angajarea",
+        "Coaching - îți îmbunătățești abilitățile cu minimul necesar și cele mai bune dintre cele mai bune tehnici și tehnologii",
+        "direcție - vă ghidează pe calea cea dreaptă când te îndepărtezi de pe calea cea bună",
+        "Vânătoarea de locuri de muncă - o mulțime de sfaturi și trucuri pentru a te pregăti înainte de interviu, precum și cum să domini un interviu și de a reuși chiar și într-un eșec",
+        "succes - aici sărbătorim un mare succes pentru dvs. un altul pentru CodeTap"
+      ]
+    }
+  },
+  {
+    "type": "a",
+    "link": "https://courses.codetap.io/p/zero-to-one",
+    "button": "course",
+    "text": {
+      "en": "Motivated Enough? Let's Start",
+      "ro": "Motivat suficient? Să începem"
     }
   }
 ]

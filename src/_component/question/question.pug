@@ -2,7 +2,7 @@
   each item, anAwesomeKey in data.question
     label(
       for=`my-awesome-id-${anAwesomeKey}`
-    ).question__item= item.question
+    ).question__item= item.question[lang]
 
 input(
   type="radio"
@@ -18,8 +18,8 @@ input(
       id=`my-awesome-id-${key}`
     )
     .answer__title-wrapper
-      .question__item= item.question
+      .question__item= item.question[lang]
       label(
         for="answer__list-toggle"
       ).answer__close &times;
-    .answer__item= item.answer
+    .answer__item= item.answer[lang]

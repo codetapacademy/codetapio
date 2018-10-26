@@ -1,34 +1,82 @@
 [
   {
-    "question": "How much do the courses cost?",
-    "answer": "On YouTube the courses are Free Forever!"
+    "question": {
+      "en": "How much do the courses cost?",
+      "ro": "Cat costă cursurile?"
+    },
+    "answer": {
+      "en": "On YouTube the courses are Free Forever!",
+      "ro": "Pe YouTube cursurile sunt Gratuite Mereu!"
+    }
   },
   {
-    "question": "Where can I attend the courses?",
-    "answer": "We live in 2018 so let's take advantage of the technology and be more efficient. Most of the time the courses are online. If you need help I can remote to your PC/Laptop and help you fix it. Several times a week I'm available at CodeTap studio, two times a month helping Free Code Camp at Code Node in Moorgate as well as lot's of coffee time in Central London."
+    "question": {
+      "en": "Where can I attend the courses?",
+      "ro": "Unde pot să particip la cursuri?"
+    },
+    "answer": {
+      "en": "We live in 2018 so let's take advantage of the technology and be more efficient. Most of the time the courses are online. If you need help I can remote to your PC/Laptop and help you fix it. Several times a week I'm available at CodeTap studio, two times a month helping Free Code Camp at Code Node in Moorgate as well as lot's of coffee time in Central London.",
+      "ro": "Trăim în 2018, astfel încât să profităm de tehnologie și să fim mai eficienți. De cele mai multe ori, cursurile sunt online. Dacă aveți nevoie de ajutor, vă pot ajuta la rezolvarea soluției de la distanță. De câteva ori pe săptămână sunt disponibil la studioul CodeTap, de două ori pe lună, ajutând Free Code Camp la Code Node din Moorgate, precum și mult timp la cafea în centrul Londrei."
+    }
   },
   {
-    "question": "How long does it take to get hired?",
-    "answer": "It all depends on you, how much free time you have and how hard will you push to make it happen. The record of a Junior Web Developer through CodeTap, on the second place is in 1 month and 17 days, held by Razvan Puscasu. On the first place is me, in 7 days, from Zero to Hired. Others made it in 2, 3, 4, 5 ... 12 months depending on their level of comfort and if they had a job to do to sustain them in their quest."
+    "question": {
+      "en": "How long does it take to get hired?",
+      "ro": "Cât durează să te angajezi?"
+    },
+    "answer": {
+      "en": "It all depends on you, how much free time you have and how hard will you push to make it happen. The record of a Junior Web Developer through CodeTap, on the second place is in 1 month and 17 days, held by Razvan Puscasu. On the first place is me, in 7 days, from Zero to Hired. Others made it in 2, 3, 4, 5 ... 12 months depending on their level of comfort and if they had a job to do to sustain them in their quest.",
+      "ro": "Totul depinde de tine, cât de mult timp ai liber și cât de greu vei împinge să faci asta. Recordul unui Junior Web Developer prin CodeTap, pe locul al doilea, este de 1 lună și 17 zile, deținut de Razvan Puscasu. Pe primul loc sunt eu, în 7 zile, de la zero la angajat. Alții l-au făcut în 2, 3, 4, 5 ... 12 luni, în funcție de nivelul lor de confort și dacă aveau de petrecut timpul la un loc de muncă pentru a se susține în căutarea lor."
+    }
   },
   {
-    "question": "What's the difference between Free and 1 to 1 mentor in terms of advantages?",
-    "answer": "The Free version, on average, takes a lot longer until you succeed and lots of headaches along the journey. I as a mentor will be there with you until you get hired, making all the content easy to digest based on your personality, showing you how to pull the ropes to get a better deal, mastering the interview process, how to craft your CV to get tens of calls a day, how to understand the technology and speak freely about it in an interview of in a pitch to a client and many more."
+    "question": {
+      "en": "What's the difference between Free and 1 to 1 mentor in terms of advantages?",
+      "ro": "Ce avantaje am sau care este diferența dintre Gratuit și mentor 1 la 1?"
+    },
+    "answer": {
+      "en": "The Free version, on average, takes a lot longer until you succeed and lots of headaches along the journey. I as a mentor will be there with you until you get hired, making all the content easy to digest based on your personality, showing you how to pull the ropes to get a better deal, mastering the interview process, how to craft your CV to get tens of calls a day, how to understand the technology and speak freely about it in an interview of in a pitch to a client and many more.",
+      "ro": "Versiunea gratuită, în medie, durează mult mai mult până când reușiți și o să ai mut mai multe dureri de cap de-a lungul călătoriei. Eu ca mentor voi fi acolo cu tine până când veți fi angajat, făcând tot conținutul ușor de digerat pe baza personalității dvs., arătându-vă cum să trageți corzile pentru a obține o ofertă mai bună, stăpânirea procesului de interviu, cum să primești zeci de apeluri pe zi, cum să înțelegi tehnologia și să vorbești liber despre asta într-un interviu într-un pitch pentru un client și multe altele."
+    }
   },
   {
-    "question": "What chances do I have to succeed?",
-    "answer": "So far all the students that followed my lead and put in the effort have succeded. That's 100% success rate. I'm doing my best and so should you to keep that percentage unchanged!"
+    "question": {
+      "en": "What chances do I have to succeed?",
+      "ro": "Ce șanse am să reușesc?"
+    },
+    "answer": {
+      "en": "So far all the students that followed my lead and put in the effort have succeeded. That's 100% success rate. I'm doing my best and so should you to keep that percentage unchanged!",
+      "ro": "Până în prezent toți studenții care au fost sub îndrumarea CodeTap și au depus efort au reușit. Rata de succes este de 100%. Fac tot ce pot și așa ar trebui fa faci si tu să păstrăm acel procent neschimbat!"
+    }
   },
   {
-    "question": "When can I start?",
-    "answer": "In the current format you can start yesterday :) or whenever you are ready. I'd say the sooner the better for you!"
+    "question": {
+      "en": "When can I start?",
+      "ro": "Când pot începe?"
+    },
+    "answer": {
+      "en": "In the current format you can start yesterday :) or whenever you are ready. I'd say the sooner the better for you!",
+      "ro": "În formatul curent puteți începe ieri :) sau oricând sunteți gata. Aș spune cu cât mai devreme cu atât mai bine pentru tine!"
+    }
   },
   {
-    "question": "Whom will hire me?",
-    "answer": "There are thousands of jobs on the market. My aim is to make you wantable and not just that. We've already hit twice the level of nailing an interview with no tests asked and a job offer same day. Yes, you can become that good! Think about it, it'll apply for the rest of your career, not just the first time."
+    "question": {
+      "en": "Whom will hire me?",
+      "ro": "Cine o să mă angajeze?"
+    },
+    "answer": {
+      "en": "There are thousands of jobs on the market. My aim is to make you wantable and not just that. We've already hit twice the level of nailing an interview with no tests asked and a job offer same day. Yes, you can become that good! Think about it, it'll apply for the rest of your career, not just the first time.",
+      "ro": "Există mii de locuri de muncă pe piață. Obiectivul CodeTap este să te facă irezistibil pe piața locurilor de muncă. Am atins deja de două ori nivelul de obținere a unei oferte din interviu fără teste și ofertă de muncă aceeași zi. Da, puteți deveni așa de buni! Pe deasupra, gândește-te la asta, se va aplica pentru restul carierei tale, nu doar pentru prima dată."
+    }
   },
   {
-    "question": "How's the atmosphere of 1 to 1 mentor like?",
-    "answer": "When you join CodeTap as a Premium Student, you'll encounter a flexible timetable that suits you and you'll be working in a real world remote team setup. You'll be using software that other companies do, do meetings as they do, with the exception that you don't produce work for CodeTap, all the projects you work on are yours. You gain knowledge and experience crazy fast while owning your work, which of course comes in handy in your portfolio."
+    "question": {
+      "en": "How's the atmosphere of 1 to 1 mentor like?",
+      "ro": "Cum este atmosfera de mentor 1 la 1?"
+    },
+    "answer": {
+      "en": "When you join CodeTap as a Premium Student, you'll encounter a flexible timetable that suits you and you'll be working in a real world remote team setup. You'll be using software that other companies do, do meetings as they do, with the exception that you don't produce work for CodeTap, all the projects you work on are yours. You gain knowledge and experience crazy fast while owning your work, which of course comes in handy in your portfolio.",
+      "ro": "Când vă alăturați CodeTap ca un Premium Student, veți întâlni un calendar flexibil care vi se potrivește și veți lucra într-o echipă reală de la distanță. Veți folosi software-ul pe care îl folosesc alte companii din domeniu, veți face întâlniri așa cum fac ele, cu excepția faptului că munca nu este pentru CodeTap, ci toate proiectele pe care le lucrați sunt ale dvs. Câștigi cunoștințe și experiență extraordinar de rapid în timp ce deții munca ta, care, desigur, vine la îndemână în portofoliul tău."
+    }
   }
 ]

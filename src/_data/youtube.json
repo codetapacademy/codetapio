@@ -26,6 +26,7 @@
   },
   {
     "type": "a",
+    "rel": "noopener",
     "button": "watch",
     "link": "https://www.youtube.com/watch?v=sSGj6vslmvA&list=PLlgRhtOkjmmAnC-KqyZ72etjPD33pPw_9",
     "text": {
@@ -53,6 +54,7 @@
   },
   {
     "type": "a",
+    "rel": "noopener",
     "button": "watch",
     "link": "https://www.youtube.com/watch?v=Cd-l-i0zyAc&list=PLlgRhtOkjmmChKPBLToLu-scD1GIvzwQJ",
     "text": {
@@ -80,6 +82,7 @@
   },
   {
     "type": "a",
+    "rel": "noopener",
     "button": "watch",
     "link": "https://www.youtube.com/watch?v=Y6Gz1ceMDNE&list=PLlgRhtOkjmmBo5GJsUvclXs5mPIIsBczX",
     "text": {
@@ -107,6 +110,7 @@
   },
   {
     "type": "a",
+    "rel": "noopener",
     "button": "watch",
     "link": "https://www.youtube.com/watch?v=hFMxS9hoswM&list=PLlgRhtOkjmmDYRVs9jFwV4nkbCx8Q5wiP",
     "text": {
@@ -134,6 +138,7 @@
   },
   {
     "type": "a",
+    "rel": "noopener",
     "button": "watch",
     "link": "https://www.youtube.com/watch?v=a8I8Cb55_0c&list=PLlgRhtOkjmmDYg4FGJOQx3XirKAjQYnb4",
     "text": {
@@ -161,6 +166,7 @@
   },
   {
     "type": "a",
+    "rel": "noopener",
     "button": "watch",
     "link": "https://www.youtube.com/watch?v=-5CNFpqR_Ug&list=PLlgRhtOkjmmDAMGG16mHdTm9DxTFS700C",
     "text": {
@@ -188,6 +194,7 @@
   },
   {
     "type": "a",
+    "rel": "noopener",
     "button": "watch",
     "link": "https://www.youtube.com/watch?v=PAqgJgt0T88&list=PLlgRhtOkjmmAblUGWNrMuYuz_sMlYANZ6",
     "text": {
@@ -217,6 +224,7 @@
   },
   {
     "type": "a",
+    "rel": "noopener",
     "button": "watch",
     "link": "https://www.youtube.com/watch?v=2dCDu_8EVFA&list=PLlgRhtOkjmmAvyOIKHWfU-DVrLqRePWa1",
     "text": {
@@ -246,6 +254,7 @@
   },
   {
     "type": "a",
+    "rel": "noopener",
     "button": "watch",
     "link": "https://www.youtube.com/watch?v=X-e45lyKp-8&list=PLlgRhtOkjmmD6y_h7VMQd55EQW83WYpHw",
     "text": {
@@ -273,6 +282,7 @@
   },
   {
     "type": "a",
+    "rel": "noopener",
     "button": "watch",
     "link": "https://www.youtube.com/watch?v=Lc2c5u5YGbc&list=PLlgRhtOkjmmAG-aO-5y126W12hU74BIsh",
     "text": {
@@ -300,6 +310,7 @@
   },
   {
     "type": "a",
+    "rel": "noopener",
     "button": "watch",
     "link": "https://www.youtube.com/watch?v=qnVBxlw0_I4&list=PLlgRhtOkjmmDfWxoyABmuzZx6vKvh56Xu",
     "text": {

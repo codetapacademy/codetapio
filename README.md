@@ -13,3 +13,10 @@ The website content will receive rarely updates to most of its content and quite
 
 ## Requirement source files
 You can find the requirement source files at https://github.com/codetapio/codetapio-requirement
+
+quick fix for npm
+```
+npm i imagemin-pngquant@5.0.1
+npm i pngquant-bin@3.1.1
+npm i -D del
+```

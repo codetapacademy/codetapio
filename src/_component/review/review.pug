@@ -5,6 +5,7 @@
       a.review__name(
         href=`http://facebook.com/${isNaN(Number(review.postId)) ? review.postId : `${review.userId}/posts/${review.postId}`}`
         target="_blank"
+        rel="noreferrer"
         title=`Read the original review of ${review.name}`
       )=review.name
       .review__rating=review.rating

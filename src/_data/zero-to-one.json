@@ -9,6 +9,7 @@
   {
     "type": "a",
     "link": "https://courses.codetap.io",
+    "rel": "noopener",
     "button": "course",
     "text": {
       "en": "Start Course Now",
@@ -53,6 +54,7 @@
   {
     "type": "a",
     "link": "https://courses.codetap.io",
+    "rel": "noopener",
     "button": "course",
     "text": {
       "en": "I want that knowledge!",
@@ -98,6 +100,7 @@
   {
     "type": "a",
     "link": "https://courses.codetap.io",
+    "rel": "noopener",
     "button": "course",
     "text": {
       "en": "My precious websites! Give 'em all",
@@ -139,6 +142,7 @@
   {
     "type": "a",
     "link": "https://courses.codetap.io",
+    "rel": "noopener",
     "button": "course",
     "text": {
       "en": "Motivated Enough? Let's Start",

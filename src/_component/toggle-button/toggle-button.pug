@@ -2,5 +2,6 @@
   each button in data.content.language
     a(
       href=button.url
+      rel="alternate"
       class=`toggle-button__label${button.value === lang ? '--active' : ''}`
     )= button.label

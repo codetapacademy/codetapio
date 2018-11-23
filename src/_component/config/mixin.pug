@@ -29,7 +29,7 @@ mixin printContent(dataList)
     else if data.type == 'portrait-image' || data.type == 'student-picture'
       div(
         class=data.type
-        style=`background-image: url(/asset/image/${data.path})`
+        style=`background-image: url(${baseUrl}/asset/image/${data.path})`
       )
       h3=data.alt[lang]
       .portrait-info

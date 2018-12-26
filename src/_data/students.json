@@ -27,42 +27,6 @@
   },
   {
     "type": "student-picture",
-    "path": "student-picture-dorin.jpg",
-    "alt": {
-      "en": "Dorin Dumitrascuta will become Junior Web Developer",
-      "ro": "Dorin Dumitrascuta va deveni Dezvoltator Web Junior"
-    },
-    "text": {
-      "en": [
-        "After a first touch with the gaming industry, getting a taste for game development, user experience and design, I got attracted more and more by front-end development.",
-        "Having firm grasp of Digital Marketing under my belt, I wanted to take my skills to the next level and also be able to code on my own, share ideas with others and overall, be a better asset in multi-disciplinary teams.",
-        "With a life ahead of constant learning, I as a student realize now that the shortcut is hard work."
-      ],
-      "ro": [
-        "După o primă întâlnire cu industria jocurilor, am căpătat un gust pentru dezvoltarea jocurilor, experiența utilizatorului și designul, am fost atras mai mult și mai mult de dezvoltarea front-end",
-        "Având o înțelegere fermă a marketingului digital sub centura mea, am vrut să-mi duc abilitățile la nivelul următor și să pot scrie coduri pe cont propriu, să împărtășesc idei cu alții și, în ansamblu, să fie un avantaj mai bun în echipele multidisciplinare",
-        "Cu o viață înainte de învățarea constantă, eu ca student înțeleg acum că scurtătura este o muncă grea"
-      ]
-    }
-  },
-  {
-    "type": "student-picture",
-    "path": "student-picture-laurentiu.jpg",
-    "alt": {
-      "en": "Laurentiu Tanase is an amzing Expert Web Developer",
-      "ro": "Laurentiu Tanase este un nemaipomenit Dezvoltator Web Expert"
-    },
-    "text": {
-      "en": [
-        "CodeTap is awesome! It tought me how to contribute to a project as team member and how to be a better programmer."
-      ],
-      "ro": [
-        "CodeTap este minunat! M-am învățat cum să contribui la un proiect ca membru al echipei și cum să fiu un programator mai bun."
-      ]
-    }
-  },
-  {
-    "type": "student-picture",
     "path": "student-picture-iulian-schifirnet.jpg",
     "alt": {
       "en": "Iulian Schifirnet will become Junior Web Developer",

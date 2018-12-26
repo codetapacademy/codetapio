@@ -37,6 +37,22 @@
   },
   {
     "type": "portrait-image",
+    "path": "who-made-it-marian.jpg",
+    "alt": {
+      "en": "Marian Zburlea is an amzing Expert Web Developer",
+      "ro": "Marian Zburlea este un nemaipomenit Dezvoltator Web Expert"
+    },
+    "text": {
+      "en": [
+        "CodeTap is a life changer! I started to learn as far as I remember at the age of 4 and I didn't stop to this day. I learn new things every day and I teach at CodeTap what I do on a daily basis myself. In other words, I'm a students just like you, further down the road and I experience the same market, I attend the same interviews, I talk to the same clients and I enjoy the same new technologies."
+      ],
+      "ro": [
+        "CodeTap îți schimbă viața. Am început să învăț din câte îmi aduc aminte pe la vârsta de 4 ani și nu m-am oprit nici în ziua de azi. Învăț lucrui noi zilnic și predau la CodeTap din activitatea mea de zi cu zi. Cu alte cuvinte, sunt un elev însumi la fel ca tine, puțin mai jos în drum și trăiesc în aceeași piață, particip la aceleași interviuri, vorbesc cu aceeași clienți și mă bucur de aceleași noi tehnologii."
+      ]
+    }
+  },
+  {
+    "type": "portrait-image",
     "path": "who-made-it-razvan.jpg",
     "alt": {
       "en": "Răzvan Pușcașu became a Junior Web Developer",

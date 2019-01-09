@@ -53,6 +53,25 @@
   },
   {
     "type": "portrait-image",
+    "path": "who-made-it-tom.jpg",
+    "alt": {
+      "en": "Tom is an amzing Senior Web Developer",
+      "ro": "Tom este un nemaipomenit Dezvoltator Web Senior"
+    },
+    "text": {
+      "en": [
+        "Codetap is completely different to any online course or training I've ever seen. It's intensive, you will be thrown in at the deep end, but at the end of it you'll know the practical, effective techniques for web development for the year 2019.",
+
+        "But more than that, it's exposed me to a community of developers that have an amazing passion for excellence. It's a community where everyone gives their time and expertise to help each other learn and grow, no questions asked."
+      ],
+      "ro": [
+        "Codetap este complet diferit de orice curs online sau de formare pe care l-am văzut vreodată. Este intens, veți începe la capăt, dar la sfârșit veți cunoaște tehnicile practice și eficiente pentru dezvoltarea web pentru anul 2019.",
+        "Dar mai mult decât atât, m-au expus unei comunități de dezvoltatori care au o pasiune uimitoare pentru excelență. Este o comunitate în care toată lumea își dă timpul și expertiza pentru a se ajuta reciproc să învețe și să crească, fără întrebări."
+      ]
+    }
+  },
+  {
+    "type": "portrait-image",
     "path": "who-made-it-razvan.jpg",
     "alt": {
       "en": "Răzvan Pușcașu became a Junior Web Developer",

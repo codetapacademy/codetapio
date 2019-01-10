@@ -1,6 +1,28 @@
 [
   {
     "type": "student-picture",
+    "path": "student-picture-dumitru-timotei.jpg",
+    "alt": {
+      "en": "Dumitru Timotei will become Junior Web Developer",
+      "ro": "Dumitru Timotei va deveni Dezvoltator Web Junior"
+    },
+    "text": {
+      "en": [
+        "Allright, so I'm Timotei and I'm gonna share with you my journey so far to become a Web Developer.",
+        "At the end of 2017 I started to study web development by myself and had such a hard time with what I found on Google due to the fact that everywhere I looked everyone suggested to learn JavaScript libraries like React/Angular/Vue and was really hard for me to understand and I kinda give up for a while (I thought is not for me).",
+        "Then I found an advert on a social network from CodeTap and amazed me the way of courses was structured and the aproach towards students. So I followed the step by step courses and found it so easy to grasp on. It is not only about the way courses are structured it is the way Marian explain them that motivates me to think I can. Compare to other corses I saw where they explain things to a low level of understanding for beginers and makes me feel like I can't learn programming that or that it is not for me.",
+        "So this is it so far, further more hope you'll see me soon on 'Who Made It So Far' section and I wish a warm wellcome to those who wanna join CodeTap."
+      ],
+      "ro": [
+        "Ei bine, eu sunt Timotei și îți voi împărtăși călătoria până acum pentru a deveni Web Developer.",
+        "La sfârșitul anului 2017, am început să studiez singur dezvoltarea de web și a fost dificil cu ceea ce am găsit pe Google, datorită faptului că peste tot mi sa părut că toată lumea a sugerat să învăț librăriile JavaScript precum React / Angular / Vue și mi-a fost greu să le înțeleg și am renunțat pentru o vreme (m-am gândit că nu este pentru mine).",
+        "Apoi am găsit un anunț într-o rețea socială de la CodeTap și mi-a uimit modul în care cursurile au fost structurate și abordarea față de studenți. Așa că am urmat cursurile pas cu pas și le-am găsit atât de ușor de înțeles. Nu este vorba doar de felul în care sunt structurate cursurile ci așa cum le explică Marian, fapt care mă motivează să cred că pot. În comparație cu alte cursuri unde am văzut că se explică lucrurile la un nivel avaat de înțelegere pentru începători și mă face să simt că nu pot învăța programarea asta sau că nu este pentru mine.",
+        "Deci, asta este până acum. Am multă speranță că mă vei vedea în curând pe secțiunea \"Cine a reușit\" și doresc un salut cald celor care vor să se alăture CodeTap."
+      ]
+    }
+  },
+  {
+    "type": "student-picture",
     "path": "student-picture-robert-alexandru.jpg",
     "alt": {
       "en": "Robert Alexandru will become Junior Web Developer",

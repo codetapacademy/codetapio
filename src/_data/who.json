@@ -1,6 +1,30 @@
 [
   {
     "type": "portrait-image",
+    "path": "who-made-it-flavius.jpg",
+    "alt": {
+      "en": "Flavius Bohaciuc became a Web Developer",
+      "ro": "Flavius Bohaciuc a devenit Dezvoltator Web"
+    },
+    "text": {
+      "en": [
+        "After I landed in London, I was like: OK! Now what?",
+        "I took the first job as an electrician, working with some friends and family.",
+        "After one year I wanted a change in my life, I reached to CodeTap and I coded my first website in the first two weeks, learning that I can do it and how to do it.",
+        "After almost three months of practicing and learning, Marian pushed me to create my CV and to start applying for jobs.",
+        "Now I'm a successful mid Web Developer aiming to build the future using Augmented Reality."
+      ],
+      "ro": [
+        "După ce am aterizat în Londa mi-am zis: Și acum ce fac?",
+        "Am luat prima slujbă ca electrician, muncind cu prieteni și familie.",
+        "După un an am simțit că e nevoie de o schimbare în viața mea, am luat legătura cu CodeTap mi-am scris primul website în două săptămâni, învățând că pot să o fac și cum să o fac.",
+        "După aproape trei luni de practică și învățat, Marian m-a împins să-mi creez CV-ul și să aplic pentru slujbe.",
+        "Acum sunt un programator web de succes și vreau să construiesc viitorul folosing Realitatea Augmentată."
+      ]
+    }
+  },
+  {
+    "type": "portrait-image",
     "path": "who-made-it-dorin.jpg",
     "alt": {
       "en": "Dorin Dumitrascuta become Junior Web Developer",
@@ -170,22 +194,6 @@
         "Mi-au fost oferite primele 2 interviuri fața în față în primele 3 săptămâni de la lansare. Nu am reușit primul, dar mi-am primit prima ofertă de muncă în cel de-al doilea interviu.",
         "Acum lucrez la Bookatable și, de asemenea, am făcut un partener într-un Startup Tech care va revoluționa lumea.",
         "Deci, da, dacă vă apucați de coduri, mai bine apucă-te cu CodeTap!"
-      ]
-    }
-  },
-  {
-    "type": "portrait-image",
-    "path": "who-made-it-flavius.jpg",
-    "alt": {
-      "en": "Flavius Bohaciuc became a Web Developer",
-      "ro": "Flavius Bohaciuc a devenit Dezvoltator Web"
-    },
-    "text": {
-      "en": [
-        "Still in draft"
-      ],
-      "ro": [
-        "E mare leneș Flavius, altfel era un text frumos aici!"
       ]
     }
   },

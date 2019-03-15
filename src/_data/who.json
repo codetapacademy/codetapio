@@ -161,22 +161,6 @@
   },
   {
     "type": "portrait-image",
-    "path": "who-made-it-valentina.jpg",
-    "alt": {
-      "en": "Valentina Vanu became a Web Developer - Freelancer",
-      "ro": "Valentina Vanu a devenit Dezvoltator Web - Freelancer"
-    },
-    "text": {
-      "en": [
-        "I started with zero knowledge and I had no idea what building a website implies until I met codetap. Marian helped me understand the process, thought me about each and every programming language or programs are needed in order to build a website. The most important thing I learned was the mind set while learning and working at the same time, as I had to find a logic behind the code. Any goal can be accomplished if you put enough effort into it!"
-      ],
-      "ro": [
-        "Am început cu zero cunoștințe și nu aveam nici o idee ce implică construirea unui site până când am întâlnit CodeTap. Marian m-a ajutat să înțeleg procesul, m-a învățat despre fiecare limbă de programare sau programe necesare pentru a construi un site web. Cel mai important lucru pe care l-am învățat a fost abordarea și atitudinea în timp ce înveți și lucrezi în același timp, deoarece trebuia să găsesc o logică în spatele programării. Orice obiectiv poate fi realizat dacă depuneți suficient efort!"
-      ]
-    }
-  },
-  {
-    "type": "portrait-image",
     "path": "who-made-it-daniel.jpg",
     "alt": {
       "en": "Daniel Varvara became a Web Developer",

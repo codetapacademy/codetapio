@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "gulp dev --lang=en",
+    "anca-e-uimita": "gulp dev --lang=ro",
     "prod-en": "gulp build --production --lang=en",
     "prod-ro": "gulp build --production --lang=ro",
     "deploy": "gulp build --production --lang=en && gulp deploy && gulp clean:ghpages"

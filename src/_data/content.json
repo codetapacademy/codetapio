@@ -13,12 +13,12 @@
         {
             "value": "en",
             "label": "English",
-            "url": "https://info.codetap.io"
+            "url": "https://info.codetap.academy"
         },
         {
             "value": "ro",
             "label": "Română",
-            "url": "https://ro-info.codetap.io"
+            "url": "https://ro-info.codetap.academy"
         }
     ],
     "content": {

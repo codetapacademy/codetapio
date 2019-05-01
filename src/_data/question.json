@@ -1,698 +1,754 @@
-[{
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Cum pot sa incep sa studiez programarea?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Buna intrebare. Primul pas este sa deschizi calculatorul sau laptop-ul. Nu-ti trebuie nimic altceva … doar il deschizi si ai tot ce-ti trebuie pentru a crea prima ta pagina web. Vorbesc serios. Nu este nevoie sa instalezi sau sa descarci niciun program. Tot ce trebuie e sa apesi butonul de pornire in cazul in care este oprit calculatorul. Daca e pornit, aseaza-te in fata lui, deschide un navigator, denumit si browser, intra pe YouTube, cauta termenul ”CodeTap”, apasa pe canalul cu icoana rosie, semnul mai mic, bara oblica si semnul mai mare si ai ajuns pe canalul CodeTap de pe YouTube. Aici dai click pe tab-ul ”PLAYLISTS” sau ”PLAYLISTURI”, gaseste lisa cu numele: ”Everyone can code V2”. Ca sa iti fie mai usor am pregatit un curs special, pe care vrei sa il urmaresti, pas cu pas. Cursul este foarte usor, conceput sa poata fi urmarit si de un copil de 4-6 ani. Tot ce vrei sa faci este sa fii atent si sa te relaxezi. Totul va fi bine."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Cand se poate incepe?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Sunt trei optiuni, iar raspunsul depinde de ce alegi:  cursurile de pe YouTube, sunt gratuite si poti incepe imediat. Este recomandata aceasta optiune daca aveti tot timpul din lume, vointa de fier si un istoric de a duce lucrurile la bun sfarsit, singur singurel, singura singurica.  pe 26 Mai 2019 vom pre-lansa optiunea de  ”Cursuri platite”. Viziteaza https://cursuri.codetap.io , preturile fiind afisate pe website. Din banii platiti ne sustinem personalul, asa ca apasa cu incredere si virtute pe butonul de ”Cumpara” sau ”Buy”. insa, NU UITAtI, CodeTap a pornit cu scopul de a sustine comunitatea programatorilor. Asadar, vom oferi sprijin persoanelor exceptionale fara dar si poate. Verifica mereu ofertele de pe website sau intra direct in contact cu noi si spune-ne povestea ta. Ai putea beneficia de reduceri pana la 100%.  Mentor 1 la 1: se redeschide incepand cu 1 Aprilie 2019. Cu aceasta varianta CodeTap a reusit peste 25 de angajari in timp record, majoritatea elevilor fiind incepatori de incepatori, de la zero de zero, zero barat. Elevii incepatori ce au ajuns Junior Web Developer cu ajutorul lui CodeTap castiga in medie peste £33500 anual. Cei de nivel mijlociu, asa zis ”Mid Level”, castiga peste £50000 anual sau sunt in procesul de a sari acest prag, in vreme ce seniorii stau in zona de 6 cifre pe an."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Poate sa studieze oricine programare, chiar daca nu are cunostinte in domeniu?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Foarte buna intrebare. O sa raspund prin a spune cine este sau au fost elevi CodeTap. Majoritatea elevilor CodeTap nu au avut nici o tangenta cu programarea. Ei se aflau in slujbe precum: zidari, ospatari, agenti imobiliari, electricieni, taximetristi, instalatori, barmani etc. Cea mai tanara eleva CodeTap a inceput la 11 ani. Acum are varsta de 12 ani, face website-uri dupa website-uri, si-a intrat in mana si are deja, cu acordul tatalui ei, trei clienti pentru a le realiza website-urile. Cel mai batran la 62 ani. O mica paranteza, cel mai in varsta coleg de munca, pe nume Andy, avea pe aceea vreme de povestesc acum despre cea, 72 ani. Muncea cot la cot cu mine si castiga la fel ca mine, aproximativ £400 pe zi. in meseria asta nu conteaza varsta, sexul sau orientarea sexuala, culoarea pielii sau religia. Ce au avut toti in comun a fost dorinta de a face schimbarea si li s-a oferit posibilitatea de a munci cu capul si nu cu carca."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Se poate sa gasesti job sa lucrezi si de acasa?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Sigur ca se poate. Chiar sub foarte multe forme. Pentru inceput, lucrul de acasa iti poate aduce un venit mult mai mic decat cel de la biroul clientului. Cu cat cresti in experienta si portofoliu sansele de a castiga mai mult lucrand de acasa fata de birou cresc. Daca vrei sa fii platit la fel de bine ca la birou lucrand de acasa, tot ce trebuie sa faci e sa ii demonstrezi angajatorului ca esti minim la fel de productiv lucrand de acasa sau poate chiar mai eficient si mai productiv si vei putea lucra asa. Doar cineva nebun ti-ar refuza sa primeasca mai mult pe aceeasi investitie. Vreau sa mai adaug si faptul ca vrei sa fii bun si sigur pe tine, pentru nivelul unde esti: Junior, Mijlociu sau Senior pentru ca sa ai sanse mari sa poti convinge angajatorul. Vorbind din experienta proprie, cel mai des intalnit este sa lucrezi 1-3 zile de acasa si 1-3 zile de la birou, ceea ce pe mine ma multumeste mai mult decat doar de acasa sau doar de la birou."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Cat costa cursurile cu sau fara mentor?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Viziteaza https://cursuri.codetap.io , preturile fiind afisate pe website. Poti plati pretul intreg fara dar si poate sau … daca te simti o persoana indrazneata, curioasa din fire, in stare de a scrie mesaje si de a pune o imagine pe internet cu experienta ta de a trece prin cursuri, intra in contact cu noi pentru a beneficia de reduceri pentru excelenta de pana la 100%. Practic o sa vrei sa strigi in gura mare cat te tine de tare: Lume, lume! Uite de ce m-am apucat!  Cursurile cu mentor sau profesor dedicat, cel ce te va indruma de la zero la angajat pe tot parcursul, de la coduri, la CV si interviuri, se impart in trei:  Nivel 1 - Cel mai scurt timp posibil de la Zero la Angajat. Mentoratul tine pana te angajezi pe un salariu intre £30 000 si £50 000 pe an minim sau maxim 1 an de la data inceperii. in eventualitatea angajarii pe un salariu mai mic, mentoratul continua pana la o promovare pe minim £30 000 sau maxim 1 an de la data inceperii.  Variante de plata:  plata integrala £8000, unde ai prioritate maxima  plata in rate: £750 depozit apoi £250 minim pe luna pana la achitarea sumei de £8000. in prima luna dupa angajare, rata minima creste la £500 pana la achitarea sumei ramase. Depozitul se va putea recupera doar la achitarea sumei complete.  plata integrala £8000, unde ai prioritate maxima, cu posibilitatea de a primi banii inapoi. Dupa un an de la incepere, daca nu ai inceput sa castigi inca si ai depus efortul de minim 10 ore pe saptamana, incepem sa-ti dam banii inapoi.    Nota: pentru varianta b  si c trebuie sa treci un test simplu si sa dispui de minim 10 ore pe saptamana pentru practica si invatat. Ne rezervam dreptul de a selecta elevii acceptati.  Nivel 2 - Mentoratul activ tine pana te angajezi pe un salariu intre £70 000 si £100 000 pe an minim sau maxim 1 an de la data inceperii. Poate urma un mentorat pasiv ce te va ajuta sa ajungi la £150 000 - £200 000 anual  Nota: ne rezervam dreptul de a selecta elevii  Nivel 3 - Nu mai este vorba de mentorat ci de parteneriat  "
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Este garantata angajarea la oferta studiului care se plateste?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Foarte buna intrebarea. Are doua raspunsuri: si DA si NU. CodeTap NU garanteaza angajarea si nici nu va face asta, insa ne mandrim cu o reusita de 100% in primii doi ani a tuturor celor ce au trecut prin program, peste 25 de angajari. Daca e sa ne repetam, am zis: TOtI cei care s-au tinut de treaba si au depus efortul au reusit. Pentru a obtine raspunsul DA cel ce garanteaza angajarea esti chiar tu. Tu esti singura persoana care te opreste din a reusi sau ce iti poate garanta reusita."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Trebuie sa mergem intr-un anumit loc sa studiem?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "in curand vom deschide si o clasa unde sa ne putem intalni mai des si mai multi deodata. Momentan intalnirile fata in fata se fac la CodeTap Studio si se cam aglomereaza. Londra este un oras mare iar pentru cei separati de distante si mai mari, vom studia impreuna folosindu-ne de tehnologiile ce ne inconjoara. De preferat este Zoom pentru voce, video si sesiuni pe calculator la distanta. Pe primul loc se situeaza comentariile pe YouTube, mesajele pe grupul CodeTap  . Mai pe scurt, o sa studiezi de unde-ti este mai comod, acasa sau la munca daca-ti permite timpul."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Cate ore pe zi/saptamana trebuie sa studiez!"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Poti studia cat timp vrei si cat ai liber. Daca ai fost selectat si si s-a oferit plata in rate, atunci vrei sa depui un efort de minim 10 ore pe saptamana. Am dat un raspuns pe masura intrebarii. Acum continui cu un alt mesaj. inveti pentru tine si tot ce dobandesti precum experienta si abilitati te vor ajuta sa iti gasesti prima, a doua, … a zecea slujba mult mai repede, te vor ajuta sa fii promovat, sa urci in cariera nu pe scara, nu cu liftul, ci cu ”JET PACK”. Toti elevii care au reusit mai repede de 3 luni au dedicat orice farama de timp liber pentru ei, pentru noul lor scop. Razvan a reusit de la Zero la Angajat intr-o o luna si 17 zile si pentru a ajunge la performanta asta practica si invata minim 6 ore pe zi. Tu vrei sa practici si sa inveti cat mai mult posibil, chiar daca trebuie sa tai si un pic din filme sau din somn."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Aveti exemple de alti studenti care au reusit si s-au angajat?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Sigur. Pana in 20 Martie 2019 CodeTap a reusit prin studentii sai peste 25 de angajari. O parte dintre elevii de succes sunt prezenti pe website la adresa: https://ro-info.codetap.io/#who-made-it . Poti intra in discutie cu ei, toti sunt de treaba. Le poti afla povestea lor, cum au trecut ei prin cursuri, unde lucreaza acum etc.  intrebarea din partea lui CodeTap este: Vrei sa fii si tu un exemplu de succes pe website-ul CodeTap? Vrei sa ii inspiri pe cei ca tine ca totul e posibil atat timp cat ai vointa si se poate usura si accelera procesul la maxim cu ajutorul CodeTap?"
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Cam cat timp dureaza de cand incepi sa studiezi pana la primul job de junior web developer?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Foarte buna intrebare. Totul depinde de cat de mult iti doresti tu ca acest lucru sa se intample. Urmatorul este timpul acordat si capacitatea ta de a te concentra asupra sfaturilor mentorului si a materialului ce-ti este prezentat. Nu conteaza atat de multe cate cursuri faci ci cat de multe tehnici ai stapanit din ele sau macar cat de multe le-ai inteles si esti in stare sa vorbesti despre ele liber. Minimul necesar ar fi macar sa tii minte cum se rezolva o anumita situatie si sa fii in stare sa revii pe exemplul din curs ulterior si sa adaptezi informatia la problema ta spre a o rezolva. Toate astea iti vor grabi reusita.   Dintre elevii incepatori, pe locul doi se afla Razvan, cu un record de o luna si 17 zile de cand a aterizat in Londa, a lasat meseria de marinar in spate si a imbratisat-o pe cea re programator web, pana la ziua in care a primit oferta de contract ca Junior Web Developer la una din cele mai mari companii de telefonie din UK, Romania si alte tari. Este urmat de majoritatea, situati la doua, trei sau patru luni. Te intrebi cine e pe primul loc? Ei bine, fondatorul CodeTap, Marian Zburlea (adica eu daca sunt cel ce prezinta raspunsul) cu un record de 7 zile de la zero la angajat."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Ce se intampla daca in timp ce studiez apare o eroare in cod sau nu mai gasesc o solutie pentru un proiect?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Buna intrebare. Te vei intalni cu acest fenomen zilnic pe tot parcursul vietii de programator. Procesul va deveni banal. Practic, fiind incepator, cand apare o eroare tu vrei sa te bucuri. 90% din situatii sunt in cazul care eroarea apare cu un mesaj in care iti zice exact linia si caracterul unde se produce problema. Problema mai mare ar fi daca ceva nu ar merge si nu am avea deloc erori sa ne indrume spre buba ce a aparut. Sa trecem la procesul  de a rezolva o eroare sau a gasi o solutie pentru proiect.  Primul pas este sa citesti eroarea. Deseori iti apare un manunchi de cuvinte greu de inteles. Vrei sa cauti partea usor de citit de noi, oamenii.   ”at Object.Curalate.FanReel.callbacks.(:8080/anonymous function) [as cb_360376]” nu iti va spune prea multe pe cand ”Uncaught TypeError: Cannot read property 'getBoundingClientRect' of undefined at carousel.js:15” iti zice ca pe linia 15 din fisierul carousel.js vrei sa-ti clatesti ochii.  Daca stii sa te descurci, spor la treaba, daca nu, iei bucata aceea de mesaj din eroare si o cauti pe Google. Aici vrei sa faci intrebarea cat mai generala. Linia ta 15 poate fi pentru altcineva linia 478, pe cand ”Cannot read property 'getBoundingClientRect' of undefined” o sa produca multe rezultate pe Google. Le iei unul cate unul, rand pe rand, si vezi care te ajuta sa intelegi ce se intampla. O data ce ai inteles problema, poti aplica o solutie daca o stii sau ai macar o banuiala. Daca nu, inapoi la cautari.  Daca nici asta nu a mers, faci o lista cu toate incercarile tale, le pui frumos intr-un document si le poti prezenta mentorului sau altei persoane cu o capacitate de intelegere mai mare. in cele mai multe cazuri, una din solutiile ce le-ai incercat si ai esuat, cu o mica intorsatura devine o solutie buna. Bineinteles, poti primi sfaturi sa abordezi altfel problema, intr-un mod mai rapid, mai bun etc.  Atentie: cand cineva senior precum un mentor sau un coleg de munca isi face timp pentru tine, ceea ce inseamna ca treaba lui e pusa pe stop, vrei sa fii recunoscator macar prin a fi foarte atent la procesul de rezolvare. Este MULT mai important sa inveti cum s-a rezolvat problema decat sa te bucuri ca ai o solutie pentru problema respectiva. Acordati atentie sporita, fortata daca este nevoie, repetati in cap, luati notite. Din punct de vedere al unei afaceri, timpul unui senior este mult mai pretios decat timpul tau, ca incepator, asa ca apreciaza ajutorul la adevarata lui valoare."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Cat este salariul minim pentru un Junior Web Developer?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Foarte interesanta intrebare. Acesta variaza cu siguranta de locul unde aplici. Este vorba de Londra sau de Constanta? incep prin a raspunde cu ce e important din punct de vedere al unui salariu dupa care o sa continui cu niste exemple.  Salariul si cum trebuie privit el. Cheltuielile cele mai importante lunare sunt: chiria, mancarea si transportul. Majoritatea celorlalte cheltuieli pot fi optionale sau amanate. Eu privesc salariul ca suma ce-mi ramane in mana in urma diferentei dintre salariu si cheltuieli. Este mult mai important cu cat ramai in mana la sfarsitul lunii. Daca ai un salariu de £1200 pe luna si cheltuieli de £1000, ramai cu £200. Daca chiria ar fi £1500, totalul cheltuielilor de £2200 nu ar suna bine. insa daca asta iti permite sa castigi £3000 in loc de £1200, ramai la finele lunii cu £800. Bun, acum ca aveti o perspectiva mai reala de cum trebuie sa priviti salariul si sa luati decizii bune in urma unui efort minim de calcul aritmetic, sa trecem la exemple de salarii.  in Londra sau Anglia, nu am auzit de salariu mai mic de £16,000 pe an ca Web Developer. Media publicata pe internet pentru un Junior Web Developer este de £25,000 anual pentru toata Anglia. Media salariului elevilor CodeTap, calculata ultima oara in 2018 era de £33,500 pe an.  Fii liber sa cauti pe nenea Goagle:  ”According to the 2016 Stack Overflow survey of over 56,000 coders, mentorship programs correlate with higher pay than a college degree.”  Acum incepi sa iti faci o imagine mai de ansamblu despre rolul unui mentor din punct de vedere financiar, pe langa usurinta si timpul scurt de a ajunge din punctul A in punctul B.  "
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Trebuie sa studiezi singur sau este cineva care te ajuta?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "   Vei avea continuu acces la comunitatea CodeTap si mentor. in functie de metoda de plata variaza si timpul ce ti se acorda 1 la 1. Vei practica continuu si vei invata prin practica. CodeTap s-a nascut cu gandul de a fi cat mai eficient prin urmare si metodele de abordare a asimilarii informatiei vor fi pe masura. Prin urmare nu se aseamana cu metodele traditionale de studiat. Jumatate din tehnici o sa le inveti prin simpla observatie si repetitie, lucrand continuu la proiecte reale, majoritatea sau toate ramanand proiectele tale si dupa ce inchei interactiune cu CodeTap. Vei dobandi chiar din primul proiect abilitati de a crea website-uri si a le pune online, de a le face sa se incarce mai repede de cat poti clipi, lucru ce le pune in top 1% cele mai rapide website-uri din lume. Vei intelege ce probleme apar astfel incat sa motiveze un utilizator sa paraseasca un website apoi vei imbunatati experienta utilizatorului prin implementarea unor practici ce iti vor creste Google Page Speed scor la 100/100, scor PERFECT. Asta inseamna ca utilizatorii tai vor beneficia de website-uri foarte bine optimizate, tata de mata, iar nenea Goagle precum si celelalte motoare de cautare te vor pozitiona mai bine. Asta ii face pe cei ce vor website-uri facute PROfesional sa te vrea si sa te plateasca bine rau de tot."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Ce inseamna mentorat?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Mentoratul consta in a avea un profesor dedicat ce te va indruma spre a intelege cum functioneaza web-ul, ce probleme intampina utilizatorii de website-uri, dificultatile de a crea si mentine un website precum si solutiile acestora. In acelasi timp vei fi ajutat sa stapanesti arta de a scrie un CV si arta interviurilor, astfel incat sa poti ajunge la zeci de telefoane pe zi si posibilitatea de obtine mai multe oferte in acelasi timp pentru a avea de unde alege. Vei fi ajutat si indrumat pe tot parcursul de la Zero la Angajat din toate punctele de vedere ce tin de succesul tau. Cursurile sunt concepute sa se adreseze cator mai multe situatii si oameni. Ele sunt foarte bune sa transmita informatii generale. Fiecare elev, inclusiv tu, sunteti unici, aveti cunostinte si experiente diferite, capacitatea de a intelege sau asimila diferita. Pe scrut sunteti diferiti unul de altul. Cu ajutorul mentorului fiecare curs va fi, intre ghilimele, particularizat pentru tine astfel incat sa intelegi cat mai usor cum functioneaza."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Care este diferenta dintre ce ofera CodeTap si ce ofera altii?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Foarte buna intrebarea. Sa enumeram cateva caracteristici ce ne scot in evidenta:  Noi stam cu tine de la zero la angajat, pe partea de coduri, CV, interviuri, suport moral si altele.   Materialul nostru este actualizat continuu pentru a avea avantaj pe piata prin stapanirea ultimelor tehnici si tehnologii.   Te invatam pe langa HTML, CSS, JavaScript etc, dinamica intr-o companie I.T., cum sa fii eficient si sa evoluezi in cariera repede prin a deveni bun cat mai rapid.  Materialul nu este predat din carti ci din experienta proprie in campul muncii. Nu sunteti indrumati din auzite, ci din intamplari proprii sau ale colegilor, amici etc, intamplari reale."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Ce sanse pot sa am de a ma angaja daca studiez intensiv?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Buna intrebare. Daca e sa compar un elev ce trece repede prin material dispunand de mult timp liber si un elev ce trece mai lent prin material, presupunand ca fac pasi similari, sansele de angajare vor fi la fel sau foarte foarte aproape. Singurul lucru diferit va fi cat de repede te vei angaja, cei ce vor fi angajati avand avantajul ca vor continua practica, zi de zi, de data aceasta, majoritatea timpului va fi in campul muncii unde este si rasplatit. Vei continua sa inveti in continuare fiind platit in acelasi timp. sansele de angajare sunt date de pregatirea ta in ale prezentarii in combinatie cu aptitudinile tale ce se potrivesc cu cerintele fisei postului. Prin urmare inchei cu raspunsul: sanse egale cu un elev mai lent. Nu uita, poti adresa intrebari elevilor ce au reusit, atat cei in 1-2-3 luni cat si celor ce au prins curaj mai tarziu, pe https://www.facebook.com/groups/codetap/"
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Cum pot sa iau legatura cu studentii care au reusit si sa ii intreb din experientele lor?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Majoritatea elevilor ce au reusit au profil public pe FaceBook, LinkedIn sau StackOverflow. Cel mai simplu e sa scrii o intrebare pe grupul CodeTap de pe FaceBook. Adresa https://www.facebook.com/groups/codetap/ se va afla atat pe ecran cat si in descriere in cazul in care nu te descurci sa faci o cautare simpla dupa termenul CodeTap pe portalul FaceBook. Toti sunt de treaba asa ca nu mai astepta, adreseaza-le o intrebare acum! Ce-ti recomand e sa nu te limitezi doar la o intrebare. "
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Unde se tin cursurile"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Buna intrebare. Cursurile se tin online si sunt preinregistrate. Pe langa acestea rezolvam proiecte reale sau teste primite la interviu pentru slujba, in emisiuni in direct sau preinregistrate, atat venite din partea CodeTap cat si din partea elevilor de orice nivel. intalnirile minim saptamanale, 1 la 1 sau in grup, sunt anuntate intern sau public."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Care este diferenta dintre a studia gratuit si cel cu a avea un mentor 1 la 1?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Diferentele sunt multe. Din punct de vedere financiar, cel mai bine iesi cu mentor. Pe termen lung si scurt ajungi sa castigi de nu iti vine sa crezi ca ti se intampla chiar tie. in acelasi timp, suntem oameni. Oamenii sunt supusi situatiei de a se lasa pe drum cand devine dificil. Daca e sa ii dam la o parte pe cei ce au dobandit vointa de invidiat, pentru ceilalti, cu un mentor sansele de reusita le poti numi reale si posibile.    Cu un mentor ai sanse mari, pe o durata de 10 ani, sa castigi cu un milion de lire (£1,000,000) mai mult decat fara mentor. Asta daca tragi tare. Daca tragi mai incet sau nu, orice suma in plus ce te poate ajuta mentorul sa ajunga la tine in buzunar, poate insemna o casa pe numele tau platita 100% sau posibilitatea de a investi in ideile sau afacerile tale.   Mai pe scurt, cu mentor devii eficient in a asimila cunostinte cat mai multe, de a avea o intelegere profunda asupra lor astfel incat sa vorbesti cu multa stapanire de sine despre ele si sa fii triumfator in interviuri sau propuneri contractuale.   Cum crezi ca te vei simti cand ti se va spune:  Mai aveam doua interviuri maine, insa dupa discutia cu tine o sa ii sunam sa le spunem ca s-a anulat.  Au sunat clientii si au zis ca iti ofera £50,000 cu o singura conditie: sa nu intri in urmatorul interviu, sa te intorci la ei si sa semnezi azi."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Cat de repede pot sa avansez?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Buna intrebare. tinem legatura cu aproape toti elevii CodeTap si ne mandrim cu faptul ca toti au primit minim o promovare, unii fiind la a treia in primul an. Totul depinde de tine daca tii piciorul apasat pe acceleratie sau nu. CodeTap este aici sa-ti faca viata mai usoara. Bineinteles ca exista tehnica banala unde poti fi promovat cu £1,200 in plus pe an sau cu £15,000 in plus pe an. Aici mentorul te va ghida spre a intelege ce ti se potriveste si cum sa faci un pas cat mai potrivit pentru tine."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Cat despre libertatea extra scolara, cum te implineste aceasta oportunitate?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Foarte buna intrebare. Creezi toata ziua, din mana ta iese arta. Munca ta e folosita apoi de zeci, sute, milioane de utilizatori. in acelasi timp nu mai duci gandul banilor, obtii destul de repede libertate financiara si putere de investitie. Te poti concentra pe ideile tale, familie, prieteni sau alte nebunii ce te reprezinta."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Pot sa creez websiteul propriu?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Raspunsul este: bineinteles! Chiar din prima zi vei avea ocazia sa lucrezi la website-ul tau propriu si nu numai, vei avea mai multe. Prima oara cand vei scrie un caracter, cand vei apasa o tasta, va fi primul caracter din primul tau website. Printre multe proiecte cele mai intalnite vor fi: ”My CV” si ”Quick Blog” sau ”My Portfolio” urmate de ”Boost my website” si altele. Toate acestea vor face parte din CV-ul tau online, vor fi publice pe GitHub si usor de digerat de ochii angajatorilor. Ca sa incheiem, vei lucra la website-ul tau din primul proiect online si vei putea face website-uri din momentul acela, pentru tine sau pentru altii, gratuite sau platite."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Care sunt cerintele pe care trebuie sa le indeplinesc ca student pentru a putea sa ma angajez in timp cat mai scurt?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Pentru a te angaja in timp cat mai scurt vrei doua lucruri mari si late sa faci. Primul este sa dedici cat mai mult timp practicii si invataturii urmat de al doilea unde tu vrei sa asculti cu ambele urechi mentorul si sa te concentrezi pe a intelege cat mai multe tehnici din cursuri ci nu pe a face cat mai multe cursuri. Primul elev s-a angajat cu un singur curs, pe vremea aceea era doar unul. Asa ca l-a inteles cat mai bine, l-a repetat si in trei luni dupa ce a inceput cautarile si cateva interviuri mai tarziu a reusit.   Pe scurt, problema ta ar fi cum sa faci sa ai mai mult timp pentru practica, invatat si cum sa faci sa fii atent la ce-ti spune mentorul, restul sunt detalii."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Aveti grupuri pe Facebook?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " in limba engleza avem grupul CodeTap https://www.facebook.com/groups/codetap/ si o pagina https://www.facebook.com/codetap/ pe Facebook. Pe pagina CodeTap vor fi publicate noutati si despre viata unui programator. in limba romana avem pagina https://www.facebook.com/prinfapte/ si grupul https://www.facebook.com/groups/topjobuk/ ”Job-uri in UK platite bine” si au aceeasi tematica precum cele in engleza, insa cele in engleza au o activitate mai mare."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Dumneavoastra cum ati reusit?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Asta da intrebare. inainte de a reusi eram la stadiul de a face website-uri extraordinar de simple, prin a apasa butoane si a particulariza dintr-o interfata ce apare. Eram in stare sa fac ceva sa apara pe ecran fara sa stiu exact ce fac neaparat. Experimentam la greu. Am vazut un anunt in ziar, firma Romaris din Constanta cauta Web Designer. Nu stiam ce inseamna insa am dedus eu ca e ceva cu website-uri. Cand am aplicat, am fost chemat din curiozitate. Eram 51 de candidati, toti mai putin eu avand facultate terminata sau in curs de a o face, cu multe lucrari in portofoliu. Mi s-a zis: te-am chemat din curiozitate sa vedem de ce ai aplicat, deoarece in CV pari pe departe cel mai slab. Povestea e lunga insa am cerut sa mi se dea timp si 1 - 2 proiecte sa lucrez la ele. A urmat o saptamana de stat la ”fosta” sala de internet Candy din Constanta, Faleza Nord, dintre care primele trei au fost lipsite de somn, cautand cum sa rezolv cerintele celor doua lucrari. Avantajul a fost ca am folosit ultimele smecherii gasite pe internet, pe cand ceilalti erau un pic in urma cu modul de prezentare. Cand am prezentat cele doua website-uri mi s-a spus ca nu au mai vazut asa ceva si ca fara dubiu am luat slujba. Era cu animatii, cu nebunii, un scris se tinea dupa cursor, caractere din desene animate vorbeau intre ele cu text particularizat pentru proiectul respectiv. Efecte pe butoane, efecte intre tranzitii. Majoritatea au fost cu Drag & Drop, pe vremea aceea stiam doar 4-5 taguri HTML, ca si cum ai sti 4-5 cuvinte in Engleza. in timp am invatat, zi de zi, si am ajuns unde sunt azi.  Pe scurt am reusit cu mult tupeu. Nu zic ca nu am avut frica, mi se inroseau urechile si auzeam pulsul, bataia inimii, de emotii si de frica. Am reusit pentru ca mi-am zis: daca e sa joc jocul dupa regulile si experienta lor, nu am nici o sansa, o sa fiu facut terci. Prin urmare orice as zice o fac ca o promisiune ca pe viitor sa pot sa fac. si asta a fost, asa am reusit prima oara."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Ce presupune jobul de web dev in general?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Super intrebare. A fi dezvoltator web, web developer, web dev, front end developer presupune sa construiesti sau / si sa mentii website-uri. Asta poate veni sub multe forme: sa discuti cu clientul si sa afli mai multe despre viziunea lui, sa faci un plan de executie cu minim doua variante si sa-l prezinti clientului, sa faci schita, sa implementezi design-ul (ATENtIE, designul nu intra sub competenta unui dezvoltator web desi unul simplu de simplu se poate face), sa te asiguri ca toate functiunile website-ului functioneaza asa cum ne dorim si nu lipseste nici una, s.a.m.d. Asta o sa iti ocupe o mare parte din timp. Cealalta parte va fi ocupata de cercetare si experimente. Vrei sa descosi continuu cum sa rezolvi problemele diferit astfel incat sa ajungi sa creezi avantaje clientului. Cercetarea o vei face folosind Google si retele de socializare si vrei sa fii in pas cu moda pentru a iti asigura o crestere in cariera. Pe langa asta vei beneficia personal prin eforturi proprii sau oferite de firma unde lucrezi de pregatire profesionala sau participarea la intalniri de afaceri sau programatori. Nu uita sa ai mereu in lucru un proiect personal unde sa te poti dezlantui dupa bunul plac si fara limite. Cam asta presupune slujba de dezvoltator web / web dev / web developer / front end developer."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "in afara de a studia de acasa, sunt ceva teste sau examene inainte de a termina cursul?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Vor fi cu siguranta. in functie de cat de tare tragi, vei incepe cautarile pentru o slujba foarte repede. Aproape de fiecare data cand treci de interviul telefonic, ti se va da un test. Vom citi testul impreuna si vei fi indrumat cum sa il intelegi si sa il abordezi. Dupa rezolvarea ta, daca e timp liber si testul este interesant, il vom programa si rezolva impreuna cu ceilalti elevi.  Prin urmare teste vor fi, doar ca vor fi teste reale, nimic fictiv sau imaginar. Va fi exact ce primesti la interviu, pentru ca sursa lui va fi dintr-un interviu real. tine minte, noi stam cu tine pana te angajezi sau maxim un an daca optezi pentru mentor 1 la 1, prin urmare nu prea ai cum sa scapi de teste asa usor. Dintre toti elevii, doar eu si Carol Enache am reusit sa luam interviuri fara a da test, scorul fiind de 3 - 1 pentru Mentor. Felicitari Carol! La mai multe!"
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Care curs este recomandat pentru incepatori?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Toate cursurile sunt concepute si recomandate pentru incepatori. Daca vrei sa pornesti in ordinea recomandata viziteaza website-ul info.codetap.io apoi foloseste meniul pentru a naviga la sectiunea ”Courses on YouTube” sau ”Cursuri pe YouTube”. Aici vei gasi ordinea recomandata de parcurgere a cursurilor, o mica descriere de unde poti afla despre ce e cursul si cu ce te poate ajuta acesta precum si legatura directa ce te va duce pe lista de pe YouTube a cursului, unde lectiile vor fi redate automat in ordinea corecta."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Este cursul valabil international?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Nu inteleg intrebarea. Asa ca voi raspunde cum pot mai bine. Cursul se afla in format digital. El poate fi consumat de pe aproape orice dispozitiv ce poate reda filme. Aptitudinile si experienta dobandite din cursurile de pe CodeTap le vei lua cu tine in orice tara. in majoritatea tarilor dezvoltate, atat timp cat nu ai un renume facut, vei fi pus la test. Aproape nimeni intreg la minte nu te mai intreaba de diplome, acestea devenind uitate sau in cel mai bun caz optionale sau bonus. Nu contest ca nu exista situatii in care sa fii intrebat de diplome. in cazul meu, cu mii de telefoane primite si cred ca peste 200 de interviuri fata in fata, Skype, Zoom sau altele, doar o singura data am fost intrebat de diplome precum si istoricul educatiei. Daca se intampla, si ai parcurs cursurile platite, vei avea oricum diploma de merit insa nu iti recomand sa lucrezi intr-un domeniu unde personalul practica tehnici de zeci de ani invechite."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Pot sa incep cu tutorialele gratuite de pe Youtube si daca consider ca imi place si ma descurc, sa incep sa studiez cu mentor?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Foarte des intalnita intrebare. Nu te opreste nimeni sa faci asta. Eu chiar iti recomand. Nici nu am cum sa stiu daca ai inceput cursurile pe YouTube deoarece ele sunt publice pentru toata lumea si nu retin identitatea celui ce le viziteaza. Asadar doar tu stii ca te-ai apucat de cursuri pe YouTube iar eu pot afla doar daca imi transmiti tu asta. Repet, mentorul e menit sa-ti faca drumul mai usor, mai rapid, sa te sustina moral si sa te impinga sus, cat mai sus. Sa nu uitam, un detaliu important in ziua de azi, sa castigi cat mai repede si cat mai mult."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Am nevoie de un laptop sau pot sa incep sa studiez de pe tableta?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Poti sa incepi sa studiezi de pe ce vrei si sa-ti iei notite pe ce poti. Cand vine vorba de a fi eficient si a arata seriozitate fata de scopul tau, recomand un Laptop sau Desktop/PC. in cazul in care nu ai, vezi sa aiba minimul de: 8G RAM (memorie pentru aplicatii), SSD sau M.2 pentru spatiul de stocare, dual core sau mai multe pentru procesor. Pentru cativa elevi am recomandat ”Lenovo refurbished” ce se invartea la pretul e £300. Daca o duci rau de tot cu banii, incearca sa apelezi la cunostinte sa-ti dea acces la PC/Laptop-ul lor sau sa gasesti o biblioteca sau loc public unde primesti acces. "
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Cum pot sa invat sa scriu coduri daca nu am deloc experienta?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Din cate tin eu minte, nimeni nu a avut experienta de a scrie, toti ne-am nascut simpli si egali. Asa cum am inceput sa facem bastonase, apoi litere si cuvinte, asa si in ale programarii o sa incepem cu notiuni de baza si vom evolua pas cu pas. Vom invata cum sa identificam ce avem de facut, cum sa cautam solutii complete sau partiale precum si multe altele astfel incat sa acoperim si sa intelegem toate aspectele ce vrem sa le folosim pentru a construi si livra pe internet orice pagina web."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Cine ma va angaja?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Foarte buna intrebare. in Londra sunt mii si mii de anunturi pentru programatori web. Cererea de programatori este foarte mare. Tot ce vrei sa faci este sa fii inzestrat cu tehnici, tehnologii si metodologii ce iti permit sa fii extrem de eficient si sa lucrezi foarte bine in echipa. Norocul tau ca de asta se ocupa CodeTap sa te formeze. Elevii ce opteaza pentru mentor 1 la 1 vor intra intr-o echipa exact ca la munca ce va urma si vom practica exact ce se face la munca, astfel incat pentru tine sa nu fie altceva decat o schimbare de adresa sau ”loc de munca”."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Poti sa gasesti job in IT si in alta tara?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Bineinteles. Precum am raspuns in alte ocazii aptitudinile dobandite te vor ajuta sa iti gasesti de munca oriunde in lume. Recomand sa te orientezi catre orasele unde se fac investitii mari in IT precum Londra, Berlin, New York sau altele. Fa o cercetare ampla pe internet inainte sa te hotarasti. Bineinteles ca poti deveni ”Digital Nomad”, daca iti plac calatoriile. Acesta imbina munca cu calatoritul si este intr-o continua miscare. De asemeni, Google iti poate fi prieten si de data asta daca vrei sa afli mai multe despre ce inseamna Digital Nomad."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "in cati ani ai putea sa ajungi senior web developer?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Minunata intrebarea. Am sa incep prin a enumera mai multe niveluri: starter, junior, mediu, senior, expert, wizard, guru. Din cate observam senior se afla la mijloc iar drumul nu este atat de lung. in functie de eforturile tale depuse si de ajutorul primit poti deveni senior intre doi si cinci ani."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Cursurile sunt doar in engleza sau si in romana?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Majoritatea cursurilor sunt in engleza. O parte mica din cursuri sunt inregistrate in romana sau au subtitrare in romana. Motivul principal e clar. Din punct de vedere al comunicarii in lumea I.T.-ului limba engleza este cea mai folosita. incepand de la articolele de pe internet, la carti, cursuri video, forum-uri, comunicarea la munca si tot asa, engleza e in floare. Tu vrei sa fie cursurile in limba engleza ca sa practici si mai mult ceea ce o sa faci zi de zi oricum si inevitabil."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Multe persoane mi-au zis ca trebuie sa fii bun la matematica pentru a face programare. Este adevarat?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " As putea sa bag mana in foc ca acele persoane nu aveau expertiza necesara sa dea sfaturi ci pur si simplu si-au exprimat parerea din auzite. Cazurile in care matematica ar crea un avantaj fara dar si poate sunt in procentaj atat de rare incat poti sa uiti linistit de grija asta. Vei dobandi aptitudini de gandire analitica oricum in timpul practicarii programarii prin intermediul cursurilor noastre, explicate pas cu pas, de ce facem asa si nu altfel, ce ne doare si cum tratam cauza durerii, etc. Raspuns final: categoric fals."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Ce inseamna mai exact rolul de Junior Web Developer?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Ca Junior Web Developer ai sa zambesti mult. Vei avea ocazia de a cunoaste si lucra cu persoane foarte demne de respect, sa inveti meserie de la cei mai puternici si sa faci primii pasi in rolul tau de a face lumea mai buna. Te vei simti precum un copil in prima zi de scoala, plin de entuziasm de foarte multe ori, de obicei fiind asociata starea cu momentele de reusita personala sau a echipei, departamentului sau firmei. iti vei batatori bazele programarii si destul de repede vei avea ocazia de a rezolva sarcini sau tichete ce te vor pune in rand cu ceilalti.   Precum coduri o sa faci din punct de vedere conceptual acelasi lucruri ce le-ai facut la CodeTap, posibil si pe aceeasi sintaxa sau limbaje de programare, daca nu ceva asemanator. Vei fi indrumat si ti se va oferi ajutorul de fiecare data cand va fi posibil."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Care sunt cerintele generale ale jobului?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Cerintele generale ale slujbei difera de la angajator la angajator. Aceste cerinte vor fi clar publicate si transmise catre tine in fisa postului. Este aproape imposibil sa nu ti se prezinte cerintele pe parcursul discutie despre slujba. La CodeTap vei invata cum sa identifici o problema si sa aplici o solutie chiar daca nu stii solutia sau nu stii nimic. Cerintele generale sunt sa ai cunostinte de baza bune despre cum functioneaza website-urile, ce probleme se pot intampina in crearea si mentinerea lor si cum poti optimiza procesele raspunzatoare."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "E greu sa fii programator?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " intrebare cu raspuns simplu: NU. Daca e sa compari a descarca tiruri de marfa, muncitor prin fabrici sau depozite, munca de programator e de 10 - 100 ori mai usoara si tot atat de mult mai banoasa. Bineinteles ca este de 10 - 100 de ori mai usor sa fii programator cu ajutorul lui CodeTap."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Trebuie sa ai ceva experienta ca sa incepi sa lucrezi ca si junior web dev?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Aici raspunsul este dat din experienta proprie si repetata. Experienta ta in a face website-uri cantareste de 3-4 ori mai putin decat puterea de convingere. Marian Zburlea, mentorul (adica eu daca citesc asta), s-a angajat la doar 7 zile dupa ce a fost la interviul pentru prima lui slujba in acest domeniu, fiind cel cu cea mai putina experienta pe departe fata de ceilalti 50 de candidati. Repet si stresez acest lucru pe langa alte metodologii de abordare a interviului pana cand intelegeti si credeti cu adevarat. Tehnica de prezentare conteaza mult mult mai mult decat experienta. Acest lucru se aplica pentru toate nivelurile. De foarte multe ori am fost angajat sa fac ceva ce nu aveam habar nici macar o farama, am comunicat asta angajatorului, astfel incat sa ma prefere pe mine in fata unuia cu experienta."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Sunt firme care iti ofera cursuri de pregatire?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Dupa ce te angajezi majoritatea firmelor au in program un buget pentru dezvoltarea personala a angajatilor. Sunt foarte putine firme ce ofera asta inainte. in acelasi timp, CodeTap este in negocieri continue cu firme pentru a inlesni procesul de angajare al elevilor CodeTap si a le oferi celor ce se remarca prin efortul lor posibilitate de a intra in slujba direct."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "E mai bine sa incepi cu un apprenticeship sau direct junior?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Raspunsul as putea sa-l compar cu cel al intrebarii: Este mai bine sa vinzi actiunile unei firme din prima zi de infiintare sau sa vand dupa ce le cresc valoarea la cea dorita de mine? Sa nu se inteleaga gresit, ca ucenic este mult mai bine decat deloc. Daca ai optiunea sa devii Junior sau Mediu din prima, este mult mai benefica decat ucenicul. Tu ce parere ai?"
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Se ofera diploma/certificat la finalizarea cursului?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Bineinteles, vor fi oferite diplome la finalizarea cursurilor platite. Cu aceste diplome veti putea fi mandru si falnic ca nu a trebuit sa va spalati cu dusul cand ati ramas fara hartie igienica. in anul 2019, CV-ul vechi este doar pentru recrutori (desi CodeTap are de gand sa schimbe asta), noul CV este pe GitHub iar diploma este data de orice proiect sanatos la care ai facut parte. Daca nu te duce capul de test nu scapi, asa ca diploma iar nu are valoare. Nu fi invechit, s-ar putea sa scartai."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Sunt interesat de astfel de cursuri, ce trebuie sa fac?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Intra in contact cu CodeTap pentru a fi preluat si indrumat de un agent ce se va ocupa personal de tine. Acesta te va ajuta sa intelegi cat mai bine optiunile prezente, ofertele curente pentru ca tu sa poti face o alegere cat mai buna pentru tine."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Daca studiez doar cursurile gratuite, ce sanse si in cat timp as putea sa ma angajez?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " sansele de a te angaja din punct de vedere al materialului sunt egale. sansele sa ajungi la bun sfarsit si sa te angajezi, foarte mici. Sa avansezi in cariera foarte repede, extrem de foarte mici. sansele ca sa tii pasul cu un elev cu mentor, probabil 1 la 1000. Principiul ”Niciodata nu stii ce nu stii” se aplica 100%.   Sa presupunem ca ai vointa de fier si frica nu este prezenta in vocabularul tau. Te motivezi singur si nu lasi niciun obstacol sa iti stea in fata. in medie pana devii productiv ar putea trece 2 ani."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Cate limbaje de programare trebuie sa studiezi?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Noi incepem cu HTML, CSS si JavaScript si ramanem cu acestea ca incepatori. Sa le stapaniti la nivel foarte bun precum si librariile aditionale o sa va tina ocupati ani buni. Bineinteles ca atat timp cat iti place ceva este bine sa experimentezi. Asadar daca-ti face cu ochiul Python, Go sau altele, fii liber sa te dezlantui.  "
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Daca am intrebari, pe cine pot sa intreb?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Daca intrebarile sunt legate de modul tau de a interactiona cu CodeTap, agentul tau este primul ce vrei sa-l saluti de buna ziua. Daca intrebarile sunt legate de coduri, prima oara il intrebi pe Google. Daca nu e in pasa buna sa te lamureasca, urmatorul pas este la comunitatea CodeTap sau StackOverflow daca nu ai mentor, iar daca ai mentor, pune intrebarea pe grupul CodeTap si instiinteaza mentorul daca adresarea intrebarii este urgenta."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Cum pot sa studiez daca nu locuiesc in Londra?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " La fel ca toti ceilalti elevi ce locuiesc in Londra. Studiul se poate face de oriunde, cel mai des intalnit din confortul locului preferat de acasa de la tine. Este preferabil si recomandat sa poti sa te deplasezi la interviuri odata ce incepi cu ele. Spre exemplu, Dorin Dumitrascuta a inceput pentru o luna si un pic din Constanta, Romania dupa care s-a mutat in Londra. Iulian Carnaru a invatat de la cateva sute de mile de Londra si a calatorit pentru interviuri. Doar doi dintre elevi au luat interviurile din Romania."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Cat timp trebuie sa studiezi ca sa stapanesti programarea?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Un raspuns scurt ar fi: Toata viata. insa dupa ceva timp ajungi sa stii sa faci de-toate si vei fi atras de a tine sub raspundere alti membri ai echipei, unul sau mai multe proiecte, una sau mai multe echipe. Programarea o stapanesti o data ce ai ajuns la nivel mediu cu tinta spre senior. De acolo te descurci orice ti s-ar da de rezolvat, chiar daca stii sau nu raspunsul sau solutia."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Remote-ul asta e un fel de intalnire?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Da, e chiar o intalnire unde avem posibilitatea de a discuta cu voce si video, de a distribui ce este pe ecranul nostru sau al altora cat si de a avea calculatorul sub controlul unuia din membrii sau de a controla calculatorul unui membru spre a rezolva o problema. Facem remote-uri minim saptamanal sau chiar de cateva ori pe zi. Facem de cate ori este nevoie si posibil."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Poti sa lucrezi si sa studiezi in acelasi timp?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Sigur ca poti. Majoritatea elevilor opteaza la aceasta alegere. tin sa precizez ca nu este cea mai buna. Daca ai posibilitatea sa ceri ajutorul familiei sau celor dragi, sa te sustina cum pot ei, cea mai buna varianta e sa dedici 25 de ore din 24 daca se poate. Cu cat mai mult cu atat mai repede vei reusi."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Despre ce este vorba in cursuri?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Cursurile sunt proiecte reale sau macar inspirate din proiecte reale. in cursuri afli ce se cere, apoi impartim cerintele mari in cerinte mai mici, pe acestea in cerinte si mai mici pana cand nu mai pot fi impartite. Urmeaza sa afli cum se abordeaza o rezolvare, cum apelezi la resurse cand esti in dificultate s.a.m.d. Practic e practica."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "De ce esti bine platit in IT?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Programatorii pot scrie instructiuni catre calculator ce le permit sa efectueze operatii rapid si sigur astfel incat sa nu mai fie nevoie de un om pentru a efectua acea sarcina. Spre exemplu un magazin online poate avea automatizat procesul de livrare si cel de vanzare. Astfel cheltuielile cu chiria, salariile etc scad la foarte putin spre zero. in acelasi timp nu prea vezi lumea sa se bata pe strada ”cine sa devina programator primul”. Prin urmare pentru o firma programatorul scade considerabil anumite cheltuieli si creste volumul de prestari de servicii, vanzari etc. Nefiind prea multi e bataie pe programatori, astfel incat pretul pietei sta sus, altfel cine nu-l ofera risca sa ii plece personalul catre cine stie sa aprecieze."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Programator Java, IOS sau ANDROID, care este mai bine platit si usor de invatat?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Android este Java sau bazat pe Java, toate sunt la fel de greu de invatat si tote sunt la fel de bine platite. Prin urmare daca e sa alegem unul, vom da cu banul. Daca cade stema, din cele trei alegem HTML, CSS si JavaScript, daca e pajura, alegem CSS, HTML si JavaScript."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Cate cunostinte de JavaScript trebuie sa aibe o persoana pana poate sa aplice?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Deloc sau minime. Poti sa aplici din prima zi cand nu ai nici o cunostinta de programare. Nu te retine nimeni iar eu chiar recomand asta cu mare drag. Este una din tehnicile pe care le aplic eu de peste 20 de ani si merge de minune. Bineinteles ca exista si cazuri cand mai multe cunostinte de JavaScript te pot avantaja, insa nici un interviu nu e la fel."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Cat dureaza primul curs si cat pot sa castig cu acest job?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Cat dureaza depinde total de tine. Sunt elevi care termina cursul intr-o zi pe cand altii intr-o saptamana sau o luna. Foarte mult depinde daca ai mentor sa fii atent la ce esti sfatuit si vei progresa la viteza maxima. Media de castig a elevilor CodeTap Juniori in anul 2018 a fost de £33,500 pe an. Recordul seniorilor pentru un singur client este de £171,600 pe an, acesta fiind tintit spre a fi doborat de un alt elev."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "in cat timp se invata HTML si CSS?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Baza o inveti in 5-10 minute. Regulile sunt extrem de simple. intr-o zi te descurci deja cu ele. Restul pe drumul de la Starter la Junior, Mediu, Senior, Expert, Wizard si Guru poate dura luni, ani sau o viata."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Cum actionezi atunci cand nu gasesti o solutie si nu poti sa iti indeplinesti sarcina?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Faci un mini rezumat despre incercarile tale si gasesti un senior tie sau mentorul si ii comunici pasii tai. in majoritatea cazurilor acesta va putea sa te indrume si iti explice mai multe: ce abordari poti sa ai, cum o alegi pe cea mai buna. La CodeTap elevii cu mentor invata sa comunice practic si liber, acestea doua fiind necesare sa te ajute sa gasesti solutia."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Cum este o zi obisnuita din viata unui programator?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Sa vedem. Maine ma trezesc devreme, pe la 7:20 plec spre munca. La 8 parchez masina si incep munca prin a revizui ce am facut ieri si a nota pe scurt asta. incep sa lucrez la sarcinile in lucru sau iau altele noi la puricat. la 10 avem stand-up, unde ne intalnim toata echipa si spunem ce am facut ieri si ce urmeaza azi. Pe la 12 dam fuguta pana la White City sa bagam in noi ceva bun, eu si colegii dornici de o plimbare. Dupa pranz, continuam munca iar eu la 4 plec spre casa. Acasa incep cu elevii iar acum, e 2:45 dimineata, momentul cand scriu aceste cuvinte."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Care este diferenta intre un web developer si un web designer?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Web developer-ul si web designer-ul pot fi, pe alocuri, una si aceeasi persoana. Web designer-ul este de obicei cineva cum o imaginatie placuta ce stie sa se exprime artistic pentru a realiza cum ar trebui sa arate un website sau o aplicatie. El este cu stilul, cu moda.   Web developer-ul ia acel design si scrie codurile pentru a-l implementa in pagina, pentru a-l face sa mearga conform cerintelor.   Web designer-ul nu are nevoie de multe cunostinte pentru a face ceva minimalist pe cand web developer-ul are nevoie de mult mai multe.   in general un web designer castiga mult mai putin decat un web developer."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Sunt cursurile acreditate?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Momentan cursurile nu sunt acreditate. intrebarea mai buna ar fi pentru tine. Ce ai prefera mai bine, cursuri facute de experti ce dau roade, cu proiecte reale si informatie proaspata sau cursuri acreditate facute din carti si neactualizate de 10 ani sau mai mult? Treaba cu diploma e pentru Romania, aici in Anglia te pune la test, stii sa treci intr-un mod impresionant, mergi mai departe, nu stii, iti iei diplomele si jucariile si iti muti cortul in alta parte."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Trebuie sa cunosc limba engleza pentru angajare si a lucra in domeniu?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Regula nu e sa stii engleza, regula e sa stii la nivel conversational limba principala vorbita in tara respectiva. Pentru cei ce stiu a vorbi limba engleza la nivel de baza, nivel conversational, va asigur ca pentru inceput este mai mult decat de ajuns. Restul inveti din mers, si la propriu si la figurat. Eu foloseam timpul petrecut cu transportul in comun sa-mi imbogatesc cunostintele despre engleza si vocabularul."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Iti asigura slujba imediat dupa curs?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Am raspuns deja in intrebarea ”Este garantata angajarea la oferta studiului care se plateste?”. Ma repet, toti cei ce au urmat sfaturile mentorului si au facut tot ce au putut pentru a isi realiza scopul au reusit. Cursurile se termina dupa ce te angajezi sau la maxim un an de la data inceperii. "
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Altfel de cursuri web sunt gratis pe alte situri?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Cursuri similare sunt, chiar cu miile, atat gratuite cat si platite. Cursuri cu tehnici avansate facute usor de inteles pentru incepatori, cum sa iti construiesti un CV ce merge folosit de mentor si toti elevii sai? … aproape inexistente. Cum sa faci bani si cariera, nu pe auzite, ci din experienta proprie? aproape inexistente. Pe langa asta noi oferim continutul gratuit, pe YouTube, ai tot ce-ti trebuie mai putin timpul nostru acordat special pentru tine. Cati creatori de continut ofera tot materialul gratuit din cursurile lor platite? Abia astept sa-l cunosc pe unul, nu am auzit inca de el / ea."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Am o intrebare, tu castigi banii acestia?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Mentorul si doi dintre elevii de top CodeTap castiga intre £100,000 si £200,000 fiecare, anual, cu posibilitatea anul acesta ca unul dintre ei sa sara de pragul de £200,000. Sunt urmati de 5-6 elevi ce castiga intre £50,000 si £100,000. Cei ramasi castiga intre £30,000 si £50,000 pe an fiecare."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Se accepta oameni pentru formare?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " in primul an de la lansarea lui CodeTap toate cursurile si mentoratul au fost gratuite. in al doilea an au fost reduse la jumatate. in momentul acesta nu mai sunt reduceri pentru mentorat. Discuta cu un agent si afla despre reducerile pentru cursurile platite fara mentor. Oricine le poate accesa. "
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "in ce consta intretinerea unor siteuri sau creare de siteuri?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Buna intrebare. Exemple ce vrei sa le rezolvi din intretinerea de website-uri sunt: ”Actualizeaza mesajul de acceptare cand se inscrie cu email-ul”, ”Pretul nu se actualizeaza cand schimbam metoda de livrare”, ”Rezultatele nu se actualizeaza dupa filtrare” iar din creare ”Implementeaza conform sablonului (design) lista prestatorilor de servicii”, ”Implementeaza autentificarea folosind contul de Facebook, Instagram si Tweeter”, ”Actualizeaza meniul sa fie adaptabil pe mobil, tableta si desktop”. Cerintele vin sub toate formele si culorile iar tu, daca alegi varianta cu mentor, vei intra in echipa CodeTap unde vei rezolva astfel de sarcini continuu, asa ca nu va fi ceva nou pentru tine."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "8000£ pentru cursuri online cand un curs la clasa face 7000-9000 ca doctor pe an..sau mai stiu eu ce alte cursuri..la electricieni e 3400£..mi se pare exagerat.. si fara garantii"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Asta nu e intrebare, e mai mult oful cuiva, o nelamurire. Dar hai sa o lamurim si pe asta. Ai varianta gratuita pe YouTube, nu te obliga nimeni nimeni sa dai nici un ban. Cu mentor poti sa ajungi in zece ani sa castigi mai mult sau mai putin de £1,000,000, da … ala e un milion. Fara mentor poti ajunge sa faci £200,000 - £300,000 in zece ani. ti se pare exagerat? Fa alegerea potrivita pentru tine si ignora aritmetica, cine draq a mai inventat-o si pe asta. Vezi oportunitatea in fata la fel ca zeci de elevi ce au reusit si si-au schimbat viata RADICAL (iar o iau cu aritmetica, nu … glumesc). Eu zic ca e mai simplu daca ai nelamuriri si esti tulburat, sa intri in discutie cu elevii CodeTap si sa ii intrebi pe elevi ce nedumeriri au avut inainte de a incepe, ce probleme au intampinat pe parcurs si cum au trecut peste ele si ce parere au, merita, nu merita. Eu pot sa-ti spun cu ce te ajut eu, dar mai bine ca elevii CodeTap nu-ti poate spune nimeni cum e sa fii in pielea ta."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Ce garantii ai ca faci banii astia?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "        Toti elevii ce au reusit fac bani frumosi si sunt mereu in crestere. Asta e piata de I.T. cand esti PROfesionist. Da cu Gooagle si cauta, documenteaza-te, si convinge-te ca nu am inventat eu  Graalul, doar iti deschid usa catre o lume ce pana acum nici nu stiai ca exista. Printre metodele de plata sunt doua garantii oferite de CodeTap. Una este ca daca de angajezi pe mai putin de £30,000 pe an, CodeTap continua pana esti promovat sau te angajezi in alta parte pe minim £30,000 sau maxim un an de la data inceperii. A doua este: daca faci plata integral si ai optat pentru a primi banii inapoi, tu tinandu-te de treaba conform contractului, incepi sa primesti banii inapoi."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Ce contracte de colaborare sunt pe urma?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Dupa ce reusesti si te angajezi, primul curs oferindu-ti posibilitatea de a castiga in medie intre £30,000 si £50,000 pe an, o data ce s-au terminat de achitat tot, poti opta pentru Nivelul 2, unde mai mult sau mai putin te ajuta sa sari undeva intre £70,000 si £100,000 pe an. Dupa ce sari de £100,000 pe an putem discuta de Nivelul 3, insa e cale lunga de batut. Mai intai vrei sa demonstrezi meritul prin fapte."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Ce trebuie sa faci mai exact la cursuri?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Vrei sa urmezi continutul cursurilor pas cu pas, vrei sa pui multe intrebari si vrei sa intelegi cat mai mult cum functioneaza orice. Vei face practica din prima zi si vei invata in timp ce faci. Vrei sa te lovesti de cat mai multe greseli ca sa prinzi experienta cat mai multa. Vrei sa colaborezi cat mai mult cu ceilalti membri ai echipei, vrei sa comunici cat mai mult si vrei sa fii foarte foarte atent la indrumarile mentorului. De obicei el nu iti va da solutia ci te va ajuta sa identifici problema si sa ajungi singur la solutie."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Care e mai grea, front-end sau back-end developer?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " As putea spune ca sunt la fel de grele sau la fel de usoare. Exista un termen numit ”learning curve”, ce-l pot descrie precum timpul necesar incepand de la zero si pana cand stapanesti tehnologia atat de bine astfel incat cineva sa te plateasca pentru asta. Learning curve a fost redus de CodeTap in cursuri de la 2 - 3 ani la 1 - 3 luni. Am ales tehnologiile potrivite, am conceput cursurile sa poti asimila treptat conceptele si am repetat ce e importat ca sa fii stapan pe ele."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Ce inseamna sa lucrezi ca Freelancer?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Ca freelancer inseamna ca presezi servicii ca programator web lucrand de oriunde vrei. Din cate stiu este pe locul doi dintre cele mai abordate oportunitati. PRO: Este foarte similar cu a fi angajat in ceea ce faci cu exceptia ca tu esti seful tau. Majoritatea timpului iei proiecte mici si mijlocii si tintesti sa le dai gata in termenul stabilit. As putea spune ca majoritatea liberilor profesionisti se bucura de a isi face singuri programul de lucru. CON: Ai putea sa castigi mai putin decat un angajat, de obicei datorita lipsei de aptitudini in dezvoltarea afacerii si vanzarii. O picatura aici sau o ploaie acolo de stres in a gasi clienti. O sa vrei sa iti pierzi timpul cu hartogaraie."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "Scrieti voi codul de la 0 sau lucrati cu cms-uri gen: Wordpress, Joomla?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": " Nici nu ne atingem de Wordpress sau Joomla. Nu stiu pe nimeni direct sau pe cineva care sa stie pe altcineva ce a avut mare succes cu aceste tehnologii. Nu stiu nici un client super mega fericit pentru ca a ales aceste tehnologii. Au fost momente cand am fost inconjurat de 10 sau 100 de oameni ce castigau peste £100,000 pe an folosind tehnologiile alese in cursurile de pe CodeTap. Toate proiectele sunt scrise de la zero si toate proiectele sunt inspirate din proiecte reale sau sunt ele insasi proiecte reale."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": "in ce limbaj de programare lucrati? Php?"
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "Buna intrebare. Pe partea de Front End vom lucra cu: React, Redux, Angular 2+, HTML 4/5, CSS 2/3, SEO, ECMAScript 6 (ES6/7,8), JavaScript, Webpack 1/2, Material UI, RxJS, TypeScript, UI, UX, D3, Jest, TDD/BDD, Chai, Mocha, SMACSS / OOCSS, Foundation, Bootstrap, AngularJS, Grunt, Gulp, Handlebars, Sass, Less, Photoshop, Illustrator, WAI sau altele. Pe partea de Back End vom lucra cu: NodeJS, Pug/Jade, Firebase, Blockchain, MySQL, Git, Linux, Amazon AWS (S3, CloudFront), ActionScript, XML, JSON, REST, Apache Solr, ElasticSearch, Redis, Bash, Nginx. Printre altele vom mai folosi si: Jira, Rally, Agile, Windows, Linux, Mac, DOS/CLI, Word, Excel, PowerPoint etc.  Cele mai des folosite dintre acestea vor fi: HTML, CSS, JavaScript si ReactJS."
-  }
-},                      {
-  "question": {
-    "en": "change me mr. CodeTap",
-    "ro": ""
-  },
-  "answer": {
-    "en": "change me mr. CodeTap",
-    "ro": "undefined"
-  }
-}
-,
+[
+  {
+    "answer": {
+      "en": "Good question. The first step is to open your computer or laptop. You do not need anything else ... just open it and you have everything you need to create your first web page. I'm serious. There is no need to install or download any programs. All you have to do is to press the power button if the computer is turned off. If it's turned on, sit in front of it, open a browser, visit YouTube, search for the term \"CodeTap\", click on the channel with the red icon, the oblique bar and the greater sign and get on the CodeTap channel on YouTube. Here you click on the \"PLAYLISTS\" tab, find the playlist with the name: \"Everyone can code\" and starte watching it. To make it easier, we've prepared a special course you want to follow, step by step. The course is very easy, designed to be tracked by a 4-6 year old child. All you want to do is be careful and relax. It will be fine.",
+      "ro": "Buna intrebare. Primul pas este sa deschizi calculatorul sau laptop-ul. Nu-ti trebuie nimic altceva … doar il deschizi si ai tot ce-ti trebuie pentru a crea prima ta pagina web. Vorbesc serios. Nu este nevoie sa instalezi sau sa descarci niciun program. Tot ce trebuie e sa apesi butonul de pornire in cazul in care este oprit calculatorul. Daca e pornit, aseaza-te in fata lui, deschide un navigator, denumit si browser, intra pe YouTube, cauta termenul ”CodeTap”, apasa pe canalul cu icoana rosie, semnul mai mic, bara oblica si semnul mai mare si ai ajuns pe canalul CodeTap de pe YouTube. Aici dai click pe tab-ul ”PLAYLISTS” sau ”PLAYLISTURI”, gaseste lisa cu numele: ”Everyone can code V2”. Ca sa iti fie mai usor am pregatit un curs special, pe care vrei sa il urmaresti, pas cu pas. Cursul este foarte usor, conceput sa poata fi urmarit si de un copil de 4-6 ani. Tot ce vrei sa faci este sa fii atent si sa te relaxezi. Totul va fi bine."
+    },
+    "question": {
+      "en": "How can I start studying programming?",
+      "ro": "Cum pot sa incep sa studiez programarea?"
+    }
+  },
+  {
+    "answer": {
+      "en": "There are three options, and the answer depends on what you want to choose: 1) YouTube courses are free and you can start right away. This option is recommended if you have all the time in the world, an iron will and a history to get things done. 2) On May 26, 2019, we'll pre-launch the \"Paid Courses\" option. Visit https://courses.codetap.academy, the prices are displayed on the website. From our paid money, we support our staff, so feel free to press the \"Buy\" or \"Enroll\" button. But, DO NOT FORGET, CodeTap started to support the programmer community, so we will offer support to the exceptional people without a question. Some courses will have the option to pay something or nothing and get the same content. Always check the offers on the website or get in touch with us and tell us your story, you could benefit from discounts up to 100%. 3) Mentor 1 to 1: reopened as of April 1, 2019. At CodeTap, we are proud with over 25 hires in record time, most of them being beginners, from scratch. The beginner students who became Junior Web Developer with CodeTap earn an average of over £ 33500 annually. Midlevels earn over £ 50000 annually or are in the process of getting over this threshold, while seniors are in the 6-digit area per year.",
+      "ro": "Sunt trei optiuni, iar raspunsul depinde de ce alegi:  cursurile de pe YouTube, sunt gratuite si poti incepe imediat. Este recomandata aceasta optiune daca aveti tot timpul din lume, vointa de fier si un istoric de a duce lucrurile la bun sfarsit, singur singurel, singura singurica.  pe 26 Mai 2019 vom pre-lansa optiunea de  ”Cursuri platite”. Viziteaza https://cursuri.codetap.io , preturile fiind afisate pe website. Din banii platiti ne sustinem personalul, asa ca apasa cu incredere si virtute pe butonul de ”Cumpara” sau ”Buy”. insa, NU UITAtI, CodeTap a pornit cu scopul de a sustine comunitatea programatorilor. Asadar, vom oferi sprijin persoanelor exceptionale fara dar si poate. Verifica mereu ofertele de pe website sau intra direct in contact cu noi si spune-ne povestea ta. Ai putea beneficia de reduceri pana la 100%.  Mentor 1 la 1: se redeschide incepand cu 1 Aprilie 2019. Cu aceasta varianta CodeTap a reusit peste 25 de angajari in timp record, majoritatea elevilor fiind incepatori de incepatori, de la zero de zero, zero barat. Elevii incepatori ce au ajuns Junior Web Developer cu ajutorul lui CodeTap castiga in medie peste £33500 anual. Cei de nivel mijlociu, asa zis ”Mid Level”, castiga peste £50000 anual sau sunt in procesul de a sari acest prag, in vreme ce seniorii stau in zona de 6 cifre pe an."
+    },
+    "question": {
+      "en": "When can I start?",
+      "ro": "Cand se poate incepe?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Very good question. I will respond by telling who CodeTap students are or were. Most CodeTap students did not have any tangency with programming. They were in jobs like plumbers, waiters, realtors, electricians, taxi drivers, brick layers, painters, bartenders, etc. The youngest CodeTap student began at 11 years old, now she is 12 years old, and she makes websites after websites. She has, with the consent of her father, three clients to make their websites. The oldest is 62. A small story to add: my oldest workmate named Andy, at that time of the story was of age 72. He was working side by side with me and earning the same as me, about £400 a day. In this job it does not matter age, sex or sexual orientation, skin color or religion. What everyone had in common was the desire to make a change, and they were given the opportunity to work with their heads and not with their backs.",
+      "ro": "Foarte buna intrebare. O sa raspund prin a spune cine este sau au fost elevi CodeTap. Majoritatea elevilor CodeTap nu au avut nici o tangenta cu programarea. Ei se aflau in slujbe precum: zidari, ospatari, agenti imobiliari, electricieni, taximetristi, instalatori, barmani etc. Cea mai tanara eleva CodeTap a inceput la 11 ani. Acum are varsta de 12 ani, face website-uri dupa website-uri, si-a intrat in mana si are deja, cu acordul tatalui ei, trei clienti pentru a le realiza website-urile. Cel mai batran la 62 ani. O mica paranteza, cel mai in varsta coleg de munca, pe nume Andy, avea pe aceea vreme de povestesc acum despre cea, 72 ani. Muncea cot la cot cu mine si castiga la fel ca mine, aproximativ £400 pe zi. in meseria asta nu conteaza varsta, sexul sau orientarea sexuala, culoarea pielii sau religia. Ce au avut toti in comun a fost dorinta de a face schimbarea si li s-a oferit posibilitatea de a munci cu capul si nu cu carca."
+    },
+    "question": {
+      "en": "Can anyone study programming, even she/he doesn’t have knowledge in the field?",
+      "ro": "Poate sa studieze oricine programare, chiar daca nu are cunostinte in domeniu?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Sure you can. Even under many forms. For starters, homework can bring you a much lower income than one at client's office. The more you grow in your experience and portfolio, the greater the chances of earning more working from home office. If you want to be paid as well as a home office, all you have to do is to prove to the employer that you are as productive when you work from home or even more efficiently and productively and you can work that way. Only someone crazy would refuse to receive more on the same investment. I also want to add the fact that you want to be good and confident, for the level you are: Junior, Medium or Senior, so you have a good chance to convince your employer. Speaking from my own experience, the most common is to work 1-3 days at home and 1-3 days in the office, which I am more satisfying than work just from home or just from the office.",
+      "ro": "Sigur ca se poate. Chiar sub foarte multe forme. Pentru inceput, lucrul de acasa iti poate aduce un venit mult mai mic decat cel de la biroul clientului. Cu cat cresti in experienta si portofoliu sansele de a castiga mai mult lucrand de acasa fata de birou cresc. Daca vrei sa fii platit la fel de bine ca la birou lucrand de acasa, tot ce trebuie sa faci e sa ii demonstrezi angajatorului ca esti minim la fel de productiv lucrand de acasa sau poate chiar mai eficient si mai productiv si vei putea lucra asa. Doar cineva nebun ti-ar refuza sa primeasca mai mult pe aceeasi investitie. Vreau sa mai adaug si faptul ca vrei sa fii bun si sigur pe tine, pentru nivelul unde esti: Junior, Mijlociu sau Senior pentru ca sa ai sanse mari sa poti convinge angajatorul. Vorbind din experienta proprie, cel mai des intalnit este sa lucrezi 1-3 zile de acasa si 1-3 zile de la birou, ceea ce pe mine ma multumeste mai mult decat doar de acasa sau doar de la birou."
+    },
+    "question": {
+      "en": "It is possible to work from home, afterwards?",
+      "ro": "Se poate sa gasesti job sa lucrezi si de acasa?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Visit https://courses.codetap.academy, the prices are displayed on the website. Courses with a dedicated mentor or teacher, who will guide you from start to geting employed throughout, from codes, resumes, and interviews, are divided into three: Level 1 - The shortest possible time for Zero to Hired. Mentoring is until you get on a salary between £ 30,000 and £ 50,000 per year or a maximum of one year from the start date. In the event of becoming employed on a lower salary, mentoring continues until a promotion of at least £ 30,000 per year or up to one year from the start date. Payment options: 1) the full £ 8000 payment, where you have the highest priority; 2) payment in installments: £ 750 deposit then £ 250 minimum per month until payment of £ 8000. In the first month after hiring, the minimum rate increases to £ 500 until the remaining amount is paid. The deposit will be refunded only upon payment of the full amount only and no sooner. 3) the full £ 8000 payment, where you have the highest priority, with the possibility to get your money back. After a year of starting, if you have not started earning yet and have spent the minimum of 10 hours a week, we start to give you your money back. Note: For b and c you need to pass a simple test and have at least 10 hours a week for practice and learn. We reserve the right to select accepted students. Level 2 - Active mentoring until you get to earn between £ 70,000 and £ 100,000 per year or maximum 1 year from the start date. There may be a passive mentorship that will help you reach £ 150,000 - £ 200,000 annually. We reserve the right to select students. Level 3 - It's not about mentoring but about partnership",
+      "ro": "Viziteaza https://cursuri.codetap.io , preturile fiind afisate pe website. Poti plati pretul intreg fara dar si poate sau … daca te simti o persoana indrazneata, curioasa din fire, in stare de a scrie mesaje si de a pune o imagine pe internet cu experienta ta de a trece prin cursuri, intra in contact cu noi pentru a beneficia de reduceri pentru excelenta de pana la 100%. Practic o sa vrei sa strigi in gura mare cat te tine de tare: Lume, lume! Uite de ce m-am apucat!  Cursurile cu mentor sau profesor dedicat, cel ce te va indruma de la zero la angajat pe tot parcursul, de la coduri, la CV si interviuri, se impart in trei:  Nivel 1 - Cel mai scurt timp posibil de la Zero la Angajat. Mentoratul tine pana te angajezi pe un salariu intre £30 000 si £50 000 pe an minim sau maxim 1 an de la data inceperii. in eventualitatea angajarii pe un salariu mai mic, mentoratul continua pana la o promovare pe minim £30 000 sau maxim 1 an de la data inceperii.  Variante de plata:  plata integrala £8000, unde ai prioritate maxima  plata in rate: £750 depozit apoi £250 minim pe luna pana la achitarea sumei de £8000. in prima luna dupa angajare, rata minima creste la £500 pana la achitarea sumei ramase. Depozitul se va putea recupera doar la achitarea sumei complete.  plata integrala £8000, unde ai prioritate maxima, cu posibilitatea de a primi banii inapoi. Dupa un an de la incepere, daca nu ai inceput sa castigi inca si ai depus efortul de minim 10 ore pe saptamana, incepem sa-ti dam banii inapoi.    Nota: pentru varianta b  si c trebuie sa treci un test simplu si sa dispui de minim 10 ore pe saptamana pentru practica si invatat. Ne rezervam dreptul de a selecta elevii acceptati.  Nivel 2 - Mentoratul activ tine pana te angajezi pe un salariu intre £70 000 si £100 000 pe an minim sau maxim 1 an de la data inceperii. Poate urma un mentorat pasiv ce te va ajuta sa ajungi la £150 000 - £200 000 anual  Nota: ne rezervam dreptul de a selecta elevii  Nivel 3 - Nu mai este vorba de mentorat ci de parteneriat  "
+    },
+    "question": {
+      "en": "How much does it cost with and without a mentor?",
+      "ro": "Cat costa cursurile cu sau fara mentor?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Very good question. has two answers: yes and no. CodeTap DOES NOT guarantee employment, nor will it do it, but we pride ourselves with a 100% success in the first two years of all those who have gone through the program, over 25 hires. Let me repeat that for you, I said: ALL those who have done the job and made the effort have succeeded. To get the answer Yes, the one who guarantees employment is you. You are the only person who stops you from succeeding or what can guarantee your success.",
+      "ro": "Foarte buna intrebarea. Are doua raspunsuri: si DA si NU. CodeTap NU garanteaza angajarea si nici nu va face asta, insa ne mandrim cu o reusita de 100% in primii doi ani a tuturor celor ce au trecut prin program, peste 25 de angajari. Daca e sa ne repetam, am zis: TOtI cei care s-au tinut de treaba si au depus efortul au reusit. Pentru a obtine raspunsul DA cel ce garanteaza angajarea esti chiar tu. Tu esti singura persoana care te opreste din a reusi sau ce iti poate garanta reusita."
+    },
+    "question": {
+      "en": "If you choose the option with the mentor is the employment guaranteed?",
+      "ro": "Este garantata angajarea la oferta studiului care se plateste?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Soon we will also open a class where we can meet more often and more at once. At the moment, face-to-face meetings are done at CodeTap Studio and we are getting crowded. London is a big city, and for those separated by distances even greater, we will study together using the technologies that surround us. Preferably Zoom for voice, video and computer sessions at a distance. The first place is the comments on YouTube, the messages on the CodeTap group. In a nutshell, you will study where you find it convenient, at home or at work if it allows you time.",
+      "ro": "in curand vom deschide si o clasa unde sa ne putem intalni mai des si mai multi deodata. Momentan intalnirile fata in fata se fac la CodeTap Studio si se cam aglomereaza. Londra este un oras mare iar pentru cei separati de distante si mai mari, vom studia impreuna folosindu-ne de tehnologiile ce ne inconjoara. De preferat este Zoom pentru voce, video si sesiuni pe calculator la distanta. Pe primul loc se situeaza comentariile pe YouTube, mesajele pe grupul CodeTap  . Mai pe scurt, o sa studiezi de unde-ti este mai comod, acasa sau la munca daca-ti permite timpul."
+    },
+    "question": {
+      "en": "Is there a specific place for study?",
+      "ro": "Trebuie sa mergem intr-un anumit loc sa studiem?"
+    }
+  },
+  {
+    "answer": {
+      "en": "You can study how long you want in your free time. If you were selected for paid installments, then you want to spend at least 10 hours a week. I answered a question, now you continue with another message. You learn for yourself and everything you acquire, such as experience and abilities will help you find your first, second, tenth job much faster, will help you to be promoted, to get on your career not on the ladder, not on the elevator, but with \"JET PaCK\". All students who have succeeded faster than 3 months have devoted any free time to them for their new purpose. Razvan succeeded from Zero to Hired in a month and 17 days. To reach this practical performance he learned and practiced at least 6 hours a day. You want to practice and learn as much as possible, even if you have to cut some of the movies or sleep.",
+      "ro": "Poti studia cat timp vrei si cat ai liber. Daca ai fost selectat si si s-a oferit plata in rate, atunci vrei sa depui un efort de minim 10 ore pe saptamana. Am dat un raspuns pe masura intrebarii. Acum continui cu un alt mesaj. inveti pentru tine si tot ce dobandesti precum experienta si abilitati te vor ajuta sa iti gasesti prima, a doua, … a zecea slujba mult mai repede, te vor ajuta sa fii promovat, sa urci in cariera nu pe scara, nu cu liftul, ci cu ”JET PACK”. Toti elevii care au reusit mai repede de 3 luni au dedicat orice farama de timp liber pentru ei, pentru noul lor scop. Razvan a reusit de la Zero la Angajat intr-o o luna si 17 zile si pentru a ajunge la performanta asta practica si invata minim 6 ore pe zi. Tu vrei sa practici si sa inveti cat mai mult posibil, chiar daca trebuie sa tai si un pic din filme sau din somn."
+    },
+    "question": {
+      "en": "How many hours per day do I have to study?",
+      "ro": "Cate ore pe zi/saptamana trebuie sa studiez!"
+    }
+  },
+  {
+    "answer": {
+      "en": "Definetely. By March 20, 2019, CodeTap has succeeded through its students over 25 employments. Some of the successful students are on the website at: https://ro-info.codetap.academy/#who-made-it. You can talk to them, everyone is friendly. You can find out their story, how they went through courses, where they work now, etc. The question from CodeTap is: Do you want to be a success story on the CodeTap website? Do you want to inspire those like you that everything is possible as long as you have the will and can ease and accelerate the process to the maximum with the help of CodeTap?",
+      "ro": "Sigur. Pana in 20 Martie 2019 CodeTap a reusit prin studentii sai peste 25 de angajari. O parte dintre elevii de succes sunt prezenti pe website la adresa: https://ro-info.codetap.io/#who-made-it . Poti intra in discutie cu ei, toti sunt de treaba. Le poti afla povestea lor, cum au trecut ei prin cursuri, unde lucreaza acum etc.  intrebarea din partea lui CodeTap este: Vrei sa fii si tu un exemplu de succes pe website-ul CodeTap? Vrei sa ii inspiri pe cei ca tine ca totul e posibil atat timp cat ai vointa si se poate usura si accelera procesul la maxim cu ajutorul CodeTap?"
+    },
+    "question": {
+      "en": "Do you have examples of other students who have succeded and hired?",
+      "ro": "Aveti exemple de alti studenti care au reusit si s-au angajat?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Very good question. It all depends on how much you want this to happen. The next is your time and your ability to focus on the mentor's advice and the material presented to you. It does not matter how many courses you are doing, but how many techniques you have mastered, or at least how many you understand, and you are able to talk about them freely. The minimum needed would be to remember how to solve a particular situation and to be able to return to the example of the course and adjust the information to your problem to solve it. All this will speed you up. Among the beginner students, Razvan, with a record one month and 17 days since landing in London, left the sailor's job behind and embraced the web developer until the day has received a contract as a Junior Web Developer to one of the UK's largest telephony companies, Romania and other countries. It is followed by the majority, two, three or four months old. Are you wondering who is first? Well, CodeTap founder, Marian Zburlea (I mean, if I'm the one who is responding) with a 7-day record from Zero to Employee.",
+      "ro": "Foarte buna intrebare. Totul depinde de cat de mult iti doresti tu ca acest lucru sa se intample. Urmatorul este timpul acordat si capacitatea ta de a te concentra asupra sfaturilor mentorului si a materialului ce-ti este prezentat. Nu conteaza atat de multe cate cursuri faci ci cat de multe tehnici ai stapanit din ele sau macar cat de multe le-ai inteles si esti in stare sa vorbesti despre ele liber. Minimul necesar ar fi macar sa tii minte cum se rezolva o anumita situatie si sa fii in stare sa revii pe exemplul din curs ulterior si sa adaptezi informatia la problema ta spre a o rezolva. Toate astea iti vor grabi reusita.   Dintre elevii incepatori, pe locul doi se afla Razvan, cu un record de o luna si 17 zile de cand a aterizat in Londa, a lasat meseria de marinar in spate si a imbratisat-o pe cea re programator web, pana la ziua in care a primit oferta de contract ca Junior Web Developer la una din cele mai mari companii de telefonie din UK, Romania si alte tari. Este urmat de majoritatea, situati la doua, trei sau patru luni. Te intrebi cine e pe primul loc? Ei bine, fondatorul CodeTap, Marian Zburlea (adica eu daca sunt cel ce prezinta raspunsul) cu un record de 7 zile de la zero la angajat."
+    },
+    "question": {
+      "en": "How long does it take you to start studying until you will get the first junior web developer job?",
+      "ro": "Cam cat timp dureaza de cand incepi sa studiezi pana la primul job de junior web developer?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Good question. You will meet with this daily life throughout your life as a programmer. The process will become trivial. Practically, as a beginner, when an error occurs, you want to be happy. 90% of the situations are where the error occurs with a message that tells you exactly the line and the character where the problem occurs. The bigger problem would be if something went wrong and we had no erors to point use to the issue that appeared. Let's go through the process of resolving an error or finding a solution for the project. The first step is to read the error. Often you get a bundle of hard-to-understand words. You want to look for the readable part for us, people. \"At Object.Curalate.FanReel.callbacks. (: 8080 / anonymous function) [as cb_360376]\" will not tell you much while \"Uncaught TypeError: Can not read property 'getBoundingClientRect' of undefined at carousel.js: 15 says that on line 15 of the carousel.js file you want to pay attention. If you know how to do it, go for it, if you do not, you take that error message and you search for it on Google. Here you want to make the general question. Your line 15 may be for someone else line 478, while \"Can not read property 'getBoundingClientRect' of undefined\" will produce many results on Google. You take them one by one, one at a time, and you see what helps you understand what's going on. Once you understand the problem, you can apply a solution if you know it or even have a guess. If not, back to the searches. If that did not work, make a list of all your attempts, put them nicely in a document, and present them to a mentor or someone with a greater understanding. In most cases, one of the solutions you've tried and failed with a little twist turns out to be a good solution. Of course, you can get tips to tackle the problem differently, in a faster, better way, etc. Attention: When a senior person like a mentor or a work colleague takes time for you, which means that his job is stopped, you want to be grateful by being very careful and pay attention to the process of solving. It is MORE important to learn how the problem has been solved than to enjoy having a solution to that problem. Pay close attention, forcibly if necessary, repeat in your head, take notes. From a business point of view, the time of a senior is much more precious than your time as a beginner, so learn to appreciate the help to its true value.",
+      "ro": "Buna intrebare. Te vei intalni cu acest fenomen zilnic pe tot parcursul vietii de programator. Procesul va deveni banal. Practic, fiind incepator, cand apare o eroare tu vrei sa te bucuri. 90% din situatii sunt in cazul care eroarea apare cu un mesaj in care iti zice exact linia si caracterul unde se produce problema. Problema mai mare ar fi daca ceva nu ar merge si nu am avea deloc erori sa ne indrume spre buba ce a aparut. Sa trecem la procesul  de a rezolva o eroare sau a gasi o solutie pentru proiect.  Primul pas este sa citesti eroarea. Deseori iti apare un manunchi de cuvinte greu de inteles. Vrei sa cauti partea usor de citit de noi, oamenii.   ”at Object.Curalate.FanReel.callbacks.(:8080/anonymous function) [as cb_360376]” nu iti va spune prea multe pe cand ”Uncaught TypeError: Cannot read property 'getBoundingClientRect' of undefined at carousel.js:15” iti zice ca pe linia 15 din fisierul carousel.js vrei sa-ti clatesti ochii.  Daca stii sa te descurci, spor la treaba, daca nu, iei bucata aceea de mesaj din eroare si o cauti pe Google. Aici vrei sa faci intrebarea cat mai generala. Linia ta 15 poate fi pentru altcineva linia 478, pe cand ”Cannot read property 'getBoundingClientRect' of undefined” o sa produca multe rezultate pe Google. Le iei unul cate unul, rand pe rand, si vezi care te ajuta sa intelegi ce se intampla. O data ce ai inteles problema, poti aplica o solutie daca o stii sau ai macar o banuiala. Daca nu, inapoi la cautari.  Daca nici asta nu a mers, faci o lista cu toate incercarile tale, le pui frumos intr-un document si le poti prezenta mentorului sau altei persoane cu o capacitate de intelegere mai mare. in cele mai multe cazuri, una din solutiile ce le-ai incercat si ai esuat, cu o mica intorsatura devine o solutie buna. Bineinteles, poti primi sfaturi sa abordezi altfel problema, intr-un mod mai rapid, mai bun etc.  Atentie: cand cineva senior precum un mentor sau un coleg de munca isi face timp pentru tine, ceea ce inseamna ca treaba lui e pusa pe stop, vrei sa fii recunoscator macar prin a fi foarte atent la procesul de rezolvare. Este MULT mai important sa inveti cum s-a rezolvat problema decat sa te bucuri ca ai o solutie pentru problema respectiva. Acordati atentie sporita, fortata daca este nevoie, repetati in cap, luati notite. Din punct de vedere al unei afaceri, timpul unui senior este mult mai pretios decat timpul tau, ca incepator, asa ca apreciaza ajutorul la adevarata lui valoare."
+    },
+    "question": {
+      "en": "What it will happen, if during study time, there will be an error in the code and I cannot find a solution to sort it out?",
+      "ro": "Ce se intampla daca in timp ce studiez apare o eroare in cod sau nu mai gasesc o solutie pentru un proiect?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Very interesting question. It certainly varies from where you apply. Is it London or Constanta? I start by answering what is important from a salary point of view, after which I will continue with some examples. Salary and how it should look. The most important monthly expenses are: rent, food and transport. Most other expenses may be optional or postponed. I regard salary as the amount that remains in my hand as a result of the difference between salary and expenses. It is much more important what remains in your hand at the end of the month. If you have a £ 1200 monthly salary and £ 1000 expenses, you'll end up with £ 200. If the rent was £ 1500, a total expense or £ 2200 would not sound good. But if that allows you to win £ 3000 instead of £ 1200, you end up at the end of the month with £ 800. Well, now that you have a more realistic perspective on how to look at your salary and make good decisions following a minimal arithmetic effort, let's move on to salary examples. In London or England, I have not heard of a salary of less than £ 16,000 per year as a Web Developer. Media published on the Internet for a Junior Web Developer is £ 25,000 annually across all of England. The average CodeTap students' salary, calculated last time in 2018, was £ 33,500 per year. Be free to search on Google: \"According to the 2016 Stack Overflow survey of over 56,000 coders, mentoring programs correlate with higher pay than college degrees.\" Now you are starting to get a more general picture of the role of a mentor from a financial point of view, in addition to the ease and shortness of getting from point A to point B.",
+      "ro": "Foarte interesanta intrebare. Acesta variaza cu siguranta de locul unde aplici. Este vorba de Londra sau de Constanta? incep prin a raspunde cu ce e important din punct de vedere al unui salariu dupa care o sa continui cu niste exemple.  Salariul si cum trebuie privit el. Cheltuielile cele mai importante lunare sunt: chiria, mancarea si transportul. Majoritatea celorlalte cheltuieli pot fi optionale sau amanate. Eu privesc salariul ca suma ce-mi ramane in mana in urma diferentei dintre salariu si cheltuieli. Este mult mai important cu cat ramai in mana la sfarsitul lunii. Daca ai un salariu de £1200 pe luna si cheltuieli de £1000, ramai cu £200. Daca chiria ar fi £1500, totalul cheltuielilor de £2200 nu ar suna bine. insa daca asta iti permite sa castigi £3000 in loc de £1200, ramai la finele lunii cu £800. Bun, acum ca aveti o perspectiva mai reala de cum trebuie sa priviti salariul si sa luati decizii bune in urma unui efort minim de calcul aritmetic, sa trecem la exemple de salarii.  in Londra sau Anglia, nu am auzit de salariu mai mic de £16,000 pe an ca Web Developer. Media publicata pe internet pentru un Junior Web Developer este de £25,000 anual pentru toata Anglia. Media salariului elevilor CodeTap, calculata ultima oara in 2018 era de £33,500 pe an.  Fii liber sa cauti pe nenea Goagle:  ”According to the 2016 Stack Overflow survey of over 56,000 coders, mentorship programs correlate with higher pay than a college degree.”  Acum incepi sa iti faci o imagine mai de ansamblu despre rolul unui mentor din punct de vedere financiar, pe langa usurinta si timpul scurt de a ajunge din punctul A in punctul B.  "
+    },
+    "question": {
+      "en": "How much is the minimum wage for a Junior Web Developer?",
+      "ro": "Cat este salariul minim pentru un Junior Web Developer?"
+    }
+  },
+  {
+    "answer": {
+      "en": "You will have continuous access to the CodeTap community and mentor. Depending on the method of payment, the amount of time you get from 1 to 1 varies. You will practice and learn through practice. CodeTap was born with the intention of being as effective as possible, and therefore methods of addressing information assimilation will be appropriate. Therefore, it does not resemble traditional methods of study. Half of the techniques will teach you through simple observation and repetition, working continuously on real projects, most or all of your projects remaining yours after completing the interaction with CodeTap. You'll even get the ability to create websites and put them online, right from the first project, to make them load faster than you can blink, which puts them in the top 1% of the fastest websites in the world. You will understand what issues appear to motivate a user to leave a website and then improve the user experience by implementing practices that will increase your Google Page Speed ​​score to 100/100, PERFECT score. This means that your users will benefit from well-optimized websites, and Google as well as other search engines will position you better. That's what makes clients that desire PROFESSIONAL websites want you badly and pay you very good.",
+      "ro": "   Vei avea continuu acces la comunitatea CodeTap si mentor. in functie de metoda de plata variaza si timpul ce ti se acorda 1 la 1. Vei practica continuu si vei invata prin practica. CodeTap s-a nascut cu gandul de a fi cat mai eficient prin urmare si metodele de abordare a asimilarii informatiei vor fi pe masura. Prin urmare nu se aseamana cu metodele traditionale de studiat. Jumatate din tehnici o sa le inveti prin simpla observatie si repetitie, lucrand continuu la proiecte reale, majoritatea sau toate ramanand proiectele tale si dupa ce inchei interactiune cu CodeTap. Vei dobandi chiar din primul proiect abilitati de a crea website-uri si a le pune online, de a le face sa se incarce mai repede de cat poti clipi, lucru ce le pune in top 1% cele mai rapide website-uri din lume. Vei intelege ce probleme apar astfel incat sa motiveze un utilizator sa paraseasca un website apoi vei imbunatati experienta utilizatorului prin implementarea unor practici ce iti vor creste Google Page Speed scor la 100/100, scor PERFECT. Asta inseamna ca utilizatorii tai vor beneficia de website-uri foarte bine optimizate, tata de mata, iar nenea Goagle precum si celelalte motoare de cautare te vor pozitiona mai bine. Asta ii face pe cei ce vor website-uri facute PROfesional sa te vrea si sa te plateasca bine rau de tot."
+    },
+    "question": {
+      "en": "Do you have to study alone or there is someone to help you with?",
+      "ro": "Trebuie sa studiezi singur sau este cineva care te ajuta?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Mentoring is to have a dedicated teacher who will guide you to understand how the web works, the problems faced by website users, the difficulties of creating and maintaining a website and their solutions. At the same time, you will be helped to master the art of writing a resume and interviewing art so you can get to dozens of phones a day and the opportunity to get more offers at the same time to have choices. You will be helped and guided all the way from Zero to Employee from all points of view related to your success. Courses are designed to address as many situations and people as possible. They are very good to submit general information. Every student, including you, is unique, you have different knowledge and experiences, the ability to understand or assimilate different. You are different from one another. With the help of the mentor, each course will be customized for you so you can understand how it works.",
+      "ro": "Mentoratul consta in a avea un profesor dedicat ce te va indruma spre a intelege cum functioneaza web-ul, ce probleme intampina utilizatorii de website-uri, dificultatile de a crea si mentine un website precum si solutiile acestora. In acelasi timp vei fi ajutat sa stapanesti arta de a scrie un CV si arta interviurilor, astfel incat sa poti ajunge la zeci de telefoane pe zi si posibilitatea de obtine mai multe oferte in acelasi timp pentru a avea de unde alege. Vei fi ajutat si indrumat pe tot parcursul de la Zero la Angajat din toate punctele de vedere ce tin de succesul tau. Cursurile sunt concepute sa se adreseze cator mai multe situatii si oameni. Ele sunt foarte bune sa transmita informatii generale. Fiecare elev, inclusiv tu, sunteti unici, aveti cunostinte si experiente diferite, capacitatea de a intelege sau asimila diferita. Pe scrut sunteti diferiti unul de altul. Cu ajutorul mentorului fiecare curs va fi, intre ghilimele, particularizat pentru tine astfel incat sa intelegi cat mai usor cum functioneaza."
+    },
+    "question": {
+      "en": "What does it mean mentoring?",
+      "ro": "Ce inseamna mentorat?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Very good question. Let's list some features that highlight us: We stay with you from Zero to the Hired, on the code, resume, interview, moral support, and more. Our material is continuously updated to have market advantage by mastering the latest techniques and technologies. We teach you alongside HTML, CSS, JavaScript, etc., the dynamics in an I.T. company, how to be efficient and evolve in your career quickly by becoming good as fast as possible. The material is not taught from books but from own work experience. You are not guided from things we hear, but from our own or colleagues experience, real word scenarios and facts.",
+      "ro": "Foarte buna intrebarea. Sa enumeram cateva caracteristici ce ne scot in evidenta:  Noi stam cu tine de la zero la angajat, pe partea de coduri, CV, interviuri, suport moral si altele.   Materialul nostru este actualizat continuu pentru a avea avantaj pe piata prin stapanirea ultimelor tehnici si tehnologii.   Te invatam pe langa HTML, CSS, JavaScript etc, dinamica intr-o companie I.T., cum sa fii eficient si sa evoluezi in cariera repede prin a deveni bun cat mai rapid.  Materialul nu este predat din carti ci din experienta proprie in campul muncii. Nu sunteti indrumati din auzite, ci din intamplari proprii sau ale colegilor, amici etc, intamplari reale."
+    },
+    "question": {
+      "en": "What is the difference between Codetap and other offers?",
+      "ro": "Care este diferenta dintre ce ofera CodeTap si ce ofera altii?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Good question. If it is to compare a student who passes quickly through material with a lot of free time and a student passing slowly through the material, assuming they are doing similar steps, the chances of hiring will be the same or very close. The only thing different will be how fast you will get hired, those who will be employed having the advantage that they will continue to practice day by day this time, most of the time will be in the workplace where it is also rewarded. You will continue to learn while being paid at the same time. The chances of engagement are given by your training in presentation in combination with your skills that fit the job description requirements. So you end up with the answer: you have equal chances with a slower studying student. Do not forget, you can ask questions to the students who have succeeded, both those in 1-2-3 months and those who have courage later, at https://www.facebook.com/groups/codetap/",
+      "ro": "Buna intrebare. Daca e sa compar un elev ce trece repede prin material dispunand de mult timp liber si un elev ce trece mai lent prin material, presupunand ca fac pasi similari, sansele de angajare vor fi la fel sau foarte foarte aproape. Singurul lucru diferit va fi cat de repede te vei angaja, cei ce vor fi angajati avand avantajul ca vor continua practica, zi de zi, de data aceasta, majoritatea timpului va fi in campul muncii unde este si rasplatit. Vei continua sa inveti in continuare fiind platit in acelasi timp. sansele de angajare sunt date de pregatirea ta in ale prezentarii in combinatie cu aptitudinile tale ce se potrivesc cu cerintele fisei postului. Prin urmare inchei cu raspunsul: sanse egale cu un elev mai lent. Nu uita, poti adresa intrebari elevilor ce au reusit, atat cei in 1-2-3 luni cat si celor ce au prins curaj mai tarziu, pe https://www.facebook.com/groups/codetap/"
+    },
+    "question": {
+      "en": "What chances do I have to be employed if I study intensively?",
+      "ro": "Ce sanse pot sa am de a ma angaja daca studiez intensiv?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Most successful students have a public profile on FaceBook, LinkedIn, or StackOverflow. The easiest thing to do is write a question on the CodeTap group on FaceBook. The address https://www.facebook.com/groups/codetap/ will be both on screen and in description if you are not able to do a simple search after the CodeTap term on the FaceBook portal. Everyone is friendly so do not wait anymore, ask them a question now! What I recommend you do not just limit yourself to a question.",
+      "ro": "Majoritatea elevilor ce au reusit au profil public pe FaceBook, LinkedIn sau StackOverflow. Cel mai simplu e sa scrii o intrebare pe grupul CodeTap de pe FaceBook. Adresa https://www.facebook.com/groups/codetap/ se va afla atat pe ecran cat si in descriere in cazul in care nu te descurci sa faci o cautare simpla dupa termenul CodeTap pe portalul FaceBook. Toti sunt de treaba asa ca nu mai astepta, adreseaza-le o intrebare acum! Ce-ti recomand e sa nu te limitezi doar la o intrebare. "
+    },
+    "question": {
+      "en": "How can I get in touch with students who have succeded and ask them from their experiences?",
+      "ro": "Cum pot sa iau legatura cu studentii care au reusit si sa ii intreb din experientele lor?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Good question. Courses are online and pre-registered. In addition to this we solve real projects or interviews for jobs, in live or pre-recorded programs, both from CodeTap and from students of any level. Minimum weekly, 1 to 1 or group meetings.",
+      "ro": "Buna intrebare. Cursurile se tin online si sunt preinregistrate. Pe langa acestea rezolvam proiecte reale sau teste primite la interviu pentru slujba, in emisiuni in direct sau preinregistrate, atat venite din partea CodeTap cat si din partea elevilor de orice nivel. intalnirile minim saptamanale, 1 la 1 sau in grup, sunt anuntate intern sau public."
+    },
+    "question": {
+      "en": "Where is the place to study these courses?",
+      "ro": "Unde se tin cursurile"
+    }
+  },
+  {
+    "answer": {
+      "en": "Differences are many. From a financial point of view, it's best to go out with a mentor. In the long run and short you get to win, in a way you can not believe that it is happening to you. At the same time, we are people and people are subject to just quit when it becomes difficult. If it is to set aside those who have a strong will, for the others with a mentor the chances of success can be called real and possible. With a mentor you have a high chance that in 10 years you'll earn £ 1 million more than without a mentor. That's if you pull hard. If you slow down or not, any extra money the mentor can get to your pocket may mean a house on your name paid in full or the opportunity to invest in your ideas or business. In short, with your mentor, you become effective in assimilating as much knowledge as possible, to have a profound understanding of them so you can speak with much self-control of them and be triumphant in interviews or contract proposals. How do you think you will feel when you are told: We had two more interviews tomorrow, but after the discussion with you, we'll call them to tell them it's canceled. The customers called and said they offered £ 50,000 on one condition: do not go into the next interview, go back to them and sign today.",
+      "ro": "Diferentele sunt multe. Din punct de vedere financiar, cel mai bine iesi cu mentor. Pe termen lung si scurt ajungi sa castigi de nu iti vine sa crezi ca ti se intampla chiar tie. in acelasi timp, suntem oameni. Oamenii sunt supusi situatiei de a se lasa pe drum cand devine dificil. Daca e sa ii dam la o parte pe cei ce au dobandit vointa de invidiat, pentru ceilalti, cu un mentor sansele de reusita le poti numi reale si posibile.    Cu un mentor ai sanse mari, pe o durata de 10 ani, sa castigi cu un milion de lire (£1,000,000) mai mult decat fara mentor. Asta daca tragi tare. Daca tragi mai incet sau nu, orice suma in plus ce te poate ajuta mentorul sa ajunga la tine in buzunar, poate insemna o casa pe numele tau platita 100% sau posibilitatea de a investi in ideile sau afacerile tale.   Mai pe scurt, cu mentor devii eficient in a asimila cunostinte cat mai multe, de a avea o intelegere profunda asupra lor astfel incat sa vorbesti cu multa stapanire de sine despre ele si sa fii triumfator in interviuri sau propuneri contractuale.   Cum crezi ca te vei simti cand ti se va spune:  Mai aveam doua interviuri maine, insa dupa discutia cu tine o sa ii sunam sa le spunem ca s-a anulat.  Au sunat clientii si au zis ca iti ofera £50,000 cu o singura conditie: sa nu intri in urmatorul interviu, sa te intorci la ei si sa semnezi azi."
+    },
+    "question": {
+      "en": "What is the difference between free study and mentoring 1 to 1 ?",
+      "ro": "Care este diferenta dintre a studia gratuit si cel cu a avea un mentor 1 la 1?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Good question. We are in touch with almost all CodeTap students and we pride ourselves on the fact that they all received at least a promotion, some being at the third in the first year. It all depends on you if you keep your foot pressed on the accelerator or not. CodeTap is here to make your life easier. Of course there is banal technique where you can be promoted with £ 1,200 extra per year or £ 15,000 extra per year. Here at CodeTap, the mentor will guide you to understand what suits you and how to take a step that is best for you.",
+      "ro": "Buna intrebare. tinem legatura cu aproape toti elevii CodeTap si ne mandrim cu faptul ca toti au primit minim o promovare, unii fiind la a treia in primul an. Totul depinde de tine daca tii piciorul apasat pe acceleratie sau nu. CodeTap este aici sa-ti faca viata mai usoara. Bineinteles ca exista tehnica banala unde poti fi promovat cu £1,200 in plus pe an sau cu £15,000 in plus pe an. Aici mentorul te va ghida spre a intelege ce ti se potriveste si cum sa faci un pas cat mai potrivit pentru tine."
+    },
+    "question": {
+      "en": "How fast can I progress?",
+      "ro": "Cat de repede pot sa avansez?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Very good question. You create all day, art comes out of your hand. Your work is then used by tens, hundreds, millions of users. At the same time you do not think about money, you get enough financial freedom and investment power. You can concentrate on your ideas, family, friends, or other madness that represents you.",
+      "ro": "Foarte buna intrebare. Creezi toata ziua, din mana ta iese arta. Munca ta e folosita apoi de zeci, sute, milioane de utilizatori. in acelasi timp nu mai duci gandul banilor, obtii destul de repede libertate financiara si putere de investitie. Te poti concentra pe ideile tale, familie, prieteni sau alte nebunii ce te reprezinta."
+    },
+    "question": {
+      "en": "How about the extra-curriculum freedom, how does this opportunity fulfill you?",
+      "ro": "Cat despre libertatea extra scolara, cum te implineste aceasta oportunitate?"
+    }
+  },
+  {
+    "answer": {
+      "en": "The answer is: Of course! From the very first day you will have the opportunity to work on your own website and not only, you will have more. The first time you write a character, when you press a key, it will be the first character on your first website. Among many of the most common projects will be: \"My CV\" and \"Quick Blog\" or \"My Portfolio\" followed by \"Boost my website\" and others. All of these will be part of your online resume, will be public on GitHub and easy to digest by the eyes of employers. To finish, you will be working on your website from the first online project and you will be able to make websites from that moment, for you or for others, free or paid.",
+      "ro": "Raspunsul este: bineinteles! Chiar din prima zi vei avea ocazia sa lucrezi la website-ul tau propriu si nu numai, vei avea mai multe. Prima oara cand vei scrie un caracter, cand vei apasa o tasta, va fi primul caracter din primul tau website. Printre multe proiecte cele mai intalnite vor fi: ”My CV” si ”Quick Blog” sau ”My Portfolio” urmate de ”Boost my website” si altele. Toate acestea vor face parte din CV-ul tau online, vor fi publice pe GitHub si usor de digerat de ochii angajatorilor. Ca sa incheiem, vei lucra la website-ul tau din primul proiect online si vei putea face website-uri din momentul acela, pentru tine sau pentru altii, gratuite sau platite."
+    },
+    "question": {
+      "en": "Can I create my own website?",
+      "ro": "Pot sa creez websiteul propriu?"
+    }
+  },
+  {
+    "answer": {
+      "en": "To get hired in a short time you want two big things to do. The first is to devote as much time as practice and learning followed by the second where you want to listen to the mentor with both ears and focus on understanding as many techniques from a cours as possible and not on as many courses as possible. The first student god hired with only one course. He rebuilt it and within three months after he started the searches and some interviews later he succeeded. Long story short, your problem would be how to make more time for practice, learn and pay attention to what the mentor tells you, the rest are details.",
+      "ro": " Pentru a te angaja in timp cat mai scurt vrei doua lucruri mari si late sa faci. Primul este sa dedici cat mai mult timp practicii si invataturii urmat de al doilea unde tu vrei sa asculti cu ambele urechi mentorul si sa te concentrezi pe a intelege cat mai multe tehnici din cursuri ci nu pe a face cat mai multe cursuri. Primul elev s-a angajat cu un singur curs, pe vremea aceea era doar unul. Asa ca l-a inteles cat mai bine, l-a repetat si in trei luni dupa ce a inceput cautarile si cateva interviuri mai tarziu a reusit.   Pe scurt, problema ta ar fi cum sa faci sa ai mai mult timp pentru practica, invatat si cum sa faci sa fii atent la ce-ti spune mentorul, restul sunt detalii."
+    },
+    "question": {
+      "en": "What are the requirements I have to meet as a student so that I can get employed as soon as possible?",
+      "ro": "Care sunt cerintele pe care trebuie sa le indeplinesc ca student pentru a putea sa ma angajez in timp cat mai scurt?"
+    }
+  },
+  {
+    "answer": {
+      "en": "In English, we have the CodeTap group https://www.facebook.com/groups/codetap/ and a https://www.facebook.com/codetap/ page on Facebook. The CodeTap page will also publish news about the life of a programmer. In Romanian, we have the page https://www.facebook.com/prinfapte/ and https://www.facebook.com/groups/topjobuk/ \"UK paid jobs\" and have the same topics as English , but those in English have a higher activity.",
+      "ro": " in limba engleza avem grupul CodeTap https://www.facebook.com/groups/codetap/ si o pagina https://www.facebook.com/codetap/ pe Facebook. Pe pagina CodeTap vor fi publicate noutati si despre viata unui programator. in limba romana avem pagina https://www.facebook.com/prinfapte/ si grupul https://www.facebook.com/groups/topjobuk/ ”Job-uri in UK platite bine” si au aceeasi tematica precum cele in engleza, insa cele in engleza au o activitate mai mare."
+    },
+    "question": {
+      "en": "Do you have facebook groups?",
+      "ro": "Aveti grupuri pe Facebook?"
+    }
+  },
+  {
+    "answer": {
+      "en": "That's a question. Before succeeding, I was at the stage of making websites extraordinarily simple, by pressing buttons and customizing them from an interface that appears. I was able to do something to appear on the screen without knowing exactly what I'm doing. I was experimenting a lot. I saw an ad in the newspaper that Romaris in Constanta was searching for a Web Designer. I did not know what it meant, but I deduced there was something with websites. When I applied, I was called out of curiosity. I was the 51st candidate, all of them having graduated or undergoing a university with many project in their portfolio. I was told: I called you out of curiosity to see why you applied, because in the CV you seem to be the weakest. The story is long but I asked to give me some time and 1 - 2 projects to work on them. It followed a week at the \"former\" Candy Internet Cafe in Constanta, North Faleza, the first three days of which were sleepless, looking to solve the requirements of the two projects. The advantage was that I used the latest tricks found on the internet, while the others were a bit behind with the presentation. When I presented the two websites I was told they had never seen anything like that and that I had no doubt taken the job. It was animated heavely, text followed the cursor, cartoon characters talking to each other with custom text for the project. Effects on buttons, effects between transitions. Most were Drag & Drop, at that time I only knew 4-5 HTML tags, as if you knew 4-5 words in English. By the time I learned, day by day, and I got where I am today. In short, I managed with a lot of nerve and baldness. I do not say I was not afraid, my ears flushed, and I heard the pulse of my beating heart, the emotions and the fear. I succeeded because I said to myself: If I'm playing the game according to their rules and experience, I have no chance, I will be made porridge. So whatever I say will make it a promise that I can do in the future. And that was it, that's what I did the first time.",
+      "ro": "Asta da intrebare. inainte de a reusi eram la stadiul de a face website-uri extraordinar de simple, prin a apasa butoane si a particulariza dintr-o interfata ce apare. Eram in stare sa fac ceva sa apara pe ecran fara sa stiu exact ce fac neaparat. Experimentam la greu. Am vazut un anunt in ziar, firma Romaris din Constanta cauta Web Designer. Nu stiam ce inseamna insa am dedus eu ca e ceva cu website-uri. Cand am aplicat, am fost chemat din curiozitate. Eram 51 de candidati, toti mai putin eu avand facultate terminata sau in curs de a o face, cu multe lucrari in portofoliu. Mi s-a zis: te-am chemat din curiozitate sa vedem de ce ai aplicat, deoarece in CV pari pe departe cel mai slab. Povestea e lunga insa am cerut sa mi se dea timp si 1 - 2 proiecte sa lucrez la ele. A urmat o saptamana de stat la ”fosta” sala de internet Candy din Constanta, Faleza Nord, dintre care primele trei au fost lipsite de somn, cautand cum sa rezolv cerintele celor doua lucrari. Avantajul a fost ca am folosit ultimele smecherii gasite pe internet, pe cand ceilalti erau un pic in urma cu modul de prezentare. Cand am prezentat cele doua website-uri mi s-a spus ca nu au mai vazut asa ceva si ca fara dubiu am luat slujba. Era cu animatii, cu nebunii, un scris se tinea dupa cursor, caractere din desene animate vorbeau intre ele cu text particularizat pentru proiectul respectiv. Efecte pe butoane, efecte intre tranzitii. Majoritatea au fost cu Drag & Drop, pe vremea aceea stiam doar 4-5 taguri HTML, ca si cum ai sti 4-5 cuvinte in Engleza. in timp am invatat, zi de zi, si am ajuns unde sunt azi.  Pe scurt am reusit cu mult tupeu. Nu zic ca nu am avut frica, mi se inroseau urechile si auzeam pulsul, bataia inimii, de emotii si de frica. Am reusit pentru ca mi-am zis: daca e sa joc jocul dupa regulile si experienta lor, nu am nici o sansa, o sa fiu facut terci. Prin urmare orice as zice o fac ca o promisiune ca pe viitor sa pot sa fac. si asta a fost, asa am reusit prima oara."
+    },
+    "question": {
+      "en": "How did you succed?",
+      "ro": "Dumneavoastra cum ati reusit?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Super question. Being a web developer, web developer, web dev, front end developer requires you to build and / or maintain websites. This can come in many ways: to discuss with the client and learn more about his vision, to make an execution plan with at least two variants and to present to the client, sketch, implement the design (WARNING, DESIGN does not fall under the competence of a web developer although a simple one can be done), make sure that all the functions of the website work the way we want it and that none is missing, and so on. This will take you much of your time. The other part will be occupied by research and experimentation. You want to continually discover how to solve different issues so you can create advantages for your customer. Research will be done using Google and social networks and you want to stay up with the trend to ensure your career growth. Besides, you will benefit personally by your own efforts or offered by the company where you work for professional training or attending business meetings or meeting programmers. Do not forget to always have a personal project where you can unleash at will and without limits. This is what the dev / web developer / front end developer job is about.",
+      "ro": " Super intrebare. A fi dezvoltator web, web developer, web dev, front end developer presupune sa construiesti sau / si sa mentii website-uri. Asta poate veni sub multe forme: sa discuti cu clientul si sa afli mai multe despre viziunea lui, sa faci un plan de executie cu minim doua variante si sa-l prezinti clientului, sa faci schita, sa implementezi design-ul (ATENtIE, designul nu intra sub competenta unui dezvoltator web desi unul simplu de simplu se poate face), sa te asiguri ca toate functiunile website-ului functioneaza asa cum ne dorim si nu lipseste nici una, s.a.m.d. Asta o sa iti ocupe o mare parte din timp. Cealalta parte va fi ocupata de cercetare si experimente. Vrei sa descosi continuu cum sa rezolvi problemele diferit astfel incat sa ajungi sa creezi avantaje clientului. Cercetarea o vei face folosind Google si retele de socializare si vrei sa fii in pas cu moda pentru a iti asigura o crestere in cariera. Pe langa asta vei beneficia personal prin eforturi proprii sau oferite de firma unde lucrezi de pregatire profesionala sau participarea la intalniri de afaceri sau programatori. Nu uita sa ai mereu in lucru un proiect personal unde sa te poti dezlantui dupa bunul plac si fara limite. Cam asta presupune slujba de dezvoltator web / web dev / web developer / front end developer."
+    },
+    "question": {
+      "en": "What exactly does the web development job involves?",
+      "ro": "Ce presupune jobul de web dev in general?"
+    }
+  },
+  {
+    "answer": {
+      "en": "They will certainly be. Depending on how hard you work, you will start searching for a job very quickly. Almost every time you pass the telephone interview, you will be given a test. We will read the test together and you will be guided how to understand and approach it. Once you have solved it, if it's free and the test is interesting, we'll schedule and resolve it with the other students. Tests will therefore be, only real tests, nothing fictional or imaginary. It will be exactly what you get at the interview, because its source will be from a real interview. Keep in mind, we stay with you until you get hired or a maximum of one year if you opt for 1 to 1 mentor, so you can not really get out of the tests so easily. Of all the students, I and Carol Enache managed to take interviews without giving a test, and the score was 3 - 1 for the Mentor. Congratulations Carol! Many more!",
+      "ro": " Vor fi cu siguranta. in functie de cat de tare tragi, vei incepe cautarile pentru o slujba foarte repede. Aproape de fiecare data cand treci de interviul telefonic, ti se va da un test. Vom citi testul impreuna si vei fi indrumat cum sa il intelegi si sa il abordezi. Dupa rezolvarea ta, daca e timp liber si testul este interesant, il vom programa si rezolva impreuna cu ceilalti elevi.  Prin urmare teste vor fi, doar ca vor fi teste reale, nimic fictiv sau imaginar. Va fi exact ce primesti la interviu, pentru ca sursa lui va fi dintr-un interviu real. tine minte, noi stam cu tine pana te angajezi sau maxim un an daca optezi pentru mentor 1 la 1, prin urmare nu prea ai cum sa scapi de teste asa usor. Dintre toti elevii, doar eu si Carol Enache am reusit sa luam interviuri fara a da test, scorul fiind de 3 - 1 pentru Mentor. Felicitari Carol! La mai multe!"
+    },
+    "question": {
+      "en": "Apart from studying at home, are there any tests or exams before finishing the course?",
+      "ro": "in afara de a studia de acasa, sunt ceva teste sau examene inainte de a termina cursul?"
+    }
+  },
+  {
+    "answer": {
+      "en": "All courses are designed and recommended for beginners. If you want to start in the recommended order, visit the info.codetap.academy/#youtube website then use the menu to navigate to \"Courses on YouTube\" or \"Courses on YouTube\". Here you will find the recommended course order, a small description of where you can find out about what the course is and what it can help you, and a direct link that will take you to the YouTube list of the course where the lessons will be played automatically in the right order.",
+      "ro": " Toate cursurile sunt concepute si recomandate pentru incepatori. Daca vrei sa pornesti in ordinea recomandata viziteaza website-ul info.codetap.io apoi foloseste meniul pentru a naviga la sectiunea ”Courses on YouTube” sau ”Cursuri pe YouTube”. Aici vei gasi ordinea recomandata de parcurgere a cursurilor, o mica descriere de unde poti afla despre ce e cursul si cu ce te poate ajuta acesta precum si legatura directa ce te va duce pe lista de pe YouTube a cursului, unde lectiile vor fi redate automat in ordinea corecta."
+    },
+    "question": {
+      "en": "Which course is recomended for beginners?",
+      "ro": "Care curs este recomandat pentru incepatori?"
+    }
+  },
+  {
+    "answer": {
+      "en": "I do not understand the question. So I'll respond as best I can. The course is in digital format. It can be consumed on almost any device that can play movies. The skills and experience you gain from the CodeTap courses you will take with you to any country. In most developed countries, as long as you do not have a reputation, you will be tested. Almost nobody in the right mind no longer asks for diplomas, which is forgotten or, at best, optional or bonus. I do not deny that there are no situations in which to ask for diplomas. In my case, with thousands of phone calls received and I think over 200 face-to-face interviews, Skype, Zoom or others, I was just once asked for diplomas as well as the history of education. If you do, and you have completed the paid courses, you will still have a merit diploma, but I do not recommend working in a field where staff practice techniques for decades old.",
+      "ro": " Nu inteleg intrebarea. Asa ca voi raspunde cum pot mai bine. Cursul se afla in format digital. El poate fi consumat de pe aproape orice dispozitiv ce poate reda filme. Aptitudinile si experienta dobandite din cursurile de pe CodeTap le vei lua cu tine in orice tara. in majoritatea tarilor dezvoltate, atat timp cat nu ai un renume facut, vei fi pus la test. Aproape nimeni intreg la minte nu te mai intreaba de diplome, acestea devenind uitate sau in cel mai bun caz optionale sau bonus. Nu contest ca nu exista situatii in care sa fii intrebat de diplome. in cazul meu, cu mii de telefoane primite si cred ca peste 200 de interviuri fata in fata, Skype, Zoom sau altele, doar o singura data am fost intrebat de diplome precum si istoricul educatiei. Daca se intampla, si ai parcurs cursurile platite, vei avea oricum diploma de merit insa nu iti recomand sa lucrezi intr-un domeniu unde personalul practica tehnici de zeci de ani invechite."
+    },
+    "question": {
+      "en": "It is available international?",
+      "ro": "Este cursul valabil international?"
+    }
+  },
+  {
+    "answer": {
+      "en": "A very common question. No one stops you from doing that. I really recommend you. I can not even tell if you started the classes on YouTube because they are public for everyone and do not remember the identity of the visitor. So you only know that you have taken courses on YouTube and I can only find out if you tell me this. I repeat, the mentor is meant to make your way easier, faster, moral support and push you up as high as possible. Let's not forget, today's important detail, to win as quickly as possible and as much as possible.",
+      "ro": " Foarte des intalnita intrebare. Nu te opreste nimeni sa faci asta. Eu chiar iti recomand. Nici nu am cum sa stiu daca ai inceput cursurile pe YouTube deoarece ele sunt publice pentru toata lumea si nu retin identitatea celui ce le viziteaza. Asadar doar tu stii ca te-ai apucat de cursuri pe YouTube iar eu pot afla doar daca imi transmiti tu asta. Repet, mentorul e menit sa-ti faca drumul mai usor, mai rapid, sa te sustina moral si sa te impinga sus, cat mai sus. Sa nu uitam, un detaliu important in ziua de azi, sa castigi cat mai repede si cat mai mult."
+    },
+    "question": {
+      "en": "Can I start with the free tutorials on Youtube and if I think that I like and it is for me can I start to study with the mentor?",
+      "ro": "Pot sa incep cu tutorialele gratuite de pe Youtube si daca consider ca imi place si ma descurc, sa incep sa studiez cu mentor?"
+    }
+  },
+  {
+    "answer": {
+      "en": "You can start studying what you want and taking notes on what you can do. When it comes to being efficient and showing seriousness to your purpose, I recommend a Laptop or Desktop / PC. If you do not have, see to have the minimum of: 8G RAM (application memory), SSD or M.2 for storage, dual core or more for the processor. For some students I recommended \"Lenovo refurbished\" that spun at the price of £ 300. If you do it badly with the money, try to ask friend and closed ones to give you access to their PC / Laptop or find a library or public place where you get access.",
+      "ro": " Poti sa incepi sa studiezi de pe ce vrei si sa-ti iei notite pe ce poti. Cand vine vorba de a fi eficient si a arata seriozitate fata de scopul tau, recomand un Laptop sau Desktop/PC. in cazul in care nu ai, vezi sa aiba minimul de: 8G RAM (memorie pentru aplicatii), SSD sau M.2 pentru spatiul de stocare, dual core sau mai multe pentru procesor. Pentru cativa elevi am recomandat ”Lenovo refurbished” ce se invartea la pretul e £300. Daca o duci rau de tot cu banii, incearca sa apelezi la cunostinte sa-ti dea acces la PC/Laptop-ul lor sau sa gasesti o biblioteca sau loc public unde primesti acces. "
+    },
+    "question": {
+      "en": "Do I need a laptop? or I can start to study even on an ipad?",
+      "ro": "Am nevoie de un laptop sau pot sa incep sa studiez de pe tableta?"
+    }
+  },
+  {
+    "answer": {
+      "en": "As far as I remember, no one had the experience of writing, we were all born simple and equal. As we started to make lines, then letters and words, so in programming we will begin with basic concepts and we will evolve step by step. We will learn how to identify what we have to do, how to look for complete or partial solutions, and so on so that we cover and understand all the aspects we want to use to build and deliver on the web any webpage.",
+      "ro": " Din cate tin eu minte, nimeni nu a avut experienta de a scrie, toti ne-am nascut simpli si egali. Asa cum am inceput sa facem bastonase, apoi litere si cuvinte, asa si in ale programarii o sa incepem cu notiuni de baza si vom evolua pas cu pas. Vom invata cum sa identificam ce avem de facut, cum sa cautam solutii complete sau partiale precum si multe altele astfel incat sa acoperim si sa intelegem toate aspectele ce vrem sa le folosim pentru a construi si livra pe internet orice pagina web."
+    },
+    "question": {
+      "en": "How can I learn to write coding if I do not have experience at all?",
+      "ro": "Cum pot sa invat sa scriu coduri daca nu am deloc experienta?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Very good question. There are thousands and thousands of ads for web developers in London. The demand for programmers is very high. All you want to do is to be equipped with techniques, technologies and methodologies that allow you to be extremely efficient and work very well in a team. Your luck is that this is what CodeTap does to get you formed. Students who opt for a 1-to-1 mentor will enter a team just like the next job and we will practice exactly what is done at work so that for you it feels nothing but a change of address or \"job\" .",
+      "ro": " Foarte buna intrebare. in Londra sunt mii si mii de anunturi pentru programatori web. Cererea de programatori este foarte mare. Tot ce vrei sa faci este sa fii inzestrat cu tehnici, tehnologii si metodologii ce iti permit sa fii extrem de eficient si sa lucrezi foarte bine in echipa. Norocul tau ca de asta se ocupa CodeTap sa te formeze. Elevii ce opteaza pentru mentor 1 la 1 vor intra intr-o echipa exact ca la munca ce va urma si vom practica exact ce se face la munca, astfel incat pentru tine sa nu fie altceva decat o schimbare de adresa sau ”loc de munca”."
+    },
+    "question": {
+      "en": "Who will hire me?",
+      "ro": "Cine ma va angaja?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Of course. As I have answered on other occasions, your acquired skills will help you find work anywhere in the world. I recommend that you focus on cities where IT investments are big, such as London, Berlin, New York or others. Do extensive Internet research before deciding. Of course you can become \"Digital Nomad\" if you like traveling. It combines work with the traveler and is in a continuous movement. Google can also be your friend this time if you want to know more about what Digital Nomad means.",
+      "ro": " Bineinteles. Precum am raspuns in alte ocazii aptitudinile dobandite te vor ajuta sa iti gasesti de munca oriunde in lume. Recomand sa te orientezi catre orasele unde se fac investitii mari in IT precum Londra, Berlin, New York sau altele. Fa o cercetare ampla pe internet inainte sa te hotarasti. Bineinteles ca poti deveni ”Digital Nomad”, daca iti plac calatoriile. Acesta imbina munca cu calatoritul si este intr-o continua miscare. De asemeni, Google iti poate fi prieten si de data asta daca vrei sa afli mai multe despre ce inseamna Digital Nomad."
+    },
+    "question": {
+      "en": "Can you find an IT job even in another country?",
+      "ro": "Poti sa gasesti job in IT si in alta tara?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Wonderful question. I will start by listing several levels: starter, junior, middle, senior, expert, wizard, guru. As we notice the senior is in the middle and the road is not so long. Depending on your efforts and the help you get, you can become a senior between two and five years.",
+      "ro": " Minunata intrebarea. Am sa incep prin a enumera mai multe niveluri: starter, junior, mediu, senior, expert, wizard, guru. Din cate observam senior se afla la mijloc iar drumul nu este atat de lung. in functie de eforturile tale depuse si de ajutorul primit poti deveni senior intre doi si cinci ani."
+    },
+    "question": {
+      "en": "How long does it take till you become a Senior Web Developer?",
+      "ro": "in cati ani ai putea sa ajungi senior web developer?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Most courses are in English. A small part of the courses are recorded in Romanian or have Romanian subtitles. The main reason is clear. From the point of view of communication in the world of I.T., English is the most used. Starting with articles on the Internet, books, video courses, forums, work communication, and so on, English is blooming. You want the English courses to practice even more what you do day by day anyway and inevitably.",
+      "ro": " Majoritatea cursurilor sunt in engleza. O parte mica din cursuri sunt inregistrate in romana sau au subtitrare in romana. Motivul principal e clar. Din punct de vedere al comunicarii in lumea I.T.-ului limba engleza este cea mai folosita. incepand de la articolele de pe internet, la carti, cursuri video, forum-uri, comunicarea la munca si tot asa, engleza e in floare. Tu vrei sa fie cursurile in limba engleza ca sa practici si mai mult ceea ce o sa faci zi de zi oricum si inevitabil."
+    },
+    "question": {
+      "en": "Are the courses just in english language or also translated in romanian?",
+      "ro": "Cursurile sunt doar in engleza sau si in romana?"
+    }
+  },
+  {
+    "answer": {
+      "en": "I could put my hand in the fire that those people did not have the expertise to give advice but simply expressed their opinion from what they've heared. Cases in which math would create an advantage may be so rare that you can forget about them. You will acquire analytical thinking skills anyway while practicing programming through our courses, explained step by step, why do we do it and not otherwise, what hurts and how we treat the cause of pain, etc. Final answer: Definitely false.",
+      "ro": " As putea sa bag mana in foc ca acele persoane nu aveau expertiza necesara sa dea sfaturi ci pur si simplu si-au exprimat parerea din auzite. Cazurile in care matematica ar crea un avantaj fara dar si poate sunt in procentaj atat de rare incat poti sa uiti linistit de grija asta. Vei dobandi aptitudini de gandire analitica oricum in timpul practicarii programarii prin intermediul cursurilor noastre, explicate pas cu pas, de ce facem asa si nu altfel, ce ne doare si cum tratam cauza durerii, etc. Raspuns final: categoric fals."
+    },
+    "question": {
+      "en": "Many people have told to me that in order to be a good programmer you have to be good in math science, is this true?",
+      "ro": "Multe persoane mi-au zis ca trebuie sa fii bun la matematica pentru a face programare. Este adevarat?"
+    }
+  },
+  {
+    "answer": {
+      "en": "As a Junior Web Developer you will smile a lot. You will have the opportunity to get to know and work with people very respectful, learn from the strongest and to take the first steps in your role of making the world better. You will feel like a child on the first day of school, full of enthusiasm many times, usually associated with the state of personal success or team, department or company. You will be knocking on the basics of programming and you will have the chance to solve tasks that will put you along with others quite quickly. As in coding, you are going to do conceptually the same things you did on CodeTap, possibly on the same syntax or programming languages, if not something like that. You will be guided and given help whenever possible.",
+      "ro": " Ca Junior Web Developer ai sa zambesti mult. Vei avea ocazia de a cunoaste si lucra cu persoane foarte demne de respect, sa inveti meserie de la cei mai puternici si sa faci primii pasi in rolul tau de a face lumea mai buna. Te vei simti precum un copil in prima zi de scoala, plin de entuziasm de foarte multe ori, de obicei fiind asociata starea cu momentele de reusita personala sau a echipei, departamentului sau firmei. iti vei batatori bazele programarii si destul de repede vei avea ocazia de a rezolva sarcini sau tichete ce te vor pune in rand cu ceilalti.   Precum coduri o sa faci din punct de vedere conceptual acelasi lucruri ce le-ai facut la CodeTap, posibil si pe aceeasi sintaxa sau limbaje de programare, daca nu ceva asemanator. Vei fi indrumat si ti se va oferi ajutorul de fiecare data cand va fi posibil."
+    },
+    "question": {
+      "en": "What exactly does the Junior Web Developer mean?",
+      "ro": "Ce inseamna mai exact rolul de Junior Web Developer?"
+    }
+  },
+  {
+    "answer": {
+      "en": "The general requirements of the job differ from employer to employer. These requirements will be clearly published and transmitted to you in the job description. It is almost impossible for the requirements not to be presented during the job talk. At CodeTap you will learn how to identify a problem and apply a solution even if you do not know the solution or you know nothing. The general requirements are to have good basic knowledge of how websites work, what problems they can encounter in creating and maintaining them, and how to optimize responsive processes.",
+      "ro": " Cerintele generale ale slujbei difera de la angajator la angajator. Aceste cerinte vor fi clar publicate si transmise catre tine in fisa postului. Este aproape imposibil sa nu ti se prezinte cerintele pe parcursul discutie despre slujba. La CodeTap vei invata cum sa identifici o problema si sa aplici o solutie chiar daca nu stii solutia sau nu stii nimic. Cerintele generale sunt sa ai cunostinte de baza bune despre cum functioneaza website-urile, ce probleme se pot intampina in crearea si mentinerea lor si cum poti optimiza procesele raspunzatoare."
+    },
+    "question": {
+      "en": "What are the general job requirements?",
+      "ro": "Care sunt cerintele generale ale jobului?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Simple Answer: NO. If you're going to compare unloading freight, factory workers or warehouse packagers, the programmer's job is 10-100 times lighter and much more potent. Of course, it's 10-100 times easier to be a programmer with CodeTap.",
+      "ro": " intrebare cu raspuns simplu: NU. Daca e sa compari a descarca tiruri de marfa, muncitor prin fabrici sau depozite, munca de programator e de 10 - 100 ori mai usoara si tot atat de mult mai banoasa. Bineinteles ca este de 10 - 100 de ori mai usor sa fii programator cu ajutorul lui CodeTap."
+    },
+    "question": {
+      "en": "Is it hard to be a programmer?",
+      "ro": "E greu sa fii programator?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Here the answer is from own and repeated experience. Your experience in making websites weighs 3-4 times less than the power of persuasion. Marian Zburlea, the mentor (that is I, if I present this), hired himself just 7 days after he was interviewing his first job in this field, being the one with the least experience compared with the other 50 candidates. I repeat and stress this besides other methodologies to approach the interview until you truly understand and believe. The presentation technique counts much more than the experience. This applies to all levels. Often I was hired to do something that I did not even know anything about. I communicated this to the employer in a way that I would be preferred to someone with experience.",
+      "ro": " Aici raspunsul este dat din experienta proprie si repetata. Experienta ta in a face website-uri cantareste de 3-4 ori mai putin decat puterea de convingere. Marian Zburlea, mentorul (adica eu daca citesc asta), s-a angajat la doar 7 zile dupa ce a fost la interviul pentru prima lui slujba in acest domeniu, fiind cel cu cea mai putina experienta pe departe fata de ceilalti 50 de candidati. Repet si stresez acest lucru pe langa alte metodologii de abordare a interviului pana cand intelegeti si credeti cu adevarat. Tehnica de prezentare conteaza mult mult mai mult decat experienta. Acest lucru se aplica pentru toate nivelurile. De foarte multe ori am fost angajat sa fac ceva ce nu aveam habar nici macar o farama, am comunicat asta angajatorului, astfel incat sa ma prefere pe mine in fata unuia cu experienta."
+    },
+    "question": {
+      "en": "Do you need some experience to start working as a junior web developer?",
+      "ro": "Trebuie sa ai ceva experienta ca sa incepi sa lucrezi ca si junior web dev?"
+    }
+  },
+  {
+    "answer": {
+      "en": "After you get hired, most companies will have a budget for the personal development of their employees. There are very few companies that offer this before. At the same time CodeTap is in continuous negotiations with companies to facilitate the CodeTap students' employment process and to give those who notice through their effort the possibility of entering the service directly.",
+      "ro": " Dupa ce te angajezi majoritatea firmelor au in program un buget pentru dezvoltarea personala a angajatilor. Sunt foarte putine firme ce ofera asta inainte. in acelasi timp, CodeTap este in negocieri continue cu firme pentru a inlesni procesul de angajare al elevilor CodeTap si a le oferi celor ce se remarca prin efortul lor posibilitate de a intra in slujba direct."
+    },
+    "question": {
+      "en": "Are there companies which offer training courses?",
+      "ro": "Sunt firme care iti ofera cursuri de pregatire?"
+    }
+  },
+  {
+    "answer": {
+      "en": "The answer could be compared to the question: Is it better to sell the shares of a company on the first day of establishment or to sell after they increase their value? Do not misunderstand, as an apprentice is much better than none at all. If you have the option of becoming Junior or Medium from the first, it is more beneficial than the apprentice. What do you think?",
+      "ro": " Raspunsul as putea sa-l compar cu cel al intrebarii: Este mai bine sa vinzi actiunile unei firme din prima zi de infiintare sau sa vand dupa ce le cresc valoarea la cea dorita de mine? Sa nu se inteleaga gresit, ca ucenic este mult mai bine decat deloc. Daca ai optiunea sa devii Junior sau Mediu din prima, este mult mai benefica decat ucenicul. Tu ce parere ai?"
+    },
+    "question": {
+      "en": "Is it a better idea to start with an apprenticeship or you can start as a junior?",
+      "ro": "E mai bine sa incepi cu un apprenticeship sau direct junior?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Of course, diplomas will be offered to complete paid courses. With these diplomas, you can use them proudly when you will be out of toilet paper. In 2019, the old resume is for recruiters only (although CodeTap is going to change that), the new CV is on GitHub and the diploma is given by any healthy project you were part of. If you can not be really good at your presentation you will get a test. You won't get rid of it, so the diploma is worthless. Do not be out of date, you might squeak.",
+      "ro": " Bineinteles, vor fi oferite diplome la finalizarea cursurilor platite. Cu aceste diplome veti putea fi mandru si falnic ca nu a trebuit sa va spalati cu dusul cand ati ramas fara hartie igienica. in anul 2019, CV-ul vechi este doar pentru recrutori (desi CodeTap are de gand sa schimbe asta), noul CV este pe GitHub iar diploma este data de orice proiect sanatos la care ai facut parte. Daca nu te duce capul de test nu scapi, asa ca diploma iar nu are valoare. Nu fi invechit, s-ar putea sa scartai."
+    },
+    "question": {
+      "en": "Is there a diploma/certificate offered at the end of the course?",
+      "ro": "Se ofera diploma/certificat la finalizarea cursului?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Contact CodeTap to be picked up and directed by an agent who will personally handle you. This will help you understand the current choices, so you can make the best choice for you.",
+      "ro": " Intra in contact cu CodeTap pentru a fi preluat si indrumat de un agent ce se va ocupa personal de tine. Acesta te va ajuta sa intelegi cat mai bine optiunile prezente, ofertele curente pentru ca tu sa poti face o alegere cat mai buna pentru tine."
+    },
+    "question": {
+      "en": "I am interested in these courses, what should I do?",
+      "ro": "Sunt interesat de astfel de cursuri, ce trebuie sa fac?"
+    }
+  },
+  {
+    "answer": {
+      "en": "The chances of getting hired in terms of the content are equal. The chances of getting to the end and be hired are very small. To advance in your career very quickly, very small. Chances to keep up with one that is mentored, probably 1 in 1000. The \"You Never Know What You Do not Know\" principle applies 100%. Suppose you have iron will and fear is not present in your vocabulary. You motivate yourself and do not let any obstacle stand in your face. On average until you become productive, it may take 2 years.",
+      "ro": " sansele de a te angaja din punct de vedere al materialului sunt egale. sansele sa ajungi la bun sfarsit si sa te angajezi, foarte mici. Sa avansezi in cariera foarte repede, extrem de foarte mici. sansele ca sa tii pasul cu un elev cu mentor, probabil 1 la 1000. Principiul ”Niciodata nu stii ce nu stii” se aplica 100%.   Sa presupunem ca ai vointa de fier si frica nu este prezenta in vocabularul tau. Te motivezi singur si nu lasi niciun obstacol sa iti stea in fata. in medie pana devii productiv ar putea trece 2 ani."
+    },
+    "question": {
+      "en": "If I choose to study just the free courses, what chances do I have to get employment?",
+      "ro": "Daca studiez doar cursurile gratuite, ce sanse si in cat timp as putea sa ma angajez?"
+    }
+  },
+  {
+    "answer": {
+      "en": "We start with HTML, CSS, and JavaScript and stay with them as beginners. To master them at a very good level as well as additional libraries will keep you busy for years. Of course, as long as you like something, it's good to experiment with it. So if you're looking at Python, Go or others, be free to unleash yourself.",
+      "ro": " Noi incepem cu HTML, CSS si JavaScript si ramanem cu acestea ca incepatori. Sa le stapaniti la nivel foarte bun precum si librariile aditionale o sa va tina ocupati ani buni. Bineinteles ca atat timp cat iti place ceva este bine sa experimentezi. Asadar daca-ti face cu ochiul Python, Go sau altele, fii liber sa te dezlantui.  "
+    },
+    "question": {
+      "en": "How many programming languages do I need to study?",
+      "ro": "Cate limbaje de programare trebuie sa studiezi?"
+    }
+  },
+  {
+    "answer": {
+      "en": "If the questions are related to your way to interact with CodeTap, your agent is the first one you want to greet day by day. If questions are related to code, you first ask Google. If you are not good at clarifying yourself, the next step is to ask the CodeTap or StackOverflow community if you do not have a mentor, and if you have a mentor, ask the CodeTap question and notify the mentor if the question is urgent.",
+      "ro": " Daca intrebarile sunt legate de modul tau de a interactiona cu CodeTap, agentul tau este primul ce vrei sa-l saluti de buna ziua. Daca intrebarile sunt legate de coduri, prima oara il intrebi pe Google. Daca nu e in pasa buna sa te lamureasca, urmatorul pas este la comunitatea CodeTap sau StackOverflow daca nu ai mentor, iar daca ai mentor, pune intrebarea pe grupul CodeTap si instiinteaza mentorul daca adresarea intrebarii este urgenta."
+    },
+    "question": {
+      "en": "If I have questions, who can I ask?",
+      "ro": "Daca am intrebari, pe cine pot sa intreb?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Like all the other students living in London. The study can be done anywhere, the most common in the comfort of your favorite home-based home. It is preferable and recommended to be able to move to interviews once you start with them. For example, Dorin Dumitrascu started for a month and a bit from Constanta, Romania, after that he moved to London. Iulian Cârnaru learned from a few hundred miles from London and traveled for interviews. Only two of the students took interviews in Romania.",
+      "ro": " La fel ca toti ceilalti elevi ce locuiesc in Londra. Studiul se poate face de oriunde, cel mai des intalnit din confortul locului preferat de acasa de la tine. Este preferabil si recomandat sa poti sa te deplasezi la interviuri odata ce incepi cu ele. Spre exemplu, Dorin Dumitrascuta a inceput pentru o luna si un pic din Constanta, Romania dupa care s-a mutat in Londra. Iulian Carnaru a invatat de la cateva sute de mile de Londra si a calatorit pentru interviuri. Doar doi dintre elevi au luat interviurile din Romania."
+    },
+    "question": {
+      "en": "How can I study if I do not live in London?",
+      "ro": "Cum pot sa studiez daca nu locuiesc in Londra?"
+    }
+  },
+  {
+    "answer": {
+      "en": "A short answer would be: All your Life. But after a while you get to know how to do everything and you will be attracted to the responsibility of other team members, one or more projects, one or more teams. You'll master coding once you reach the middle level to senior. From there, you can do whatever you want, even if you don't know the answer or the solution.",
+      "ro": "Un raspuns scurt ar fi: Toata viata. insa dupa ceva timp ajungi sa stii sa faci de-toate si vei fi atras de a tine sub raspundere alti membri ai echipei, unul sau mai multe proiecte, una sau mai multe echipe. Programarea o stapanesti o data ce ai ajuns la nivel mediu cu tinta spre senior. De acolo te descurci orice ti s-ar da de rezolvat, chiar daca stii sau nu raspunsul sau solutia."
+    },
+    "question": {
+      "en": "How long do you have to study until I can master programming?",
+      "ro": "Cat timp trebuie sa studiezi ca sa stapanesti programarea?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Yes, it's just a meeting where we have the opportunity to talk with voice and video, share what's on our screen or others, and have your computer under the control of one of the members or control a member's computer to solve a problem problem. We do remotes randing from once a week to even a few times a day. We do as many times as necessary and possible.",
+      "ro": " Da, e chiar o intalnire unde avem posibilitatea de a discuta cu voce si video, de a distribui ce este pe ecranul nostru sau al altora cat si de a avea calculatorul sub controlul unuia din membrii sau de a controla calculatorul unui membru spre a rezolva o problema. Facem remote-uri minim saptamanal sau chiar de cateva ori pe zi. Facem de cate ori este nevoie si posibil."
+    },
+    "question": {
+      "en": "Remote is a kind of meeting?",
+      "ro": "Remote-ul asta e un fel de intalnire?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Of course you can. Most students opt for this choice. I'm saying it's not the best. If you can ask for help from your family or loved ones, to support you how they can, the best option is to dedicate 25 hours a day if you can. The more, the quicker you will succeed.",
+      "ro": " Sigur ca poti. Majoritatea elevilor opteaza la aceasta alegere. tin sa precizez ca nu este cea mai buna. Daca ai posibilitatea sa ceri ajutorul familiei sau celor dragi, sa te sustina cum pot ei, cea mai buna varianta e sa dedici 25 de ore din 24 daca se poate. Cu cat mai mult cu atat mai repede vei reusi."
+    },
+    "question": {
+      "en": "Can you work and study in the same time?",
+      "ro": "Poti sa lucrezi si sa studiezi in acelasi timp?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Courses are real projects or at least inspired by real projects. In what courses are required, then we divide the big requirements into smaller requirements, these in even smaller requirements until they can no longer be divided. You will find out how to solve a solution, how to turn to resources when you are in difficulty s.a.m.d. Practically it's practice.",
+      "ro": " Cursurile sunt proiecte reale sau macar inspirate din proiecte reale. in cursuri afli ce se cere, apoi impartim cerintele mari in cerinte mai mici, pe acestea in cerinte si mai mici pana cand nu mai pot fi impartite. Urmeaza sa afli cum se abordeaza o rezolvare, cum apelezi la resurse cand esti in dificultate s.a.m.d. Practic e practica."
+    },
+    "question": {
+      "en": "What it is about in the courses?",
+      "ro": "Despre ce este vorba in cursuri?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Programmers can write instructions to the computer that allow them to perform operations quickly and safely so that no one is needed to perform that task. For example, an online store can automate the delivery and sales process. Thus, rent, wages, etc., drop to very little to zero. At the same time you do not really see people fighting eachother on the street \"who will become the first programmer\"? Therefore, for a business, the programmer considerably decreases certain expenses and increases the volume of service, sales, etc. There are not too many programmers so the bid is on and the market price stays high, otherwise those who do not offer it risk their staff leaving to whom will appreciate them properly",
+      "ro": " Programatorii pot scrie instructiuni catre calculator ce le permit sa efectueze operatii rapid si sigur astfel incat sa nu mai fie nevoie de un om pentru a efectua acea sarcina. Spre exemplu un magazin online poate avea automatizat procesul de livrare si cel de vanzare. Astfel cheltuielile cu chiria, salariile etc scad la foarte putin spre zero. in acelasi timp nu prea vezi lumea sa se bata pe strada ”cine sa devina programator primul”. Prin urmare pentru o firma programatorul scade considerabil anumite cheltuieli si creste volumul de prestari de servicii, vanzari etc. Nefiind prea multi e bataie pe programatori, astfel incat pretul pietei sta sus, altfel cine nu-l ofera risca sa ii plece personalul catre cine stie sa aprecieze."
+    },
+    "question": {
+      "en": "Why are you well paid in IT?",
+      "ro": "De ce esti bine platit in IT?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Android is Java or Java-based, all of them are equally hard to learn and all are well paid. So if we have to pick one, we'll give toss a coin. If it's heads, of the three we choose HTML, CSS and JavaScript, if it is heads, we choose CSS, HTML and JavaScript.",
+      "ro": " Android este Java sau bazat pe Java, toate sunt la fel de greu de invatat si tote sunt la fel de bine platite. Prin urmare daca e sa alegem unul, vom da cu banul. Daca cade stema, din cele trei alegem HTML, CSS si JavaScript, daca e pajura, alegem CSS, HTML si JavaScript."
+    },
+    "question": {
+      "en": "Java Developer, IOS or ANDROID, which is better paid and easy to learn?",
+      "ro": "Programator Java, IOS sau ANDROID, care este mai bine platit si usor de invatat?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Not at all or minimal. You can apply from the first day when you have no knowledge of programming. It's one of the techniques I've been applying for over 20 years and it works great. Of course there are cases where more JavaScript knowledge can benefit you, but no interview is the same.",
+      "ro": " Deloc sau minime. Poti sa aplici din prima zi cand nu ai nici o cunostinta de programare. Nu te retine nimeni iar eu chiar recomand asta cu mare drag. Este una din tehnicile pe care le aplic eu de peste 20 de ani si merge de minune. Bineinteles ca exista si cazuri cand mai multe cunostinte de JavaScript te pot avantaja, insa nici un interviu nu e la fel."
+    },
+    "question": {
+      "en": "How much knowledge of JavaScript must a person have before he/she can apply for work?",
+      "ro": "Cate cunostinte de JavaScript trebuie sa aibe o persoana pana poate sa aplice?"
+    }
+  },
+  {
+    "answer": {
+      "en": "How long it lasts depends entirely on you. There are students who finish the course one day while others in a week or a month. It really depends on whether you have a mentor, if you pay attention to what you are advised and you will progress at maximum speed. The earning average of Junior CodeTap students in 2018 was £ 33,500 per year. The seniors' record for a single client is £ 171,600 per year, which is aimed at being shot down by another student.",
+      "ro": " Cat dureaza depinde total de tine. Sunt elevi care termina cursul intr-o zi pe cand altii intr-o saptamana sau o luna. Foarte mult depinde daca ai mentor sa fii atent la ce esti sfatuit si vei progresa la viteza maxima. Media de castig a elevilor CodeTap Juniori in anul 2018 a fost de £33,500 pe an. Recordul seniorilor pentru un singur client este de £171,600 pe an, acesta fiind tintit spre a fi doborat de un alt elev."
+    },
+    "question": {
+      "en": "How long does the first course last and how much I can earn with this job?",
+      "ro": "Cat dureaza primul curs si cat pot sa castig cu acest job?"
+    }
+  },
+  {
+    "answer": {
+      "en": "The basics you'll learn in 5-10 minutes. The rules are extremely simple. In one day you are already comfortable with them. The rest of the way from Starter to Junior, Mid, Senior, Expert, Wizard and Guru can take months, years or a lifetime.",
+      "ro": " Baza o inveti in 5-10 minute. Regulile sunt extrem de simple. intr-o zi te descurci deja cu ele. Restul pe drumul de la Starter la Junior, Mediu, Senior, Expert, Wizard si Guru poate dura luni, ani sau o viata."
+    },
+    "question": {
+      "en": "How long does it take to learn HTML and CSS?",
+      "ro": "in cat timp se invata HTML si CSS?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Make a brief summary of your attempts and find a senior person or mentor and communicate your steps. In most cases, it will be able to guide you and explain to you more: what approaches you can have, how you choose the best. At CodeTap mentored students learn to communicate practically and freely, these two being needed to help you find the solution.",
+      "ro": " Faci un mini rezumat despre incercarile tale si gasesti un senior tie sau mentorul si ii comunici pasii tai. in majoritatea cazurilor acesta va putea sa te indrume si iti explice mai multe: ce abordari poti sa ai, cum o alegi pe cea mai buna. La CodeTap elevii cu mentor invata sa comunice practic si liber, acestea doua fiind necesare sa te ajute sa gasesti solutia."
+    },
+    "question": {
+      "en": "How is your reaction when you cannot find a solution and cannot do the work?",
+      "ro": "Cum actionezi atunci cand nu gasesti o solutie si nu poti sa iti indeplinesti sarcina?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Tomorrow I wake up early, at 7:20 I go to work. At 8, I park the car and start work by reviewing what I did yesterday and write down that. I start working on tasks or take new ones to tackle. At 10 we have stand-ups, where we meet the whole team and communicate what we did yesterday and what we're planning to do today. At 12, I drive to White City to recharge my vegan batteries. After lunch, we continue to work and I leave work at 4 o'clock. At home I start with the students and now it's 2:59 in the morning, when I write these words.",
+      "ro": " Sa vedem. Maine ma trezesc devreme, pe la 7:20 plec spre munca. La 8 parchez masina si incep munca prin a revizui ce am facut ieri si a nota pe scurt asta. incep sa lucrez la sarcinile in lucru sau iau altele noi la puricat. la 10 avem stand-up, unde ne intalnim toata echipa si spunem ce am facut ieri si ce urmeaza azi. Pe la 12 dam fuguta pana la White City sa bagam in noi ceva bun, eu si colegii dornici de o plimbare. Dupa pranz, continuam munca iar eu la 4 plec spre casa. Acasa incep cu elevii iar acum, e 2:45 dimineata, momentul cand scriu aceste cuvinte."
+    },
+    "question": {
+      "en": "How is a normal day in a programmer's life?",
+      "ro": "Cum este o zi obisnuita din viata unui programator?"
+    }
+  },
+  {
+    "answer": {
+      "en": "The web developer and web designer can sometimes be the same person. Web designer is usually someone with a pleasant imagination who knows how to express themselves as an artist to create the looks of a website or an application. He is into style and fashion trends. The web developer takes that design and writes the codes to implement it on the page to make it go according to the requirements. The web designer does not need much knowledge to do something minimalist when the web developer needs a lot more. Generally a web designer earns much less than a web developer.",
+      "ro": " Web developer-ul si web designer-ul pot fi, pe alocuri, una si aceeasi persoana. Web designer-ul este de obicei cineva cum o imaginatie placuta ce stie sa se exprime artistic pentru a realiza cum ar trebui sa arate un website sau o aplicatie. El este cu stilul, cu moda.   Web developer-ul ia acel design si scrie codurile pentru a-l implementa in pagina, pentru a-l face sa mearga conform cerintelor.   Web designer-ul nu are nevoie de multe cunostinte pentru a face ceva minimalist pe cand web developer-ul are nevoie de mult mai multe.   in general un web designer castiga mult mai putin decat un web developer."
+    },
+    "question": {
+      "en": "What is the difference between a web developer and a web designer",
+      "ro": "Care este diferenta intre un web developer si un web designer?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Currently courses are not accredited. The better question would be for you. What would you prefer, courses made by fruitful experts, real projects and fresh information, or accredited courses made from books and out of date for 10 years or more? The diploma job is for Romania, here in England you'll be put to the test. If you know how to do it in an impressive way, you go further, if you do not, you take the diplomas and all your toys and you move the tent elsewhere.",
+      "ro": "Momentan cursurile nu sunt acreditate. intrebarea mai buna ar fi pentru tine. Ce ai prefera mai bine, cursuri facute de experti ce dau roade, cu proiecte reale si informatie proaspata sau cursuri acreditate facute din carti si neactualizate de 10 ani sau mai mult? Treaba cu diploma e pentru Romania, aici in Anglia te pune la test, stii sa treci intr-un mod impresionant, mergi mai departe, nu stii, iti iei diplomele si jucariile si iti muti cortul in alta parte."
+    },
+    "question": {
+      "en": "Are the courses accredited?",
+      "ro": "Sunt cursurile acreditate?"
+    }
+  },
+  {
+    "answer": {
+      "en": "The rule is not to know English, the rule is to know conversationally the main language spoken in that country. For those who know how to speak English at the basic level, conversationally, I assure you that for the beginning is more than enough. The rest you learn on the go. I use the time spent in public transport to enrich my knowledge of English and vocabulary.",
+      "ro": " Regula nu e sa stii engleza, regula e sa stii la nivel conversational limba principala vorbita in tara respectiva. Pentru cei ce stiu a vorbi limba engleza la nivel de baza, nivel conversational, va asigur ca pentru inceput este mai mult decat de ajuns. Restul inveti din mers, si la propriu si la figurat. Eu foloseam timpul petrecut cu transportul in comun sa-mi imbogatesc cunostintele despre engleza si vocabularul."
+    },
+    "question": {
+      "en": "I need to know English for hiring and working in the field",
+      "ro": "Trebuie sa cunosc limba engleza pentru angajare si a lucra in domeniu?"
+    }
+  },
+  {
+    "answer": {
+      "en": "I have already answered the question, \"Is the commitment to the offer of the paid study guaranteed?\". I repeat, all those who followed the mentor's advice and did everything they could to achieve their goal succeeded. The courses end after you get hired or at most one year from the start date.",
+      "ro": "Am raspuns deja in intrebarea ”Este garantata angajarea la oferta studiului care se plateste?”. Ma repet, toti cei ce au urmat sfaturile mentorului si au facut tot ce au putut pentru a isi realiza scopul au reusit. Cursurile se termina dupa ce te angajezi sau la maxim un an de la data inceperii. "
+    },
+    "question": {
+      "en": "Will you provide the job immediately after the course?",
+      "ro": "Iti asigura slujba imediat dupa curs?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Yes, similar courses, in the thousands, are both free and paid. Easy-to-learn advanced beginner courses, how to build a resume that the mentor and all his students are using? ... almost nonexistent. How to make money and career, not by reading from a book, but from your own experience? almost nonexistent. Besides, we offer all our content for free, on YouTube, you have all the time you need for your time. How many content creators offer all the material for free from their paid courses? I can not wait to meet one, I have not heard of him / her yet.",
+      "ro": " Cursuri similare sunt, chiar cu miile, atat gratuite cat si platite. Cursuri cu tehnici avansate facute usor de inteles pentru incepatori, cum sa iti construiesti un CV ce merge folosit de mentor si toti elevii sai? … aproape inexistente. Cum sa faci bani si cariera, nu pe auzite, ci din experienta proprie? aproape inexistente. Pe langa asta noi oferim continutul gratuit, pe YouTube, ai tot ce-ti trebuie mai putin timpul nostru acordat special pentru tine. Cati creatori de continut ofera tot materialul gratuit din cursurile lor platite? Abia astept sa-l cunosc pe unul, nu am auzit inca de el / ea."
+    },
+    "question": {
+      "en": "Are other web courses available for free on other sites?",
+      "ro": "Altfel de cursuri web sunt gratis pe alte situri?"
+    }
+  },
+  {
+    "answer": {
+      "en": "The mentor and two of the top CodeTap students earn between £ 100,000 and £ 200,000 each, annually, with the possibility this year that one of them jumps to the £ 200,000 threshold. They are followed by 5-6 students earning between £ 50,000 and £ 100,000. Those remaining earn between £ 30,000 and £ 50,000 each.",
+      "ro": "Mentorul si doi dintre elevii de top CodeTap castiga intre £100,000 si £200,000 fiecare, anual, cu posibilitatea anul acesta ca unul dintre ei sa sara de pragul de £200,000. Sunt urmati de 5-6 elevi ce castiga intre £50,000 si £100,000. Cei ramasi castiga intre £30,000 si £50,000 pe an fiecare."
+    },
+    "question": {
+      "en": "I have a question, are you earning this money?",
+      "ro": "Am o intrebare, tu castigi banii acestia?"
+    }
+  },
+  {
+    "answer": {
+      "en": "In the first year since CodeTap's launch, all courses and mentoring were free. In the second year they were halved in price. There are no discounts for mentoring at this time. Discuss with an agent and find out about discounts for paid lessons without a mentor. Anyone can access them.",
+      "ro": " in primul an de la lansarea lui CodeTap toate cursurile si mentoratul au fost gratuite. in al doilea an au fost reduse la jumatate. in momentul acesta nu mai sunt reduceri pentru mentorat. Discuta cu un agent si afla despre reducerile pentru cursurile platite fara mentor. Oricine le poate accesa. "
+    },
+    "question": {
+      "en": "Are people accepted for training?",
+      "ro": "Se accepta oameni pentru formare?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Good question. Examples that you want to fix from website maintenance are: \"Update your email acceptance email,\" \"Price does not update when we change the delivery method,\" \"Results do not update after filtering,\" and from Creating \"Implement service provider template\", \"Implement login using Facebook, Instagram, and Tweeter,\" \"Update the menu to be mobile, tablet and desktop responsive.\" Requirements come in all shapes and colors, and you, if you choose the mentor, will enter the CodeTap team where you will solve such tasks continuously, so it will not be new to you.",
+      "ro": " Buna intrebare. Exemple ce vrei sa le rezolvi din intretinerea de website-uri sunt: ”Actualizeaza mesajul de acceptare cand se inscrie cu email-ul”, ”Pretul nu se actualizeaza cand schimbam metoda de livrare”, ”Rezultatele nu se actualizeaza dupa filtrare” iar din creare ”Implementeaza conform sablonului (design) lista prestatorilor de servicii”, ”Implementeaza autentificarea folosind contul de Facebook, Instagram si Tweeter”, ”Actualizeaza meniul sa fie adaptabil pe mobil, tableta si desktop”. Cerintele vin sub toate formele si culorile iar tu, daca alegi varianta cu mentor, vei intra in echipa CodeTap unde vei rezolva astfel de sarcini continuu, asa ca nu va fi ceva nou pentru tine."
+    },
+    "question": {
+      "en": "What is the maintenance of sites or site creation?",
+      "ro": "in ce consta intretinerea unor siteuri sau creare de siteuri?"
+    }
+  },
+  {
+    "answer": {
+      "en": "All successful students make good money and are always growing. This is I.T. when you are a PROSpeaker. Go on Gooagle and look, document yourself, and understand that I did not invent the Grail, I just open you a door to a world you never knew it existed. Among the payment methods are two warranties offered by CodeTap. One is that if you hired for less than £ 30,000 per year, CodeTap continues until you are promoted or get hired elsewhere else on a minimum of £ 30,000 or up to one year from the start date. The second is: if you make the full payment and opt to get your money back, after one year of being unsuccessful, you start to get your money back.",
+      "ro": " Asta nu e intrebare, e mai mult oful cuiva, o nelamurire. Dar hai sa o lamurim si pe asta. Ai varianta gratuita pe YouTube, nu te obliga nimeni nimeni sa dai nici un ban. Cu mentor poti sa ajungi in zece ani sa castigi mai mult sau mai putin de £1,000,000, da … ala e un milion. Fara mentor poti ajunge sa faci £200,000 - £300,000 in zece ani. ti se pare exagerat? Fa alegerea potrivita pentru tine si ignora aritmetica, cine draq a mai inventat-o si pe asta. Vezi oportunitatea in fata la fel ca zeci de elevi ce au reusit si si-au schimbat viata RADICAL (iar o iau cu aritmetica, nu … glumesc). Eu zic ca e mai simplu daca ai nelamuriri si esti tulburat, sa intri in discutie cu elevii CodeTap si sa ii intrebi pe elevi ce nedumeriri au avut inainte de a incepe, ce probleme au intampinat pe parcurs si cum au trecut peste ele si ce parere au, merita, nu merita. Eu pot sa-ti spun cu ce te ajut eu, dar mai bine ca elevii CodeTap nu-ti poate spune nimeni cum e sa fii in pielea ta."
+    },
+    "question": {
+      "en": "What guarantees do you make for this money?",
+      "ro": "8000£ pentru cursuri online cand un curs la clasa face 7000-9000 ca doctor pe an..sau mai stiu eu ce alte cursuri..la electricieni e 3400£..mi se pare exagerat.. si fara garantii"
+    }
+  },
+  {
+    "answer": {
+      "en": "Once you succeed and you hire, the first course giving you the opportunity to earn an average of £ 30,000 to £ 50,000 a year, once you have finished paying for it, you can opt for Level 2, where more or less helps you jump somewhere between £ 70,000 and £ 100,000 a year. After jumping £ 100,000 a year we can discuss Level 3, but it's a long way to beat. First you want to prove merit by doing.",
+      "ro": "        Toti elevii ce au reusit fac bani frumosi si sunt mereu in crestere. Asta e piata de I.T. cand esti PROfesionist. Da cu Gooagle si cauta, documenteaza-te, si convinge-te ca nu am inventat eu  Graalul, doar iti deschid usa catre o lume ce pana acum nici nu stiai ca exista. Printre metodele de plata sunt doua garantii oferite de CodeTap. Una este ca daca de angajezi pe mai putin de £30,000 pe an, CodeTap continua pana esti promovat sau te angajezi in alta parte pe minim £30,000 sau maxim un an de la data inceperii. A doua este: daca faci plata integral si ai optat pentru a primi banii inapoi, tu tinandu-te de treaba conform contractului, incepi sa primesti banii inapoi."
+    },
+    "question": {
+      "en": "What kind of collaboration contracts are there?",
+      "ro": "Ce garantii ai ca faci banii astia?"
+    }
+  },
+  {
+    "answer": {
+      "en": "You want to follow the course content step by step, you want to ask a lot of questions and you want to understand how everything works. You will practice from the first day and you will learn while you are doing. You want to do as many mistakes as possible to get as much experience as possible. You want to collaborate with other team members as much as possible, you want to communicate as much as possible and you want to be very careful about the mentor's guidance. Usually he will not give you the solution, but will help you identify the problem and get to the solution.",
+      "ro": "Dupa ce reusesti si te angajezi, primul curs oferindu-ti posibilitatea de a castiga in medie intre £30,000 si £50,000 pe an, o data ce s-au terminat de achitat tot, poti opta pentru Nivelul 2, unde mai mult sau mai putin te ajuta sa sari undeva intre £70,000 si £100,000 pe an. Dupa ce sari de £100,000 pe an putem discuta de Nivelul 3, insa e cale lunga de batut. Mai intai vrei sa demonstrezi meritul prin fapte."
+    },
+    "question": {
+      "en": "What do you need to do more specifically at courses?",
+      "ro": "Ce contracte de colaborare sunt pe urma?"
+    }
+  },
+  {
+    "answer": {
+      "en": "I could say they are just as hard or just as easy. There is a term called \"learning curve\", which I can describe as the required time from scratch and until you master the technology so well that someone will pay you for it. Learning curve was reduced by CodeTap in courses from 2 to 3 years to 1 to 3 months. We chose the right technologies, we designed the courses to gradually assimilate the concepts and repeat what is imported to be the master of them.",
+      "ro": " Vrei sa urmezi continutul cursurilor pas cu pas, vrei sa pui multe intrebari si vrei sa intelegi cat mai mult cum functioneaza orice. Vei face practica din prima zi si vei invata in timp ce faci. Vrei sa te lovesti de cat mai multe greseli ca sa prinzi experienta cat mai multa. Vrei sa colaborezi cat mai mult cu ceilalti membri ai echipei, vrei sa comunici cat mai mult si vrei sa fii foarte foarte atent la indrumarile mentorului. De obicei el nu iti va da solutia ci te va ajuta sa identifici problema si sa ajungi singur la solutie."
+    },
+    "question": {
+      "en": "What's the hardest, front-end or back-end developer?",
+      "ro": "Ce trebuie sa faci mai exact la cursuri?"
+    }
+  },
+  {
+    "answer": {
+      "en": "As a freelancer means that you are providing services as a web developer working from wherever you want. As far as I know, it is the second most opted for opportunity. PRO: It's very similar to being hired in what you do except you are your own boss. Most of your time is spent on small and medium-sized projects and you're aiming to get them ready within the set deadline. I could say that most of the freelancers are happy to make their own work schedule. CON: You could earn less than an employee, usually due to the lack of skills in business development and sales. You could experience stress in finding customers. You'll want to waste some of your time with paperwork.",
+      "ro": " As putea spune ca sunt la fel de grele sau la fel de usoare. Exista un termen numit ”learning curve”, ce-l pot descrie precum timpul necesar incepand de la zero si pana cand stapanesti tehnologia atat de bine astfel incat cineva sa te plateasca pentru asta. Learning curve a fost redus de CodeTap in cursuri de la 2 - 3 ani la 1 - 3 luni. Am ales tehnologiile potrivite, am conceput cursurile sa poti asimila treptat conceptele si am repetat ce e importat ca sa fii stapan pe ele."
+    },
+    "question": {
+      "en": "What does it mean to work as a Freelancer?",
+      "ro": "Care e mai grea, front-end sau back-end developer?"
+    }
+  },
+  {
+    "answer": {
+      "en": "We do not even touch Wordpress or Joomla. I do not know anyone directly or someone who knows someone else who has been very successful with these technologies. I do not know any super mega customer happy because she chose these technologies. There were times when I was surrounded by 10 or 100 people who earned over £ 100,000 a year using the technologies chosen in the CodeTap courses. All projects are written from scratch and all projects are inspired by real projects or are real projects themselves.",
+      "ro": " Ca freelancer inseamna ca presezi servicii ca programator web lucrand de oriunde vrei. Din cate stiu este pe locul doi dintre cele mai abordate oportunitati. PRO: Este foarte similar cu a fi angajat in ceea ce faci cu exceptia ca tu esti seful tau. Majoritatea timpului iei proiecte mici si mijlocii si tintesti sa le dai gata in termenul stabilit. As putea spune ca majoritatea liberilor profesionisti se bucura de a isi face singuri programul de lucru. CON: Ai putea sa castigi mai putin decat un angajat, de obicei datorita lipsei de aptitudini in dezvoltarea afacerii si vanzarii. O picatura aici sau o ploaie acolo de stres in a gasi clienti. O sa vrei sa iti pierzi timpul cu hartogaraie."
+    },
+    "question": {
+      "en": "Do you write code from scratch or work with cms like: Wordpress, Joomla?",
+      "ro": "Ce inseamna sa lucrezi ca Freelancer?"
+    }
+  },
+  {
+    "answer": {
+      "en": "Good question. On the Front End we will work with: React, Redux, Angular 2+, HTML 4/5, CSS 2/3, SEO, ECMAScript 6 (ES6 / 7,8), JavaScript, Webpack 1/2, UI Material, RxJS , TypeScript, UI, UX, D3, Jest, TDD / BDD, Chai, Mocha, SMACSS / OOCSS, Foundation, Bootstrap, AngularJS, Grunt, Gulp, Handlebars, Sass, Photoshop, Illustrator, WAI or others. On the Back End side we will work with: NodeJS, Pug / Jade, Firebase, Blockchain, MySQL, Git, Linux, Amazon AWS (S3, CloudFront), ActionScript, XML, JSON, Nginx. Among other things we will also use: Jira, Rally, Agile, Windows, Linux, Mac, DOS / CLI, Word, Excel, PowerPoint, etc. The most common ones will be: HTML, CSS, JavaScript, and ReactJS.",
+      "ro": " Nici nu ne atingem de Wordpress sau Joomla. Nu stiu pe nimeni direct sau pe cineva care sa stie pe altcineva ce a avut mare succes cu aceste tehnologii. Nu stiu nici un client super mega fericit pentru ca a ales aceste tehnologii. Au fost momente cand am fost inconjurat de 10 sau 100 de oameni ce castigau peste £100,000 pe an folosind tehnologiile alese in cursurile de pe CodeTap. Toate proiectele sunt scrise de la zero si toate proiectele sunt inspirate din proiecte reale sau sunt ele insasi proiecte reale."
+    },
+    "question": {
+      "en": "What programming language do you work in? Php?",
+      "ro": "Scrieti voi codul de la 0 sau lucrati cu cms-uri gen: Wordpress, Joomla?"
+    }
+  },
   {
     "question": {
       "en": "How much do the courses cost?",

@@ -78,7 +78,7 @@
     "babel-loader": "8.0.0-beta.3",
     "browser-sync": "^2.18.8",
     "del": "^3.0.0",
-    "eslint": "^3.16.1",
+    "eslint": "^6.6.0",
     "foldero": "^0.1.1",
     "gulp": "4.0.0",
     "gulp-cached": "^1.1.1",
